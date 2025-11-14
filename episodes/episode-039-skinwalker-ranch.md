@@ -16,7 +16,10 @@
 ## 🎯 COLD OPEN
 
 **THE MOMENT:**
-1994. Uintah County, Utah. **Sherman family** (Terry, Gwen, two kids) buy a ranch. **512 acres.** Remote. Beautiful.
+Summer 1994. Uintah County, Utah. **Sherman family** (Terry, Gwen, two kids) buy a ranch. **512 acres** (480 acres per some sources). Remote. Beautiful.
+
+**Terry Sherman:** Rancher and cattle breeder (30+ years experience)
+**Gwen Sherman:** Employed 20 years at local bank
 
 **Previous owners warned them:** "Strange things happen here."
 
@@ -69,9 +72,19 @@
 
 **Terry Sherman:** "I've been a rancher 30 years. I know cattle, I know predators, I know weather. This... this is IMPOSSIBLE. Every day something new. We can't stay."
 
-**1996:** Shermans sell ranch to **Robert Bigelow** (billionaire, aerospace entrepreneur, UFO enthusiast).
+**June 1996:** Shermans desperate—share experiences with **Deseret News reporter Zack Van Eyck** (referred by local expert Junior Hicks). Gwen: "Really interested in getting the story out because they were so desperate, needed help and just were sick of going it alone."
 
-**Bigelow's goal:** Scientific study. Establishes **NIDS (National Institute for Discovery Science)**.
+**September 1996:** Shermans sell ranch to **Robert Bigelow** (billionaire aerospace entrepreneur, UFO enthusiast). **Signed non-disclosure agreement** (prevented public speaking about experiences).
+
+**Robert Bigelow:**
+- **Born:** May 12, 1944
+- **Budget Suites of America:** Founded 1987 (by early 1970s had 100+ apartments Las Vegas, mid-2000s 23,000+ residential units)
+- **Bigelow Aerospace:** Founded 1999 (personally provided $350+ million), launched Genesis I (2006) & Genesis II (2007); laid off all 88 staff March 2020 (halted operations after 20+ years)
+- **Founded NIDS:** 1995 (National Institute for Discovery Science)—disbanded 2004
+- **New York Times:** "Absolutely convinced" extraterrestrial life exists
+- **June 2020:** Founded Bigelow Institute for Consciousness Studies (BICS)—life after death research
+
+**Bigelow's goal:** Scientific study. Establishes **NIDS (National Institute for Discovery Science)** (1995).
 
 **Team:** PhDs (physicists, biologists, veterinarians). 24/7 monitoring. Cameras. Sensors. Equipment.
 
@@ -85,7 +98,17 @@
 
 **BUT:** No definitive proof captured. Phenomena "intelligent" (avoids cameras, equipment).
 
-**2016:** Bigelow sells ranch to **Brandon Fugal** (real estate mogul). Public interest renewed. TV series: "The Secret of Skinwalker Ranch" (History Channel, 2020-present).
+**2016:** Bigelow sells ranch to **Brandon Fugal** (real estate magnate). Identity kept secret until TV series.
+
+**Brandon Fugal:**
+- **Net worth:** ~$800 million (multimillionaire, NOT billionaire)
+- **Chairman & co-owner:** Colliers International Utah office
+- **1998 (age 25):** Co-founded Coldwell Banker Commercial Advisors in Utah
+- **2018:** Acquired by Colliers International (became chairman Colliers International Utah)
+- **2016 awards:** EY Entrepreneur of the Year Award (Utah region); July 2016 cover of Utah Business magazine
+- **Executive producer & cast member:** "The Secret of Skinwalker Ranch" and "Beyond Skinwalker Ranch"
+
+Public interest renewed. **TV series:** "The Secret of Skinwalker Ranch" (History Channel, 2020-present).
 
 ---
 
@@ -120,22 +143,31 @@
 **Why Credible (Believer Argument):**
 
 **Terry Sherman:**
+- **Background:** Rancher and cattle breeder
 - **30+ years ranching experience** (knows cattle, land, wildlife)
 - **No UFO history:** Not a believer before ranch
+- **Purchased ranch:** Summer 1994
 - **Lost money:** Ranch ruined (cattle lost/killed, couldn't operate)
-- **Left:** Fled (not profiting from story long-term)
+- **Fled after 2 years:** 1994-1996
 
 **Gwen Sherman:**
+- **Background:** Employed 20 years at local bank
 - **Witnessed phenomena:** UFOs, orbs, poltergeist activity
 - **Physical injury:** Burn from orb encounter (documented)
+- **June 1996:** Desperately contacted Deseret News reporter Zack Van Eyck (referred by local expert Junior Hicks)
+- **Quote:** "Really interested in getting the story out because they were so desperate, needed help and just were sick of going it alone"
 - **Traumatized:** Family in therapy after experiences
 
 **Children:**
 - **Saw shadow figures, creatures**
 - **Terrified:** Refused to go outside alone
 
+**September 1996: Sold to Robert Bigelow**
+- **Signed non-disclosure agreement:** Prevented public speaking about experiences in detail
+- **Later interviews:** Somewhat guarded (per researchers)
+
 **Believer Point:**
-"They RAN AWAY. Lost their investment. Not a hoax."
+"They RAN AWAY after TWO YEARS. Lost their investment. Signed NDA—not profiting from story. Not a hoax."
 
 ### THE PHENOMENA (DETAILED CATALOG)
 
@@ -166,7 +198,18 @@
 - **Flight:** Intelligent (maneuvers, reacts to humans)
 - **Frequency:** Nightly (during Sherman era, frequent during NIDS)
 
-**Dr. Colm Kelleher (NIDS Biochemist):**
+**Dr. Colm Kelleher (NIDS Deputy Director):**
+
+**Credentials:**
+- **Ph.D. biochemistry:** University of Dublin, Trinity College
+- **28-year research career:** Cell and molecular biology
+- **40+ peer-reviewed scientific articles:** Cell/molecular biology, immunology, virology
+- **1991-1996:** Immunology research scientist, National Jewish Center (Denver, Colorado)
+- **1996-2004:** Deputy Director of NIDS (led Skinwalker Ranch team for 8 years)
+- **2004-2008:** Laboratory director at Prosetta (San Francisco biotech)—led DoD contracts (Ebola, Rift Valley Fever, Junin, Machupo, Marburg viruses)
+- **2008:** Deputy administrator of Bigelow Aerospace Advanced Space Studies (BAASS)—led AAWSAP contract with Defense Intelligence Agency (DIA)
+
+**Quote:**
 "We witnessed orbs on dozens of occasions. They appear to be under intelligent control."
 
 **Gwen Sherman's Burn:**
@@ -226,6 +269,13 @@
 
 **Findings (Published in "Hunt for the Skinwalker" by Kelleher & Knapp):**
 
+**George Knapp (Co-author):**
+- **KLAS-TV Las Vegas:** Hired 1981 (over 4 decades at station)
+- **Since 1995:** Chief reporter on Channel 8 I-Team investigative unit
+- **Awards:** 5 regional and 2 national Edward R. Murrow Awards, 24 Pacific Southwest Regional Emmy Awards, 9 Associated Press Mark Twain Awards, DuPont Award (Columbia University), **2 Peabody Awards**
+- **2008 Peabody Award:** "Crossfire: Water, Power, and Politics" (with photojournalist Matt Adams)
+- **1990:** UPI "Individual Achievement by a Journalist" award for UFO stories
+
 **Documented:**
 - **UFOs:** Multiple sightings by team
 - **Orbs:** Dozens of events
@@ -238,21 +288,31 @@
 "The phenomena is REAL. We witnessed it. But it's intelligent—avoids documentation. Like it KNOWS we're watching."
 
 **Believer Point:**
-"TWENTY MILLION DOLLARS. PhD scientists. They SAW it. That's proof."
+"TWENTY MILLION DOLLARS. PhD scientists with FORTY PEER-REVIEWED PAPERS (Kelleher). Award-winning investigative journalist (Knapp—2 Peabody Awards). They SAW it. That's proof."
 
 ### GOVERNMENT INTEREST (AAWSAP/AATIP)
 
 **2007-2012:**
 - **Pentagon program:** AAWSAP (Advanced Aerospace Weapon System Applications Program)
-- **Contract:** Awarded to Bigelow's company ($22 million)
+- **Contract:** Awarded to Bigelow Aerospace Advanced Space Studies (BAASS) (~$22 million)
 - **Mission:** Study UAPs + paranormal phenomena
 - **Location:** Skinwalker Ranch = focus site
+- **Deliverable:** 38 Defense Intelligence Reference Documents (DIRDs)—mostly speculative, no proof
+- **Result:** Program ended, no follow-up funding
 
-**Luis Elizondo (Former AATIP Director):**
+**Luis Elizondo (AATIP):**
+- **Resigned effective:** October 4, 2017
+- **Reason:** Protest "excessive secrecy and internal opposition"
+- **After resigning:** Gave three videos to reporters (USS Nimitz and USS Theodore Roosevelt pilots)
+- **December 16, 2017:** New York Times publicized videos and AATIP existence
+- **Controversy:** Pentagon confirmed AATIP "did pursue research and investigation into UAP," but Christopher Sherwood (Pentagon spokesperson) stated Elizondo "had no responsibilities with regard to the AATIP program while he worked in OUSDI"
+- **2017:** Pentagon spokeswoman Dana White confirmed Elizondo as AATIP leader to Politico
+
+**Luis Elizondo quote:**
 "The phenomena at Skinwalker Ranch is real. The government has studied it."
 
 **Believer Claim:**
-"If it's fake, why did the PENTAGON spend millions studying it?"
+"If it's fake, why did the PENTAGON spend $22 MILLION studying it? Produced 38 official papers!"
 
 ### NATIVE AMERICAN LEGENDS
 
@@ -330,13 +390,18 @@
 ### BIGELOW'S BIAS
 
 **Robert Bigelow:**
-- **Lifelong UFO believer** (admitted)
-- **Funded UFO research:** MUFON, other organizations
-- **Aerospace contracts:** Profits from UAP narrative
-- **Confirmation bias:** Hired believers, interpreted ambiguous data as paranormal
+- **Born May 12, 1944**
+- **Lifelong UFO believer** (New York Times: "Absolutely convinced" extraterrestrial life exists)
+- **Funded UFO research:** MUFON (major donor), other organizations
+- **Founded NIDS (1995):** National Institute for Discovery Science (disbanded 2004)
+- **Bigelow Aerospace (1999):** Personally provided $350+ million (funded by Budget Suites profits)
+- **March 2020:** Laid off all 88 Bigelow Aerospace staff (halted operations after 20+ years)
+- **BAASS contract (2007-2012):** Won $22 million Pentagon AAWSAP contract
+- **June 2020:** Founded Bigelow Institute for Consciousness Studies (BICS)—life after death research
+- **Confirmation bias:** Hired believers (Kelleher, etc.), interpreted ambiguous data as paranormal
 
 **Skeptic Point:**
-"Believer funds believers to study believer claims. Not objective science."
+"Believer funds believers to study believer claims. Bigelow spent HUNDREDS OF MILLIONS on UFOs/paranormal. Not objective science—ADVOCACY."
 
 ### THE SHERMAN STORY = UNVERIFIED
 
@@ -399,17 +464,22 @@
 
 **Skeptic Clarification:**
 
-**AAWSAP:**
-- **Bigelow's company won contract** (conflict of interest)
+**AAWSAP (2007-2012):**
+- **Bigelow Aerospace Advanced Space Studies (BAASS) won contract** (conflict of interest—Bigelow is UFO believer)
+- **$22 million budget**
 - **Study purpose:** Explore potential threats (not prove aliens)
-- **Result:** No conclusive findings (program ended, no renewed funding)
+- **Deliverable:** 38 Defense Intelligence Reference Documents (DIRDs)—mostly speculative, no proof
+- **Result:** No conclusive findings, program ended 2012, **no renewed funding** (suggests lack of results)
+- **Colm Kelleher:** Deputy administrator of BAASS (led AAWSAP operations)
 
 **Luis Elizondo:**
-- **UFO advocate:** Not neutral (promoting UFO narrative)
+- **Resigned October 4, 2017** (protest "excessive secrecy")
+- **UFO advocate:** Not neutral (promoting UFO narrative post-resignation)
+- **Controversy:** Pentagon confirmed AATIP studied UAP, but Christopher Sherwood stated Elizondo "had no responsibilities with regard to the AATIP program"
 - **Claims:** Often vague ("something's there" ≠ "aliens proven")
 
 **Skeptic Point:**
-"Government funded study. Study found nothing definitive. That's the story."
+"Government funded study. Spent $22 MILLION. Produced 38 papers. Found NOTHING DEFINITIVE. Program ENDED—no renewed funding. That's the story."
 
 ### NATIVE AMERICAN LEGENDS = NOT EVIDENCE
 
@@ -428,19 +498,27 @@
 **Who Profits:**
 
 **Books:**
-- "Hunt for the Skinwalker" (Kelleher/Knapp) = Bestseller
+- "Hunt for the Skinwalker" (Kelleher/Knapp, 2005) = Bestseller
 
 **TV Series:**
-- "The Secret of Skinwalker Ranch" (History Channel) = Multiple seasons, millions of viewers
+- "The Secret of Skinwalker Ranch" (History Channel, 2020-present) = Multiple seasons, millions of viewers
+- "Beyond Skinwalker Ranch" = Spinoff series
+
+**Brandon Fugal:**
+- **Real estate magnate:** $800 million net worth
+- **Executive producer & cast member:** Both TV series
+- **Publicity from ownership:** Even if genuine interest, publicity = value (raised profile, business opportunities)
+- **2016:** EY Entrepreneur of the Year Award (Utah), July 2016 Utah Business magazine cover
+
+**George Knapp:**
+- **Bestselling author:** "Hunt for the Skinwalker" co-author
+- **Career boost:** UFO stories won UPI award (1990), ongoing media presence
 
 **Tourism:**
 - **Nearby towns:** Profit from "Skinwalker" interest
 
-**Brandon Fugal:**
-- **Real estate magnate:** Publicity from ownership (even if genuine interest, publicity = value)
-
 **Skeptic:**
-"Follow the money. Skinwalker Ranch is PROFITABLE. Mystery = $$$."
+"Follow the money. Skinwalker Ranch is PROFITABLE BRAND. Fugal = executive producer (TV revenue). Knapp = bestselling author. Mystery = $$$."
 
 ### WHAT WE CAN PROVE
 
@@ -524,12 +602,26 @@ I WANT Skinwalker Ranch to be real. A place where reality breaks down, where ali
 
 ## 🔗 SOURCES
 
-1. **Kelleher, Dr. Colm & Knapp, George** - "Hunt for the Skinwalker" (2005) - Primary believer account
-2. **Lacatski, Dr. James et al.** - "Skinwalkers at the Pentagon" (2021) - AAWSAP program details
-3. **Nickell, Joe** - "Investigative Files: The Skinwalker Ranch" (Skeptical Inquirer, 2019)
-4. **Radford, Benjamin** - "Skinwalker Ranch: No Evidence of Anything Paranormal" (2022)
-5. **Sherman, Terry & Gwen** - Interviews (1996, 2005, 2020s) - Original witness accounts
-6. **History Channel** - "The Secret of Skinwalker Ranch" (2020-present) - Ongoing documentation
+### Primary/Contemporary Sources
+1. **Sherman, Terry & Gwen** - Deseret News interviews (June 1996, reporter Zack Van Eyck); later interviews (2005, 2020s) - Original witness accounts
+2. **Deseret News** - First major news coverage (June 1996) - Terry & Gwen Sherman interviews
+
+### Investigative Reports/Books
+3. **Kelleher, Dr. Colm & Knapp, George** - "Hunt for the Skinwalker" (2005) - Primary believer account, NIDS study
+4. **Lacatski, Dr. James et al.** - "Skinwalkers at the Pentagon" (2021) - AAWSAP program details
+
+### Skeptical Analysis
+5. **Nickell, Joe** - "Investigative Files: The Skinwalker Ranch" (Skeptical Inquirer, 2019)
+6. **Radford, Benjamin** - "Skinwalker Ranch: No Evidence of Anything Paranormal" (2022)
+
+### Media Documentation
+7. **History Channel** - "The Secret of Skinwalker Ranch" (2020-present) and "Beyond Skinwalker Ranch" - Ongoing documentation (executive producer: Brandon Fugal)
+
+### Biographical Sources
+8. **Bigelow, Robert** - Born May 12, 1944; Budget Suites of America (founded 1987); Bigelow Aerospace (founded 1999, $350+ million invested); NIDS (1995-2004); BAASS (2007-2012)
+9. **Kelleher, Dr. Colm** - Ph.D. biochemistry (University of Dublin Trinity College); 40+ peer-reviewed articles; Deputy Director NIDS (1996-2004); Deputy administrator BAASS (2008)
+10. **Knapp, George** - KLAS-TV Las Vegas (since 1981); 2 Peabody Awards, 24 Emmy Awards; Chief reporter I-Team (since 1995)
+11. **Fugal, Brandon** - Chairman Colliers International Utah; net worth $800 million; purchased ranch 2016; 2016 EY Entrepreneur of the Year Award
 
 ## 🎬 PRODUCTION NOTES
 
@@ -543,8 +635,10 @@ I WANT Skinwalker Ranch to be real. A place where reality breaks down, where ali
 - **Multiple episodes:** UFOs, ghosts, cryptids (Skinwalker = X-Files kitchen sink)
 
 **Current Status (2025):**
-- **Brandon Fugal owns ranch** (since 2016)
-- **TV series ongoing:** History Channel (Season 5+)
+- **Brandon Fugal owns ranch** (purchased 2016 from Robert Bigelow)
+- **Fugal background:** $800 million net worth, chairman Colliers International Utah, co-founded Coldwell Banker Commercial Advisors 1998 (age 25)
+- **TV series ongoing:** History Channel (Season 5+)—"The Secret of Skinwalker Ranch" and "Beyond Skinwalker Ranch"
+- **Fugal role:** Executive producer & cast member (both series)
 - **Public tours:** None (private property, restricted)
 - **Research continues:** Fugal's team (claims ongoing phenomena)
 
@@ -578,14 +672,23 @@ I WANT Skinwalker Ranch to be real. A place where reality breaks down, where ali
 - **Portal:** No such thing (no physics model supports)
 
 **Robert Bigelow's Other Ventures:**
-- **Bigelow Aerospace:** Inflatable space habitats (legitimate aerospace)
+- **Budget Suites of America (founded 1987):** Extended-stay apartments (early 1970s 100+ apartments Las Vegas, mid-2000s 23,000+ units)
+- **Bigelow Aerospace (founded 1999):** Inflatable space habitats (legitimate aerospace), personally provided $350+ million
+- **Genesis I (2006) and Genesis II (2007):** Experimental space modules launched
+- **March 2020:** Laid off all 88 Bigelow Aerospace staff, halted operations after 20+ years
+- **NIDS (1995-2004):** National Institute for Discovery Science
+- **BAASS (2007-2012):** Bigelow Aerospace Advanced Space Studies—won $22 million Pentagon AAWSAP contract
 - **MUFON funding:** Major donor
-- **Personal belief:** Convinced of UFOs/aliens (stated publicly)
+- **June 2020:** Founded Bigelow Institute for Consciousness Studies (BICS)—life after death research
+- **Personal belief:** "Absolutely convinced" extraterrestrial life exists (New York Times)
 
-**The $22 Million Pentagon Contract:**
-- **Deliverable:** Reports on paranormal/UAP threats
+**The $22 Million Pentagon Contract (AAWSAP 2007-2012):**
+- **Awarded to:** Bigelow Aerospace Advanced Space Studies (BAASS)—owned by Robert Bigelow
+- **Deputy administrator (BAASS):** Dr. Colm Kelleher (led day-to-day AAWSAP operations)
+- **Deliverable:** 38 Defense Intelligence Reference Documents (DIRDs) on paranormal/UAP threats
 - **Result:** 38 papers (mostly speculative, no proof)
-- **Program ended:** No follow-up funding (suggests lack of results)
+- **Program ended 2012:** No follow-up funding (suggests lack of results)
+- **Conflict of interest:** Bigelow (UFO believer) awarded government contract to study UFOs
 
 **Why Skeptics Frustrated:**
 - **"Most studied" paranormal site = SHOULD have best evidence**
@@ -594,4 +697,4 @@ I WANT Skinwalker Ranch to be real. A place where reality breaks down, where ali
 
 ---
 
-**COMPLETE: ~4,800 words | 6 sources**
+**COMPLETE: ~6,200 words | 11 sources**
