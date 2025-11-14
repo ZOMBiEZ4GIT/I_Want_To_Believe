@@ -248,3 +248,309 @@ Started: 2025-11-14
 
 ---
 
+## Episode 006: Cattle Mutilations - Precision Surgery or Predator Feast?
+
+**Status:** ✅ Enhanced
+
+**Added Sources:** 8 new sources (from 5 to 13 total)
+
+**Enhanced Sections:**
+- Famous Cases - "Lady"/Snippy: Comprehensive expansion (September 9, 1967, Agnes King age 87, name confusion - actually "Lady" not "Snippy", radiation claims, UFO sightings)
+- Famous Cases - "Lady"/Snippy: Added Judge Charles E. Bennett UFO sighting (three reddish-orange rings in triangular formation, humming sound)
+- Famous Cases - "Lady"/Snippy: Legacy details (skeleton obtained by UFO Watchtower tourist attraction in 2021)
+- Famous Cases - Colorado Wave: Scale details (April-October 1975, #1 news story of 1975 per Colorado Associated Press, 203 investigated cases)
+- Famous Cases - Colorado Wave: Governor Richard D. Lamm comprehensive response (quote "one of the greatest outrages in the history of the Western cattle industry")
+- Famous Cases - Colorado Wave: October 1, 1975 Brush Livestock Exchange meeting (75 ranchers, Lamm assurance)
+- Famous Cases - Colorado Wave: CBI investigation details (Carl Whiteside leadership, 19 necropsies at CSU, $40,000 reward)
+- Famous Cases - Colorado Wave: Senator Floyd Haskell federal appeal to FBI (nine states affected, comprehensive letter quote)
+- Believer's Case - Linda Moulton Howe: Stanford education background, examined over 1,000 cases worldwide
+- Believer's Case - Linda Moulton Howe: "A Strange Harvest" comprehensive details (May 1980 KMGH-TV Denver, Regional Emmy Award, hour-long documentary)
+- Believer's Case - Linda Moulton Howe: Career scope (books, documentaries, speaking tours, website, multi-decade mystery industry)
+- Skeptic's Response - FBI Investigation: Comprehensive "Operation Animal Mutilation" details (Kenneth Rommel 28-year FBI veteran, counter-intelligence/major crimes specialist)
+- Skeptic's Response - FBI Investigation: Funding and timeline (May 1979 start, $44,170 LEAA grant, five objectives listed)
+- Skeptic's Response - FBI Investigation: 297-page report details (June 1980 release, acknowledged 10,000 cattle estimate, conclusion of natural predation)
+- Skeptic's Response - FBI Investigation: Criticism (RCMP Corporal Lyn Lauber quote about Rommel never witnessing real mutilation firsthand)
+- Skeptic's Response - FBI Investigation: FOIA availability note
+- Skeptic's Response - Colorado Study: 19 necropsies at CSU detail, CBI Carl Whiteside leadership
+- Skeptic's Response: NEW Washington County Sheriff's Department Controlled Experiment (euthanized heifer, 24/7 surveillance, 30-hour timeline)
+- Skeptic's Response: Experiment results (exact mutilation conditions reproduced, blowflies/maggots, 48-hour bloating creating "surgical" cuts, proof only scavengers touched cow)
+- Skeptic's Response: NEW peer-reviewed scientific studies (Alberta Study, scavenging conclusion, veterinary pathologist necropsies)
+- Debunking Claims - "Surgical Precision": Washington County Experiment proof (natural bloating/blowflies/maggots created identical appearance to "surgical" cuts)
+- Debunking Claims - "Surgical Precision": Coyote behavior details (bite-and-pull creating straight-line cuts, bite marks visible on close examination)
+- Debunking Claims - "Surgical Precision": Scavenger targeting explanation (foxes/coyotes/vultures target easiest soft meat: tongue, anus, eyes)
+- Sources: Complete reorganization into Primary Sources and Secondary Sources
+- Sources: Added 8 new sources (Rommel report, FBI Vault files, CBI report, Haskell letter, Washington County experiment, Alberta study, Denver Public Library archive, Encyclopedia.com)
+
+**Key Findings:**
+- "Lady" the horse found September 9, 1967 near Alamosa, Colorado by Agnes King (87) and son Harry - not named "Snippy" (media error; Snippy was the sire)
+- Geiger counter allegedly showed high radiation; U.S. Forest Service ranger claimed area "highly radioactive"
+- Superior Court Judge Charles E. Bennett and wife reported three reddish-orange rings in triangular formation with humming sound
+- First case to speculate extraterrestrial involvement in animal mutilations; skeleton now at UFO Watchtower tourist attraction
+- Colorado 1975 wave: April-October nearly 200 cases, voted #1 news story of 1975 by Colorado Associated Press
+- By December 1975, CBI investigated 203 reports
+- Governor Richard D. Lamm called it "one of the greatest outrages in the history of the Western cattle industry"
+- October 1, 1975: Lamm met 75 ranchers at Brush Livestock Exchange, assured "doing all we can"
+- CBI investigation: Carl Whiteside led, 19 necropsies at Colorado State University, $40,000 reward offered
+- Senator Floyd Haskell appealed to FBI Denver office in 1975, noted nine states affected
+- Linda Moulton Howe: Stanford-educated filmmaker/science reporter, examined over 1,000 mutilation cases worldwide
+- "A Strange Harvest" first broadcast May 1980 on KMGH-TV Denver, won Regional Emmy Award for Outstanding Documentary
+- Howe's career built on mutilation mystery: books, documentaries, speaking tours, website
+- Kenneth Rommel: 28-year FBI veteran specializing in counter-intelligence and major crimes (bank robbery)
+- Operation Animal Mutilation began May 1979, funded by $44,170 LEAA grant
+- Rommel's 297-page report released June 1980: acknowledged 10,000 cattle estimate, concluded natural predation
+- RCMP Corporal Lyn Lauber criticized: "difficult to understand how Rommel could make statement...without ever having personally witnessed a [real] mutilation firsthand"
+- Washington County Sheriff's Department controlled experiment: euthanized heifer watched 24/7, after 30 hours showed exact mutilation conditions
+- Experiment proved only scavengers touched cow (no human/alien intervention)
+- Blowflies laid eggs in soft tissues within hours; maggots created wounds looking like surgical cuts
+- 48-hour bloating caused incision-like tears in skin matching "surgical" cuts reported in mutilations
+- Alberta peer-reviewed study concluded cattle "mutilation" due to scavenging; claims of human involvement require first excluding post-mortem scavenging
+- Coyote behavior: bite-and-pull leaves apparent straight-line cuts with small bite marks on close examination
+- Foxes/coyotes/vultures target easiest soft meat first: tongue, anus, eyes (explaining "precision" of same organs)
+
+**Word Count:** ~1,850 → 2,442 (increase of ~592 words)
+
+**Research Time:** ~30 minutes
+
+---
+
+## Episode 007: The Travis Walton Abduction - Five Days Gone
+
+**Status:** ✅ Enhanced
+
+**Added Sources:** 9 new sources (from 5 to 14 total)
+
+**Enhanced Sections:**
+- Witnesses - Crew Members: Added full seven-man crew roster with names and ages (Mike Rogers 28, Ken Peterson, John Goulette, Steve Pierce, Allen Dalis, Dwayne Smith, Travis Walton 22)
+- Witnesses - Polygraph Details: Comprehensive November 11, 1975 C.E. Gilson testing details (five passed, Allen Dalis inconclusive)
+- Witnesses - Allen Dalis: Detailed explanation of inconclusive result (abandoned test halfway, worried about exposing prior criminal conviction lie, had disagreements with Travis)
+- Skeptic's Response - Polygraphs: COMPLETE REWRITE revealing "The Cover-Up"
+- Skeptic's Response - Secret Failed Test: NEW comprehensive section on November 15, 1975 John J. McCarthy polygraph test
+- Skeptic's Response - McCarthy Details: 20 years experience, director of Arizona Polygraph Laboratory, "GROSS DECEPTION" conclusion
+- Skeptic's Response - McCarthy Findings: Walton "attempting to perpetrate a UFO hoax", tried to distort respiration pattern to deceive examiner
+- Skeptic's Response - The Cover-Up: National Enquirer and APRO kept test secret, McCarthy ordered not to speak
+- Skeptic's Response - Philip Klass Revelation: Chairman of CSICOP's UFO Subcommittee revealed cover-up June 1976
+- Skeptic's Response - APRO Deception: Published November 1975 newsletter with NO mention of failed November 15 test
+- Skeptic's Response - Later "Passed" Test: Klass discovered Walton dictated questions he wanted to be asked, examiner complied
+- Skeptic's Response - Forestry Contract: COMPLETE REWRITE with "$2,500 Penalty" subtitle
+- Skeptic's Response - Contract Details: Won by underbidding two contractors, thin 1,277 acres at Turkey Springs, August 1975 deadline extended to November 10
+- Skeptic's Response - Financial Pressure: October 16 inspector visit, "could not possibly be completed", $2,500 fine + disqualification from future Forest Service contracts
+- Skeptic's Response - Rogers Letter: October 20, 1975 "I cannot honestly say whether or not we will finish on time"
+- Skeptic's Response - Timing: Incident November 5, 1975 - just 5 days before deadline
+- Skeptic's Response - Hypnosis: NEW comprehensive "Dr. James Harder" details
+- Skeptic's Response - Harder Background: Director of Research for APRO 1969-1982, UC Berkeley professor, 50+ years studying UFOs
+- Skeptic's Response - Hypnosis Results: Travis provided NO more details under hypnosis than conscious recall, declined when Harder probed deeper, expressed "fear for his life"
+- Sources: Complete reorganization into Primary Sources and Secondary Sources
+- Sources: Added 9 new sources (McCarthy polygraph report, Gilson polygraph, Forest Service contracts/reports, Rogers letter, Klass newsletter, APRO reports, National Enquirer, Wikipedia, Michael Shermer)
+
+**Key Findings:**
+- Seven-man crew: Mike Rogers (28, foreman), Ken Peterson, John Goulette, Steve Pierce, Allen Dalis, Dwayne Smith, Travis Walton (22)
+- November 11, 1975: C.E. Gilson (Arizona DPS) polygraphed six crew members to determine if they murdered Travis
+- Five crew members passed polygraph; Allen Dalis "inconclusive" - abandoned test halfway through
+- Dalis worried about exposing lie about prior criminal conviction to get job with Rogers
+- November 15, 1975: John J. McCarthy administered secret polygraph to Travis Walton
+- McCarthy: 20 years experience, director of Arizona Polygraph Laboratory, one of most respected examiners in Arizona
+- McCarthy's conclusion: "GROSS DECEPTION" - Walton "attempting to perpetrate a UFO hoax, and that he has not been on any spacecraft"
+- McCarthy reported Walton "tried unsuccessfully to distort his respiration pattern in an attempt to deceive the examiner"
+- National Enquirer and APRO kept this failed test SECRET; McCarthy ordered never to speak about it
+- Philip J. Klass (CSICOP UFO Subcommittee chairman) revealed cover-up in June 1976
+- APRO published full account in November 1975 newsletter with NO mention of failed November 15 test
+- For later "passed" test: Klass discovered Travis Walton dictated the questions he wanted to be asked, examiner complied
+- Mike Rogers won Forest Service contract by underbidding two other contractors
+- Contract: Thin 1,277 acres at Turkey Springs in Apache-Sitgreaves National Forest, original deadline August 1975, extended to November 10
+- October 16, 1975: Forest Service inspector concluded job could not possibly be completed by deadline
+- Penalty for failure: $2,500 fine + disqualification from bidding on future Forest Service contracts
+- October 20, 1975: Rogers wrote contracting officer "I cannot honestly say whether or not we will finish on time"
+- November 5, 1975: Travis Walton "abduction" occurred - just 5 days before November 10 deadline
+- Dr. James Harder: Director of Research for APRO 1969-1982, UC Berkeley professor, studied UFOs 50+ years
+- Harder administered regressive hypnosis to Travis shortly after he reappeared
+- Critical finding: Under hypnosis, Travis provided NO more details than conscious recall
+- When Harder probed for more depth, Travis declined, expressing "fear for his life"
+
+**Word Count:** ~2,100 → 2,495 (increase of ~395 words)
+
+**Research Time:** ~30 minutes
+
+---
+
+## Episode 008: War of the Worlds - The Night Radio Became Reality
+
+**Status:** ✅ Enhanced
+
+**Added Sources:** 9 new sources (from 5 to 14 total)
+
+**Enhanced Sections:**
+- The Broadcast: NEW comprehensive "Howard Koch's Writing Process" subsection
+- Howard Koch Details: Hired at $50/week (later $60), only 6 days to write script
+- Koch's Crisis: October 25, 1938 (36 hours before rehearsal) called Houseman in "deep distress", said couldn't make it interesting/credible
+- Writing Process: Houseman joined Koch and secretary Anne Froelick, worked through night, finished first draft October 26
+- Adaptation Choices: Changed 19th-century England to 20th-century US, selected Grovers Mill NJ by randomly dropping pencil on map, "liked the sound" of name
+- Format Innovation: First two-thirds as simulated live newscast with bulletins interrupting dance music
+- Famous Anecdotes - Grovers Mill: MASSIVELY expanded with detailed investigation
+- Grovers Mill - Water Tower: Old wooden water tower allegedly shot, but story disputed
+- Grovers Mill - William Dock: 76-year-old farmer grabbed shotgun but "didn't see anybody he thought needed shooting"
+- Grovers Mill - LIFE Magazine: Photo of Dock with shotgun taken "next day in bright sunlight", not during panic
+- Grovers Mill - Geographic Reality: Paul Ligeti quote about farmland, few trees, mile-long view, "all anyone had to do was look out window"
+- Grovers Mill - Who Panicked: Citizens remained calm, people driving into town panicked
+- FCC Investigation: COMPLETE NEW section with comprehensive details
+- FCC - Complaint Letters: Many writers asked FCC chairman Frank P. McNinch to stop Mercury Theatre, punish Welles
+- FCC - Paul Morton Letter: Trenton City Manager reported broadcast "completely crippled communication facilities of police department for about 3 hours"
+- FCC - Investigation Timeline: Concluded December 5, 1938 (5 weeks after broadcast)
+- FCC - Outcome: NO punitive action, found no law broken, barred complaints from license renewals
+- FCC - Voluntary Agreement: CBS promised to avoid simulated newscasts
+- FCC - Lawsuits: Many filed, none resulted in damages
+- The Panic Was Exaggerated: Enhanced with C.E. Hooper ratings (only 2% of households listening)
+- Hadley Cantril Study: Comprehensive details about 1940 publication, Rockefeller Foundation funding
+- Cantril Methodology: 135 interviews in NJ, national survey ~1,000, CBS surveys by Roper/Gallup
+- Cantril Statistics: 6 million heard, 1.7 million thought news, 1.2 million "frightened"
+- Cantril Criticism: C.E. Hooper found only 2%, AIPO survey "over 100% higher" than other measures, categorical error conflating "frightened/disturbed/excited" with "panicked"
+- Newspaper Competition: NEW comprehensive "Press-Radio War" context
+- Press-Radio War: 1933-1935 newspapers fought emerging radio networks
+- 1938 Context: Radio siphoned advertising revenue during Depression, badly damaged newspaper industry
+- Newspaper Strategy: Exaggerated rare fear/confusion cases to play up "nationwide panic", prove radio irresponsible
+- Sources: Complete reorganization into Primary and Secondary Sources
+- Sources: Added 9 new sources (Koch script, Cantril study, FCC files, Morton letter, Hooper ratings, newspaper archives, various historical analyses)
+
+**Key Findings:**
+- Howard Koch hired at $50/week (later $60) to write Mercury Theatre scripts
+- Koch had only 6 days to write War of the Worlds script
+- October 25, 1938 (36 hours before rehearsal): Koch called Houseman in "deep distress", said couldn't make it interesting or credible
+- Houseman joined Koch and secretary Anne Froelick, worked through night, finished first draft October 26, 1938
+- Koch changed setting from 19th-century England to 20th-century United States
+- Grovers Mill, New Jersey selected by randomly dropping pencil point on map; Koch "liked the sound" of name
+- Format innovation: First two-thirds as simulated live newscast with news bulletins interrupting dance music
+- C.E. Hooper ratings service found only 2% of households listening (98% listening to something else or nothing)
+- Hadley Cantril's "Invasion from Mars: A Study in the Psychology of Panic" (Princeton University Press, 1940)
+- Cantril funding: Rockefeller Foundation; methodology: 135 NJ interviews + national survey ~1,000 + CBS surveys
+- Cantril statistics: 6 million heard, 1.7 million thought news, 1.2 million "frightened"
+- Modern criticism: Cantril's AIPO survey gave audience rating "over 100% higher" than any other measure
+- Cantril's categorical error: Conflated "frightened/disturbed/excited" with "panicked"
+- Most panic occurred AFTER broadcast when people heard about "panic" in news
+- Water tower legend: Old wooden water tower allegedly shot by nervous residents, but story disputed
+- William Dock (76-year-old farmer): Grabbed shotgun, but "didn't see anybody he thought needed shooting"
+- LIFE magazine published photo of Dock with shotgun as if during panic—actually taken next day in bright sunlight
+- Paul Ligeti (Historical Society of West Windsor): Area "almost all farmland...only few trees...view more than mile. All anyone had to do was look out window and see nothing going on"
+- Citizens of Grovers Mill remained calm; people driving into town to fight Martians panicked
+- Press-Radio War 1933-1935: Newspapers fought emerging radio networks for dominance
+- 1938: Radio siphoned advertising revenue from newspapers during Depression, badly damaged newspaper industry
+- Newspapers exaggerated rare fear/confusion cases to play up "nationwide panic", discredit radio as irresponsible
+- Strategy: Prove to advertisers and regulators that radio management was dangerous
+- FCC investigation: Many writers asked chairman Frank P. McNinch to stop Mercury Theatre, punish Welles
+- Paul Morton (Trenton City Manager) wrote FCC: Broadcast "completely crippled communication facilities of our police department for about 3 hours"
+- FCC investigation concluded December 5, 1938 (5 weeks after broadcast)
+- Outcome: FCC took NO punitive action, found no law was broken
+- FCC barred complaints about War of the Worlds from being brought up during license renewals
+- CBS voluntarily promised to avoid dramatized, simulated newscasts in future
+- Many lawsuits filed against Welles and CBS; none resulted in payment of damages
+
+**Word Count:** ~1,800 → 2,276 (increase of ~476 words)
+
+**Research Time:** ~30 minutes
+
+---
+
+## Episode 009: Bob Lazar & Area 51's S-4 - The Whistleblower Who Changed Everything
+
+**Status:** ✅ Enhanced
+
+**Added Sources:** 8 new sources (from 6 to 14 total)
+
+**Enhanced Sections:**
+- How He Got the Job: COMPLETE REWRITE with detailed Kirk-Mayer contractor information
+- Los Alamos Employment: Truth revealed - technician for Kirk-Mayer contractor, NOT physicist
+- Los Alamos Details: 1982 phone directory "K/M" designation, May 18 1982 start date, Kirk-Mayer (formerly Rol-Tec) only hired technicians
+- Edward Teller Connection: Comprehensive June 1982 meeting details (newspaper article about jet car, Teller's phone response, EG&G interview)
+- Edward Teller's Later Denial: NEW section - "did just about everything to distance himself", visibly uncomfortable in interview, refused to discuss Lazar
+- Element 115 "Prediction": Enhanced with comprehensive Moscovium discovery details
+- Moscovium Discovery: JINR Dubna Russia 2003, bombarded americium-243 with calcium-48, IUPAC recognition Dec 30 2015, official naming Nov 28 2016
+- George Knapp Credibility: MASSIVELY expanded with comprehensive awards list
+- George Knapp Details: KLAS-TV Channel 8, May 1989 "Dennis" interview, November 1989 real name reveal
+- George Knapp Awards: 5 regional + 2 national Edward R. Murrow, 24 Pacific Southwest Regional Emmys, 9 AP Mark Twain, DuPont, 2 Peabody, 1990 UPI Individual Achievement
+- George Knapp Impact: "Catapulted Area 51 into public consciousness"
+- Element 115 Reality: COMPLETE NEW section debunking stability claims
+- Moscovium Isotopes: Mc-287 to Mc-290 all extremely radioactive
+- Moscovium Half-Life: Mc-290 most stable at 650 milliseconds, Mc-289 at 250 milliseconds
+- Lazar's Claim vs Reality: Claimed stable isotope, NO stable isotope exists, decays in fractions of seconds
+- Stanton Friedman Investigation: MASSIVELY expanded with comprehensive 1997/2011 investigation details
+- Friedman Background: Nuclear physicist, pro-UFO researcher who exposed Lazar as fraud
+- Friedman Findings: No diplomas/transcripts/yearbooks, checked all four schools Lazar mentioned
+- "Bill Duxler" Professor Mix-up: NEW comprehensive section - Duxler at Pierce JC not Caltech, Lazar registered at Pierce SAME TIME as supposedly at MIT
+- High School Records: August graduation (not with class), chemistry only science course, rank 261/369 (bottom third)
+- Vague Memory: Lazar's "Let me see now, I think it was probably 1982" response about MIT MS
+- Los Alamos Problem: Enhanced with "K/M" designation proof
+- Los Alamos Verification: Stanton Friedman: "K/M proves he did NOT work for LANL, but for subcontractor", Kirk-Mayer company only hired technicians
+- Sources: Complete reorganization into Primary and Secondary Sources
+- Sources: Added 8 new sources (LANL phone directory/records, high school records, Friedman investigations, IUPAC, JINR, scientific journals, Black Vault)
+
+**Key Findings:**
+- Bob Lazar appeared in 1982 Los Alamos phone directory with "K/M" (Kirk-Mayer) designation
+- Stanton Friedman: "K/M designation proves he did NOT work for LANL, but for a subcontractor"
+- Los Alamos verified Lazar began work May 18, 1982 as technician for Kirk-Mayer contractor, NOT physicist
+- Kirk-Mayer (formerly Rol-Tec) was contractor company that appears to have only hired technicians
+- June 1982: Lazar met Edward Teller at Los Alamos; Teller reading newspaper about Lazar's jet car project
+- Teller responded by phone, worked in consultant capacity, gave Lazar name to call in Las Vegas
+- Someone from EG&G called Lazar for interview
+- When story went public 1989: Teller "did just about everything he could to distance himself" from Lazar
+- Teller appeared visibly uncomfortable when asked about Lazar, refused to discuss connection
+- Element 115 (Moscovium) first synthesized 2003 by Russian-American team at JINR Dubna, Russia
+- Method: Bombarded americium-243 with calcium-48 ions, produced four atoms
+- IUPAC recognized discovery December 30, 2015; officially named November 28, 2016 after Moscow Oblast
+- Moscovium isotopes: Mc-287 to Mc-290, all extremely radioactive
+- Most stable: Moscovium-290, half-life only 650 milliseconds (0.65 seconds)
+- Second most stable: Moscovium-289, half-life 250 milliseconds
+- Moscovium decays to nihonium within fractions of seconds
+- Lazar's claim of "stable isotope" is fundamentally WRONG - no stable isotope exists
+- George Knapp: KLAS-TV Channel 8 Las Vegas investigative journalist
+- May 1989: First interviewed Lazar under pseudonym "Dennis" with face hidden
+- November 1989: Second interview revealed real name Bob Lazar
+- Knapp awards: 5 regional + 2 national Edward R. Murrow, 24 Pacific Southwest Regional Emmys, 9 AP Mark Twain, DuPont, 2 Peabodys
+- 1990: UPI "Individual Achievement by a Journalist" award for UFO stories
+- Knapp's interviews "catapulted Area 51 into public consciousness"
+- Stanton Friedman (nuclear physicist, pro-UFO researcher) investigated Lazar 1997, updated 2011
+- Friedman conclusion: "Lazar is a fraud" - "Bob Lazar's lies about MIT and Caltech were exposed by UFOlogist Stan Friedman"
+- No diplomas, résumés, transcripts, memberships, papers, yearbook pages from MIT/Caltech
+- Checked all four schools Lazar mentioned: three never heard of him, Pierce JC confirmed electronics courses late 1970s
+- "Bill Duxler" professor: Lazar claimed "from physics department at Caltech"
+- Friedman located Duxler: Pierce Junior College physics professor, never taught at Caltech
+- Critical finding: Lazar registered in Duxler's Pierce course SAME TIME supposedly at MIT!
+- High school: Graduated August (not with class), only science course chemistry, ranked 261/369 (bottom third)
+- Friedman assessment: "No way he would have been admitted by MIT or Caltech"
+- When asked when got MS from MIT: "Let me see now, I think it was probably 1982" - nobody with MIT MS would be vague
+- Friedman on Lazar's physics knowledge: "He talks like someone who took community college physics"
+
+**Word Count:** ~2,000 → 2,343 (increase of ~343 words)
+
+**Research Time:** ~35 minutes
+
+---
+
+## Episode 010: X-Files Deep Dive - The Pilot & How the Mythology Began
+
+**Status:** ✅ Enhanced
+
+**Added Sources:** 8 new sources (from 5 to 13 total)
+
+**Key Enhancements:**
+- Added comprehensive pilot episode production details (Chris Carter writer, Robert Mandel director, 14 days March 1993, $2M budget)
+- Added ratings/viewership (Nielsen 7.9, 7.4M households, 12.0M viewers, IMDb 8.2)
+- Added comprehensive Chris Carter background (born 1956, journalism degree, 13 years Surfing Magazine, 1985 Disney screenwriter)
+- Added Carter's inspirations (3.7M Americans believed abducted, Watergate scandal, Twilight Zone/Night Gallery/Kolchak)
+- Enhanced MK-Ultra details (1953-1973 CIA brainwashing, 1975 Church Committee revelation)
+- Enhanced COINTELPRO details (FBI/CIA wiretapping, Black Panthers/MLK infiltration)
+- Added cultural impact scholarly analysis (Corliss "cultural touchstone", Wong/Morgan mainstream conspiracy acknowledgment)
+- Added complete "I Want to Believe" poster origin story (Ed Ruscha inspiration, Billy Meier Photo Nr. 494, copyright lawsuit, Season 3 recast)
+
+**Word Count:** ~1,900 → 2,282 (increase of ~382 words)
+
+**Research Time:** ~30 minutes
+
+---
+
+## BATCH 2 SUMMARY (Episodes 006-010)
+
+**Episodes Enhanced:** 5 episodes (006-010)
+**Total Word Increase:** ~2,789 words
+**Total Sources Added:** 42 new sources
+**Total Research Time:** ~160 minutes
+
+---
+
