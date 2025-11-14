@@ -18,13 +18,11 @@
 **THE MOMENT:**
 May 11, 1950. McMinnville, Oregon. Early evening (~7:30 PM).
 
-**Paul Trent**, a farmer, is feeding rabbits on his property. His wife **Evelyn** comes outside, looks up, and says:
+**Evelyn Trent** is feeding rabbits in cages on their farm (just outside **Sheridan, Oregon**, ~13 miles southwest of McMinnville). She looks up, sees **a metallic, disc-shaped object** hovering in the sky. Saucer-like. Shiny. Tilted at an angle. Silent.
 
-**"What's that?"**
+She yells for her husband **Paul Trent**.
 
-Hovering in the sky: **A metallic, disc-shaped object.** Saucer-like. Shiny. Tilted at an angle. Silent.
-
-Paul runs inside, grabs his **Roamer 63 camera** (basic box camera, no tricks), snaps **Photo 1**.
+Paul comes outside, sees it. Runs inside, grabs his **Universal Roamer camera** (likely Roamer I model: compact folding-bellows camera, f/11 aperture, 1/50 second speed, 120/620 film—basic, no tricks). Snaps **Photo 1**.
 
 The object moves slightly. Paul advances the film. Snaps **Photo 2**.
 
@@ -84,47 +82,75 @@ The object flies away. Total sighting: **~30 seconds.**
 
 ### THE WITNESSES
 
-**Paul Trent:**
-- **Age:** 30s (at time)
-- **Occupation:** Farmer
-- **Reputation:** Quiet, honest, no UFO interest before sighting
+**Paul and Evelyn Trent:**
+- **Location:** Farm between Sheridan and McMinnville, Oregon (actually just outside Sheridan, ~13 miles southwest of McMinnville)
+- **Occupation:** Farming couple
+- **Reputation:** "Just-plain-folks—good neighbors, solid citizens" (all accounts); "hard-working, honest people" (well known)
 - **Behavior:** Didn't immediately report (finished film roll first = not seeking attention)
 
-**Evelyn Trent:**
-- **Spotted object first**
-- **Called Paul outside**
-- **Corroborated story consistently**
+**Initial Reporting:**
+- **June 8, 1950:** Interview with Telephone Register newspaper
+  - **Evelyn stated:** "We'd been out in the back yard. Both of us saw the object at the same time... Paul thought it was in the car but I was sure it was in the house." (about camera location)
+- **June 10, 1950:** Interview with Lou Gillette (radio station KMCM), quoted in The Oregonian
+- **Later:** Flew to New York City to appear on "We the People" television show; Life Magazine ran story
+
+**1997 Interview (47 years later):**
+- **Trents claimed:** Initially thought object was secret military aircraft, feared photos might bring trouble
+- **Evelyn revealed:** She and Paul had seen similar flying objects at Oregon Coast on **three previous occasions**
 
 **Credibility Factors:**
-- **Never profited significantly** (sold photos for minimal sum, didn't tour/lecture)
-- **Consistent testimony** (told same story for decades, no changes)
+- **Never profited significantly** (sold photos for minimal sum ~$100, didn't tour/lecture circuit)
+- **Consistent testimony** (told same story for 40+ years, no changes)
 - **Reluctant publicity** (avoided interviews often, preferred privacy)
+- **No ufology interest:** Showed no particular interest in UFOs generally
+- **Integrity:** Despite in-depth skeptic analysis, nothing found to cast doubt on Trents' integrity or financial interest in fabricating
+
+**Deaths:**
+- **Evelyn Trent:** Died 1997
+- **Paul Trent:** Died February 13, 1998
+- **Left farm for retirement home in McMinnville**
+- **Until the end:** Maintained truthfulness of account, never recanted
 
 **Dr. Bruce Maccabee (Optical Physicist, UFO Researcher):**
-"The Trents were simple, honest people. They had no reason to fabricate this."
+- **Full name:** Bruce S. Maccabee (May 6, 1942 - May 10, 2024)
+- **Career:** Optical physicist employed by U.S. Navy
+- **1972:** Began career at Naval Ordnance Laboratory, White Oak, Silver Spring, Maryland (later Naval Surface Warfare Center Dahlgren Division)
+- **Expertise:** Optical data processing, generation of underwater sound with lasers, Strategic Defense Initiative (SDI), Ballistic Missile Defense (BMD) using high-power lasers
+- **Assessment:** "The Trents were simple, honest people. They had no reason to fabricate this."
 
 ### SCIENTIFIC ANALYSIS (BELIEVER VERSION)
 
 **1968: Condon Committee Analysis (University of Colorado UFO Study)**
 
-**Dr. William Hartmann (Astronomer):**
-- **Analyzed originals** (not copies)
-- **Photometric analysis:** Measured brightness/contrast
-- **Conclusion:** "Consistent with a large distant object... one of the few UFO reports where all factors investigated—geometric, psychological, and physical—appear to be consistent with the assertion that an extraordinary flying object... was present."
+**The Condon Committee:**
+- **Official name:** Scientific Study of Unidentified Flying Objects
+- **Years:** 1966-1968
+- **Location:** University of Colorado
+- **Funding:** United States Air Force
+- **Director:** Physicist Edward Condon
+- **Result:** Condon Report (1968)
+
+**Dr. William K. Hartmann (Astronomer, Committee Member):**
+- **Role:** Primarily investigated photographic evidence
+- **Approach:** Rejected most UFO photos as unreliable or inconclusive
+- **Conclusion on McMinnville:** "This is one of the few UFO reports in which all factors investigated—geometric, psychological, and physical—appear to be consistent with the assertion that an extraordinary flying object, silvery, metallic, disk-shaped, tens of meters in diameter, and evidently artificial, flew within sight of two witnesses."
+- **Later:** 2009 donated moving image films from Condon project work to University of Colorado Boulder Archives
 
 **Believer Interpretation:**
 "The Condon Committee—SKEPTICAL of UFOs—said these photos show a real object!"
 
-**Dr. Bruce Maccabee (1970s-2000s Analysis):**
+**Dr. Bruce Maccabee (1975 Analysis, updated through 2000s):**
 
-**Optical Analysis:**
-- **Photographic density measurements:** Object's brightness matches large metallic disc
-- **Shadow direction:** Consistent with evening sun angle
+**1975 Initial Analysis:**
+- **Source:** Studied negatives from McMinnville News-Register files
+- **Method:** Densitometric measurements (similar to Hartmann's photometric analysis)
+- **Conclusion:** Photos not hoaxed, showed "real, physical" object in sky above Trent farm
+- **Evidence:** Relative position of power lines and brightness of object's underside suggested large object at distance
+
+**Ongoing Analysis:**
 - **No evidence of support threads** (would show in high-res scans)
-
-**Computer Enhancement:**
-- **Digital analysis** (modern tech applied to old photos)
-- **No strings detected**
+- **Shadow direction:** Consistent with evening sun angle
+- **Computer enhancement:** Digital analysis (modern tech applied to old photos)
 - **Object shows structure** (not simple flat disc—appears 3D with details)
 
 **Maccabee's Conclusion:**
@@ -193,10 +219,19 @@ The object flies away. Total sighting: **~30 seconds.**
 - **Photographed at angle** to obscure suspension
 - **Motive:** Fame, money, or prank
 
-**Philip Klass (UFO Skeptic):**
+**Philip J. Klass (UFO Skeptic):**
+- **Full name:** Philip Julian Klass (November 8, 1919 - August 9, 2005)
+- **Career:** Aviation and aerospace journalist
+- **Position:** Senior editor for Aviation Week & Space Technology magazine (nearly 35 years)
+- **Ranking:** #5 on top skeptics list of 20th century (Skeptic Enquirer)
 
-**Analysis (1970s):**
-- **Shadow discrepancies:** Shadows suggest earlier time than claimed (afternoon, not evening)
+**Analysis (1980s):**
+- **Conclusion:** Photos faked, entire event was hoax
+- **Shadow discrepancies:** Overall lighting consistent with sunset, BUT "the UFO, the telephone pole, possibly the garage at the left, and especially the distant house gables (left of the distant barn) are illuminated from the right, or east"
+  - **Problem:** Objects illuminated from east despite sunset (west) lighting
+  - **Implication:** Photos taken earlier (afternoon, not 7:30 PM evening)
+- **Shadowed side brightness:** UFO's shadowed side appears so bright it suggests significant scattering between it and observer
+- **Story contradictions:** Found several contradictions in Trents' story; version changed over years
 - **If earlier:** Suggests premeditation (set up hoax, waited to claim evening sighting)
 
 **Thread Theory:**
@@ -219,14 +254,21 @@ The object flies away. Total sighting: **~30 seconds.**
 **Photographic Density Problems:**
 
 **Robert Sheaffer (Skeptic Researcher):**
-- **Re-analyzed in 2013**
+- **1980s:** Co-concluded with Klass that photos faked, event was hoax
+- **April 2013:** IPACO (Image Processing for Anomalous Camera Objects) researchers posted studies
+  - **Geometry analysis:** Most consistent with small model with hollow bottom hanging from wire suspended from power lines
+  - **Thread detection:** Claimed to detect presence of thread above object
+  - **Conclusion:** "The McMinnville UFO was a model hanging from a thread"
+- **2015:** Skeptical Inquirer (Volume 39, No. 1, January/February): "Once again, farmer Paul Trent's famous UFO photos from McMinnville, Oregon, are a hot topic in UFOlogy"
 - **Photometric data:** Actually suggests SMALL CLOSE OBJECT, not large distant
 - **Brightness levels:** Consistent with model inches to feet away, not thousands of feet
+- **Overall scientific consensus:** "All scientific studies and analyses have concluded that the photographs show a scale model or similar object, of small size, suspended from an overhead power line close to the lens"
 
 **Maccabee's Bias:**
 - **Maccabee = UFO believer** (not neutral scientist)
 - **Fund for UFO Research:** Maccabee worked for pro-UFO organization
 - **Skeptic claim:** Analysis biased toward "real UFO" conclusion
+- **Counterpoint:** Maccabee and ufologist Brad Sparks persisted in contesting scientific results, maintaining photos genuine
 
 ### THE TIMELINE PROBLEM
 
@@ -389,12 +431,51 @@ If I were an alien trying to prove my existence, I'd land on the White House law
 
 ## 🔗 SOURCES
 
-1. **Hartmann, Dr. William** - Condon Committee Report (1968) - Section on McMinnville photos
-2. **Maccabee, Dr. Bruce** - "The McMinnville UFO Photographs" (Detailed optical analysis, 1977 + updates)
-3. **Klass, Philip** - "UFOs: The Public Deceived" (1983) - Chapter on McMinnville
-4. **Sheaffer, Robert** - "Psychic Vibrations" column (Skeptical Inquirer, 2013) - Re-analysis
-5. **Trent, Paul & Evelyn** - Interviews (1950, 1967, 1990s) - Witness testimony
-6. **Saler, Benson et al.** - "UFO Crash at Roswell: The Genesis of a Modern Myth" (1997) - Context on 1950s UFO culture
+### Primary Witness Sources
+1. **Trent, Paul & Evelyn** - Multiple interviews
+   - June 8, 1950: Telephone Register newspaper interview
+   - June 10, 1950: Lou Gillette (KMCM radio), quoted in The Oregonian
+   - 1997: Interview 47 years after event
+   - "We the People" television appearance, New York City
+   - Life Magazine coverage
+
+### Believer Analysis (Pro-Authenticity)
+2. **Hartmann, Dr. William K.** - Condon Committee Report (1968)
+   - Astronomer, photographic evidence investigator
+   - Conclusion: "extraordinary flying object... silvery, metallic, disk-shaped"
+   - 2009: Donated Condon project films to University of Colorado Boulder Archives
+3. **Maccabee, Dr. Bruce S.** (May 6, 1942 - May 10, 2024)
+   - U.S. Navy optical physicist (Naval Surface Warfare Center Dahlgren Division)
+   - 1975: Initial analysis of News-Register negatives
+   - Densitometric measurements analysis
+   - Conclusion: "real, physical" object, not hoaxed
+   - Guest speaker at first McMinnville UFO Festival (May 11, 2000)
+
+### Skeptic Analysis (Pro-Hoax)
+4. **Klass, Philip J.** (November 8, 1919 - August 9, 2005)
+   - Aviation Week & Space Technology senior editor (35 years)
+   - #5 top skeptic of 20th century (Skeptic Enquirer ranking)
+   - "UFOs: The Public Deceived" (1983) - McMinnville chapter
+   - 1980s analysis: shadow discrepancies, story contradictions
+5. **Sheaffer, Robert** - Skeptical Inquirer analyses
+   - 1980s: Co-concluded hoax with Klass
+   - January/February 2015 (Volume 39, No. 1): "Once again, farmer Paul Trent's famous UFO photos..."
+   - Photometric analysis: small close object conclusion
+6. **IPACO** (Image Processing for Anomalous Camera Objects)
+   - April 2013: Geometry analysis studies
+   - Thread detection claim
+   - Conclusion: "model hanging from a thread"
+
+### Historical Context
+7. **Condon Committee** - "Scientific Study of Unidentified Flying Objects" (1968)
+   - University of Colorado, 1966-1968
+   - Director: Physicist Edward Condon
+   - Air Force funded
+8. **McMinnville UFO Festival** - Official history (founded 1999, first festival May 11, 2000)
+9. **Saler, Benson et al.** - "UFO Crash at Roswell: The Genesis of a Modern Myth" (1997) - Context on 1950s UFO culture
+
+### Camera Documentation
+10. **Universal Camera Corporation** - Roamer I camera specifications (f/11 aperture, 1/50 second, 120/620 film)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -413,10 +494,15 @@ If I were an alien trying to prove my existence, I'd land on the White House law
 - **Currently:** McMinnville UFO Festival archives (stored locally)
 
 **McMinnville UFO Festival:**
-- **Annual event** (since 2000)
-- **Celebrates photos** (second weekend of May)
-- **Includes:** Speakers, vendors, parade
-- **Attendance:** Thousands (small town celebration)
+- **Founded:** 1999 (to honor 1950 Trent sighting)
+- **First festival:** May 11, 2000 at Hotel Oregon, McMinnville
+  - **50th anniversary** of original sighting
+  - **Guest speaker:** Dr. Bruce Maccabee (presented on famous sighting)
+- **Annual event:** Every May (second weekend typically)
+- **Scale:** Second-largest UFO festival in U.S. (after Roswell, NM); largest UFO enthusiast event in Oregon
+- **Features:** Expert speakers, costume contests, parades, 5K run, family-friendly activities
+- **Attendance:** Thousands (major celebration for small town)
+- **Organized by:** McMenamins (hotel/entertainment company)
 
 **Photo Sales:**
 - **Initial sale:** ~$100 (to Life Magazine equivalent)
@@ -446,4 +532,4 @@ If I were an alien trying to prove my existence, I'd land on the White House law
 
 ---
 
-**COMPLETE: ~4,600 words | 6 sources**
+**COMPLETE: ~6,000 words | 10 sources**
