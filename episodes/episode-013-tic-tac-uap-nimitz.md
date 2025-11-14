@@ -55,11 +55,17 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 ### THE WITNESSES
 
 **Commander David Fravor:**
-- **Experience:** 18 years Navy pilot, Top Gun graduate, squadron commander
+- **Background:** Enlisted in Marine Corps at age 17, transferred to Naval Academy 2 years later
+- **Military Career:** 24 years total, 18 years as Navy pilot
+- **Experience:** Top Gun graduate, five tours to Persian Gulf (starting after Operation Desert Storm)
+- **Position November 2004:** Commanding Officer of Strike Fighter Squadron Forty-One (VFA-41 Black Aces), attached to Carrier Airwing Eleven, stationed aboard USS Nimitz (CVN-68)
+- **Command Scope:** 12 airplanes, 330 personnel
+- **Prior Assignment:** VFA-122 "Flying Eagles" - served as fleet introduction team assistant officer in charge, operations officer, training officer (oversaw training of Navy's newest strike fighter pilots)
 - **Reputation:** Credible, sober, no history of UFO interest
 - **What he saw:** "Tic Tac" object, ~40 feet long, white, smooth, no visible propulsion
 - **Behavior:** Object mirrored his movements, then accelerated instantaneously
 - **Quote:** "I have no idea what I saw. It had no plumes, no wings, no rotors, no visible flight control surfaces. It was smooth, white, and oblong."
+- **Post-Incident:** Featured in PBS documentary "Carrier" during May 2005 deployment
 
 **Lieutenant Commander Jim Slaight (Fravor's WSO - Weapons System Officer):**
 - Corroborates Fravor's account
@@ -72,10 +78,16 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 - **Quote:** "It was going from like 50,000 feet to 100 feet in like seconds, which is not possible."
 
 **Senior Chief Kevin Day (Radar Operator, USS Princeton):**
-- Tracked objects on SPY-1 radar (most advanced in fleet)
+- **Background:** Retired U.S. Navy Senior Chief Operations Specialist specializing in radar systems
+- **Experience:** TOPGUN air intercept controller with 20+ years experience in strike group air defense including war-time operations
+- **Expertise:** Expert operator of highly advanced SPY-1 radar system with years of service aboard AEGIS-equipped ships (USS VINCENNES, USS CHOSIN, USS PRINCETON)
+- **Role November 2004:** Combat Information Center (CIC) aboard USS Princeton, tasked with protecting airspace around strike group
+- **First Detection:** November 10, 2004 - began noticing strange radar tracks near San Clemente Island, ~100 miles off San Diego coast
 - Saw "anomalous aerial vehicles" for entire week
 - Objects appeared at 80,000 feet, descended to sea level in seconds
+- **Directly instructed pilots** to change course and investigate unidentified radar contact
 - **Quote:** "These things would be hanging out at 80,000 feet, then they'd drop down to 20,000 feet, and then they'd drop down to sea level, all in a matter of seconds."
+- **Post-Navy:** 2018 founded UAP Expeditions (field-testing UAP technologies); featured in History Channel's "Unidentified: Inside America's UFO Investigation"
 
 **Multiple Other Witnesses:**
 - Radar operators on USS Princeton
@@ -87,9 +99,15 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 
 **November 10-14, 2004: The Lead-Up**
 
-- USS Princeton (Aegis cruiser) conducting training exercises
-- SPY-1 radar begins detecting "anomalous aerial vehicles" (AAVs)
-- Objects appear daily, same location (near Catalina Island)
+- **USS Princeton (CG-59):** Ticonderoga-class guided missile cruiser, assigned to Carrier Strike Group Three
+- **Radar System:** First cruiser equipped with upgraded **AN/SPY-1B radar system**
+  - 3.66 metres (12.0 ft) diameter
+  - Multi-function phased-array radar capable of search, automatic detection, tracking, missile engagement
+  - Significant improvement in detection capabilities
+  - Enhanced resistance to enemy Electronic Countermeasures (ECM)
+  - Can guide Standard Missile to intercept hostile aircraft/missiles at extended ranges
+- SPY-1B radar begins detecting "anomalous aerial vehicles" (AAVs)
+- Objects appear daily, same location (near Catalina Island/San Clemente Island area)
 - Behavior:
   - Appear at 80,000 feet (above normal aircraft ceiling)
   - Descend to sea level in seconds (no aircraft can do this)
@@ -230,10 +248,20 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 **Argument 3: PENTAGON CONFIRMATION**
 
 **2017: New York Times Story:**
-- Revealed AATIP (Advanced Aerospace Threat Identification Program)
-- Pentagon UFO program run by Lue Elizondo (2007-2012)
+- **Published:** December 16, 2017
+- **Authors:** Helene Cooper, Ralph Blumenthal, Leslie Kean
+- **Title:** "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program"
+- **Revealed:** AATIP (Advanced Aerospace Threat Identification Program)
+  - Pentagon UFO program, Defense Intelligence Agency (DIA)
+  - Budget: $22 million over five years (2007-2012)
+  - Initiated by Senate Majority Leader Harry Reid (D-Nevada)
+  - Lue Elizondo took over in **2010** (when program renamed to AATIP)
+  - Elizondo resigned **October 2017** citing lack of government support
+  - Program first made public with this article
+- **Primary Source:** Luis Elizondo claimed program continued after 2012 with Navy/CIA support, additional funding 2013-2014
 - **Pentagon confirmed:** Video is authentic, object unidentified
 - **DoD statement (2020):** "The aerial phenomena observed in the videos remain characterized as 'unidentified'"
+- **Impact:** Led to worldwide enthusiasm for UFOs, transformed UFO discourse
 
 **What This Means:**
 - U.S. military has no explanation
@@ -243,12 +271,29 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 
 **Argument 4: CONGRESSIONAL HEARINGS (2023)**
 
-**Fravor Testified Under Oath:**
-- House Oversight Committee
-- Described encounter in detail
+**July 26, 2023 Hearing:**
+- **Committee:** House Oversight subcommittee on National Security, the Border, and Foreign Affairs
+- **Title:** "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+
+**Three Witnesses Testified Under Oath:**
+
+**David Fravor:**
+- Described 2004 encounter in detail
 - Confirmed: No explanation from Navy
-- Other witnesses (David Grusch) claimed government has retrieved craft
-- **Government taking UAP seriously**
+- Object "moving very abruptly over the water like a ping pong ball"
+
+**Ryan Graves:**
+- Former Navy pilot with firsthand UAP experience
+- Emphasized stigma reduction and better reporting systems
+- **Quote:** "I urge us to put aside stigma and address the security and safety issue this topic represents. If UAP are foreign drones, it is an urgent national security problem. If it is something else, it is an issue for science"
+
+**David Grusch:**
+- 14-year intelligence officer (Air Force & National Geospatial Intelligence Agency)
+- **Explosive claims:**
+  - Informed of "multi-decade UAP crash retrieval and reverse-engineering program"
+  - Interviewed officials with direct knowledge of aircraft with "nonhuman" origins
+  - "Biologics" recovered from some craft
+- **Pentagon Response:** Spokesperson Sue Gough rejected claims - "Defense Department has not discovered any verifiable information to substantiate claims that any programs regarding possession or reverse-engineering of extraterrestrial materials have existed in past or exist currently"
 
 **Believer Interpretation:**
 - If pilots lying, they'd face perjury charges
@@ -402,9 +447,10 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 - Lack of explanation ≠ alien craft
 
 **AATIP Program:**
-- Small budget (~$22 million over 5 years)
-- Stopped in 2012 (not priority)
-- Lue Elizondo resigned in frustration (Pentagon not taking it seriously)
+- Small budget ($22 million over 5 years, 2007-2012)
+- Stopped official funding in 2012 (not priority)
+- Lue Elizondo took over 2010, resigned October 2017 in frustration (Pentagon not taking it seriously)
+- Elizondo claimed program continued after 2012 with Navy/CIA support
 - **If Pentagon thought it was aliens, they'd throw billions at it**
 
 ### WHAT WE CAN ACTUALLY PROVE
@@ -478,16 +524,21 @@ Either way, we need answers.
 
 ## 🔗 SOURCES
 
-1. **Fravor, CDR David** - Congressional testimony (July 2023), multiple interviews
-2. **New York Times** - "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program" (December 2017)
+### Primary Sources:
+1. **Fravor, CDR David** - Congressional testimony (July 26, 2023, House Oversight Committee); multiple interviews; 24-year Navy career, VFA-41 Black Aces commanding officer
+2. **Day, Senior Chief Kevin** - Radar operator interviews, USS Princeton Combat Information Center; 20+ years TOPGUN air intercept controller, SPY-1 expert
 3. **Underwood, LT Chad** - Interviews (filmed FLIR1 video)
-4. **Day, Senior Chief Kevin** - Radar operator interviews
-5. **Elizondo, Luis** - Former AATIP director interviews, "Imminent" (2024 book)
-6. **Department of Defense** - Official statements on UAP (2020, 2023)
-7. **Mick West** - "Gimbal and Go Fast UFO Videos Explained" (skeptical analysis)
-8. **Scientific Coalition for UAP Studies (SCU)** - Technical analysis of Nimitz encounter
-9. **Popular Mechanics, The Atlantic, 60 Minutes** - Investigative reporting (2019-2021)
-10. **Congressional hearings** - House Oversight Committee (July 26, 2023)
+4. **Elizondo, Luis** - Former AATIP director (took over 2010, resigned October 2017); interviews, "Imminent" (2024 book)
+5. **Department of Defense** - Official statements on UAP (2020, 2023)
+6. **Congressional Hearing** - "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency" (July 26, 2023) - Witnesses: David Fravor, Ryan Graves, David Grusch
+
+### Secondary Sources:
+7. **Cooper, Helene; Blumenthal, Ralph; Kean, Leslie** - "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program" - New York Times (December 16, 2017)
+8. **Scientific Coalition for UAP Studies (SCU)** - "Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter" (December 2019, Knuth/Powell/Reali, PubMed Central); "A Forensic Analysis of Navy Carrier Strike Group Eleven's Encounter with an Anomalous Aerial Vehicle" (~300 pages)
+9. **West, Mick** - "Gimbal and Go Fast UFO Videos Explained" (skeptical analysis)
+10. **Popular Mechanics, The Atlantic, 60 Minutes** - Investigative reporting (2019-2021)
+11. **USS Princeton (CG-59)** - AN/SPY-1B radar system specifications, Ticonderoga-class cruiser technical documentation
+12. **AATIP Program Records** - Advanced Aerospace Threat Identification Program documentation ($22M, 2007-2012, Defense Intelligence Agency)
 
 ## 🎬 PRODUCTION NOTES
 
