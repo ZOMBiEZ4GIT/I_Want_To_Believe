@@ -185,18 +185,24 @@ You're standing in Wiltshire, England. Before you: **Stonehenge.** Massive sarse
 
 **Moving Sarsen Stones:**
 
-**1995 Experiment (Dr. Julian Richards, BBC):**
-- **Replica sarsen:** 40-ton concrete block (heavier than most Stonehenge stones)
+**1996-1997 BBC/NOVA Experiment (Dr. Julian Richards):**
+- **Program:** BBC "Secrets of Lost Empires: Stonehenge" (broadcast 1996), PBS NOVA mini-series (1997)
+- **Replica:** Two 40-ton reinforced concrete "stones" (dimensions of stone 56 from Great Trilithon)
+- **Team:** Julian Richards with Mark Witby and Roger Hopkins
 - **Method:**
   - **Wooden sledge** (stone placed on top)
-  - **Greased track** (animal fat on wooden rails)
-  - **Ropes** (hundreds of people pulling)
-- **Result:** 100-130 people moved 40 tons successfully
-- **Speed:** Slow, but worked (proves feasibility)
+  - **Greased wooden track** (animal fat on wooden rails)
+  - **Ropes** (130 people pulling)
+- **Initial failure:** Unable to budge on slight incline
+- **Success:** Added more people + levers to pry while others towed simultaneously
+- **Result:** Moved 40-ton replica successfully (proves feasibility)
+- **Current location:** Replicas remain at Larkhill Camp (~1 mile from Stonehenge)
 
-**2016 Experiment (Gordon Pipes):**
-- **Used ball bearings** (wooden spheres under sledge—Bronze Age doable)
-- **10 people moved multi-ton stone** (efficiently)
+**2016 UCL Experiment (Barney Harris, Gordon Square London):**
+- **Replica:** 1-ton stone block on sycamore-wood sled
+- **Wooden trackway:** Sawn logs as static track (not rollers)
+- **Result:** 10 people moved 1-ton stone at pace of 10 feet every 5 seconds
+- **Conclusion:** Small team could efficiently move heavy stones with simple technology
 
 **Skeptic Conclusion:**
 "It's not impossible. Just hard work. Ancient people had time + manpower."
@@ -214,9 +220,16 @@ You're standing in Wiltshire, England. Before you: **Stonehenge.** Massive sarse
 - 140 miles = ~6 months (moving slowly, resting)
 
 **Why Bluestones?**
-- **Acoustic properties:** Bluestones ring when struck (musical quality)
+- **Source confirmed (2015):** Carn Goedog (main source, spotted dolerite), Craig Rhos-y-felin (rhyolite)
+- **Distance:** 140 miles (225 km) from Preseli Hills, west Wales
+- **Acoustic properties:** 5-10% of Preseli stones "ring" when struck (bell-like, metallic sounds)
 - **Religious significance:** Sacred mountains (Preseli culturally important)
-- **Not alien—human religious motivation**
+- **Healing properties theory (Dr. Timothy Darvill):**
+  - **Professor of Archaeology, Bournemouth University (died October 5, 2024, age 66)**
+  - **Theory:** Bluestones had healing powers (prehistoric Lourdes)
+  - **Research with Geoffrey Wainwright (6 years):** Found Preseli Hills springs regarded as having medicinal powers
+  - **2008 excavation:** Directed excavations within Stonehenge with Wainwright and Miles Russell
+- **Not alien—human religious/medicinal motivation**
 
 ### PRECISION ENGINEERING = PATIENCE, NOT LASERS
 
@@ -262,7 +275,16 @@ You're standing in Wiltshire, England. Before you: **Stonehenge.** Massive sarse
 **Archaeological Evidence:**
 
 **Burials:**
-- **Cremated remains:** Found at Stonehenge (hundreds of burials)
+- **Aubrey Holes:** 56 pits just inside bank (named for 17th-century antiquarian John Aubrey)
+- **Cremated remains:** 58+ people discovered (excavations 1919-1926)
+- **One of largest Late Neolithic burial sites in Britain**
+- **Timeline:** Cremations deposited over ~500 years (c. 3000-2500 BCE)
+- **Re-excavation (2008):** All remains moved to Aubrey Hole 7, re-analyzed
+- **Demographics:** 50+ individuals, both male and female, various ages
+- **2018 isotope analysis (25 skulls):**
+  - **15 individuals:** Lived locally near Stonehenge
+  - **10 individuals:** Came from west Wales (same region as bluestones!)
+  - **Theory:** Some cremated in Wales, remains transported to Stonehenge with bluestones
 - **Grave goods:** Indicate ritual/religious activity
 
 **Feasting:**
@@ -270,12 +292,24 @@ You're standing in Wiltshire, England. Before you: **Stonehenge.** Massive sarse
 - **Pottery shards:** Vessels for food/drink
 
 **Acoustic Properties:**
-- **Bluestones ring:** Musical/ceremonial use
+- **Bluestones ring:** When struck with another stone, they "ring like a bell"
+- **Research:** Royal College of Art tested 1,000+ stones along Carn Menyn Ridge
+  - **5-10% ring on average** (some locations 15-20%)
+  - **Range of sounds:** Pure bell tones, tin drum noises, gong-like resonances
+- **Historical evidence:** Maenclochog village (Welsh: "bell or ringing stones") used bluestones as church bells until 18th century
+- **Theory:** Bluestones sought for unique acoustic properties (prehistoric soundscape at Stonehenge)
 
 **Theory (Dr. Mike Parker Pearson):**
-- **Stonehenge = temple/memorial:** Domain of the dead
-- **Paired with Durrington Walls:** (nearby settlement = domain of living)
-- **Seasonal gatherings:** Winter solstice ceremonies
+- **Full name:** Michael Parker Pearson, FSA, FSA Scot, FBA (born June 26, 1957)
+- **Position:** Professor of British Later Prehistory, Institute of Archaeology, University College London (UCL)
+- **Education:** University of Southampton (BA Archaeology, first class honours, 1979); PhD University of Cambridge (1985, thesis on Iron Age Denmark burials/bog bodies)
+- **Stonehenge Riverside Project (2003-2009):** Director, examined relationship between Stonehenge, River Avon, Durrington Walls, the Cursus, Avenue, Woodhenge, burial mounds, standing stones
+- **Award:** UK Archaeologist of the Year 2010
+- **Media:** Channel 4 Time Team, National Geographic "Stonehenge Decoded", PBS Nova "Secrets of Stonehenge"
+- **Theory:**
+  - **Stonehenge = temple/memorial:** Domain of the dead
+  - **Paired with Durrington Walls:** (nearby settlement = domain of living)
+  - **Seasonal gatherings:** Winter solstice ceremonies
 
 **Skeptic Point:**
 "Stonehenge = cathedral/cemetery. Massive effort for religion = historically normal (see: every ancient culture)."
@@ -366,12 +400,28 @@ Bronze Age Britons spent DECADES moving stones to build a temple. For their reli
 
 ## 🔗 SOURCES
 
-1. **Parker Pearson, Dr. Mike** - "Stonehenge: Exploring the Greatest Stone Age Mystery" (2012)
-2. **Darvill, Dr. Timothy** - Archaeological excavations, research papers
-3. **Richards, Dr. Julian** - BBC experiments (1995, 1999)
-4. **English Heritage** - Stonehenge management, research
-5. **Von Däniken, Erich** - "Chariots of the Gods?" (1968) - For believer claims
-6. **Archaeology Magazine** - Various articles on Stonehenge construction
+### Primary Archaeological Research
+1. **Parker Pearson, Dr. Michael** - "Stonehenge: Exploring the Greatest Stone Age Mystery" (2012); Stonehenge Riverside Project director (2003-2009)
+2. **Darvill, Dr. Timothy** & **Wainwright, Geoffrey** - 2008 Stonehenge excavations; healing stones theory; Preseli Hills research (6 years)
+3. **Richards, Dr. Julian C.** - BBC "Secrets of Lost Empires: Stonehenge" (1996-1997); experimental archaeology
+4. **English Heritage** - "Building Stonehenge" / "A timeline of Stonehenge"; site management and research
+5. **UCL News** - "Stonehenge 'bluestone' quarries confirmed 140 miles away in Wales" (December 2015)
+
+### Scientific Studies
+6. **Nature Scientific Reports** - "Strontium isotope analysis on cremated human remains from Stonehenge support links with west Wales" (2018)
+7. **Cambridge University Antiquity Journal** - "The dead of Stonehenge" - burial analysis
+8. **Royal College of Art** - "Stonehenge's Sonic Secrets" - acoustic properties research (1,000+ stones tested)
+
+### Experimental Archaeology
+9. **PBS NOVA** - "Secrets of Stonehenge" (1997) - Julian Richards stone-moving experiments
+10. **UCL/Barney Harris** - 2016 Gordon Square experiment (10 people moving 1-ton stone)
+
+### Ancient Astronaut Claims (Skeptic Context)
+11. **Von Däniken, Erich** - "Chariots of the Gods?" (1968) - Ancient alien landing site claims
+
+### Additional Resources
+12. **Britannica** - "Stonehenge: First Stage (3000-2935 BCE)" - construction timeline
+13. **British Museum** - "A timeline of Stonehenge: from hunter-gatherers to solstice alignment"
 
 ## 🎬 PRODUCTION NOTES
 
@@ -393,16 +443,29 @@ Bronze Age Britons spent DECADES moving stones to build a temple. For their reli
 - **1986:** Stonehenge designated World Heritage Site
 - **Protection:** Prevents damage, ensures preservation
 
-**The Bluestones Mystery (Solved):**
+**The Bluestones Mystery (Mostly Solved):**
 - **Why Wales?** Long debated
-- **Answer (Parker Pearson):** Religious significance + acoustic properties
-- **"Healing stones":** Ancient belief (bluestones had power)
+- **2015 discovery:** Exact quarry sites identified (Carn Goedog, Craig Rhos-y-felin)
+- **Answers:**
+  - **Religious significance:** Preseli Hills sacred mountains
+  - **Acoustic properties:** 5-10% of stones "ring" when struck (Royal College of Art research)
+  - **Healing properties:** Springs below rocks regarded as medicinal (Darvill/Wainwright research)
+  - **2018 isotope analysis:** 10 of 25 cremated individuals came from west Wales (buried with their "home" stones)
+- **Connection:** People from Wales brought their sacred stones AND their dead to Stonehenge
 
 **Construction Timeline:**
-- **~3000 BCE:** Ditch and bank (circular earthwork)
-- **~2500 BCE:** Bluestones erected
-- **~2400-2200 BCE:** Sarsen stones (main circle/trilithons)
-- **~1500 BCE:** Final modifications
+- **~3100-3000 BCE (Phase 1):** Circular earthwork enclosure (ditch and bank)
+  - **Aubrey Holes:** 56 pits set just inside bank
+  - **Function:** Cemetery for cremated remains (150-200 people over 500 years)
+- **~2500 BCE (Major Stone Phase):** First stone monument
+  - **Bluestones erected:** 80+ spotted dolerite boulders from Preseli Hills, Wales (350km away)
+  - **Double arc arrangement** in center
+  - **Sarsen stones begin arriving:** 80+ large stones from Marlborough Downs (15 miles/25km away)
+  - **Sarsen arrangement:** Two concentric circles with bluestones between
+- **~2400-2200 BCE:** Sarsen trilithons (horseshoe arrangement)
+  - **Lintels added:** Curved, interlocking mortise-and-tenon joints
+- **~1600-1500 BCE:** Final modifications and rearrangements
+- **Total construction period:** ~1,500 years (3100-1600 BCE)
 
 **Modern Threats:**
 - **Tunnel project (ongoing debate):** Road tunnel near Stonehenge
@@ -416,4 +479,4 @@ Bronze Age Britons spent DECADES moving stones to build a temple. For their reli
 
 ---
 
-**COMPLETE: ~3,900 words | 6 sources**
+**COMPLETE: ~5,200 words | 13 sources**
