@@ -195,3 +195,56 @@ Started: 2025-11-14
 
 ---
 
+## Episode 005: Phoenix Lights
+
+**Status:** ✅ Enhanced
+
+**Added Sources:** 0 new sources (maintained 7 total - enhancements using existing and new source material)
+
+**Enhanced Sections:**
+- Cold Open: Added witness statistics (10% of Arizonans per Rocky Mountain Poll, tens/hundreds of thousands potential witnesses)
+- Timeline: Comprehensive 300-mile corridor details (7:55 PM Henderson NV, 8:15 PM Paulden former police officer, 8:15-8:45 PM Prescott, 8:30 PM Phoenix/Tucson, Nevada line to Tucson scope)
+- Fife Symington: June 1997 alien costume press conference (chief-of-staff Jay Heiler handcuffed, rubber mask, space alien costume, "guilty party")
+- Fife Symington: Detailed explanation why he mocked it (Arizona "on brink of hysteria", didn't want panic, fraud charges at the time)
+- Fife Symington: 2007 admission comprehensive (10 years later, National Press Club UFO Conference, "defied logic and challenged my reality" quote)
+- Fife Symington: What he saw (massive delta-shaped craft, silently navigate over Squaw Peak mountain range, Phoenix)
+- Dr. Lynne Kitei: Professional background (internationally acclaimed physician, Arizona Heart Institute Chief Clinical Consultant, Imaging-Prevention-Wellness Center)
+- Dr. Lynne Kitei: Three separate sightings detailed (1995 35mm photos oval orbs pyramid array, January 1997 mile-wide formation V-shape filmed, March 13 1997 triangular array)
+- Dr. Lynne Kitei: Seven years anonymity before coming forward
+- Dr. Lynne Kitei: 2004 book "The Phoenix Lights: A Skeptic's Discovery that We Are Not Alone"
+- Dr. Lynne Kitei: 2005 documentary "The Phoenix Lights ... We Are Not Alone" won BEST DOCUMENTARY International Sci-Fi Film Festival 2005
+- Maryland ANG: Comprehensive unit details (Maryland Air National Guard 104th Fighter Squadron)
+- Maryland ANG: Aircraft details (eight A-10 ground attack jets/Warthogs, Davis-Monthan AFB training exercise)
+- Maryland ANG: Mission specifics (Barry M. Goldwater Air Force Range, 60 miles south-southwest of Phoenix, training sorties March 13)
+- Maryland ANG: Flare details (LUU-2B/B high-intensity illumination flares, dropped from 15,000 feet, illuminate target area)
+- Maryland ANG: Documentation (July 1997 Cogniaux Report, 2000 Maryland ANG history publication asserted 104th Fighter Squadron responsible)
+- LUU-2B/B Analysis: Luminosity analysis (50-70 miles range matches Phoenix visibility)
+- LUU-2B/B Analysis: Balloon effect explanation (rising heat from burning flares creating balloon effect on parachutes, slowing descent, appearing to hover)
+
+**Key Findings:**
+- As many as 10% of Arizonans witnessed event per Rocky Mountain Poll - tens or hundreds of thousands potential witnesses
+- Lights seen over 300-mile corridor from Nevada line through Phoenix to Tucson edge
+- 7:55 PM MST Henderson NV witness first report, 8:15 PM Paulden former police officer report
+- Fife Symington June 1997 press conference: chief-of-staff Jay Heiler handcuffed, wearing rubber mask/space alien costume, presented as "guilty party"
+- Symington explained Arizona "on brink of hysteria", didn't want panic, also had fraud charges creating additional problems
+- Symington 2007 National Press Club admission: "In 1997...I saw something that defied logic and challenged my reality"
+- Symington witnessed "massive delta-shaped craft silently navigate over Squaw Peak"
+- Dr. Lynne Kitei: Arizona Heart Institute Chief Clinical Consultant before pushing aside medical career for Phoenix Lights investigation
+- Kitei had THREE sightings: 1995 (35mm photos oval orbs), January 1997 (mile-wide V-formation filmed), March 13 1997 (triangular array)
+- Kitei came forward after seven years of anonymity as key witness
+- Kitei's 2005 documentary won BEST DOCUMENTARY at International Sci-Fi Film Festival 2005
+- Maryland Air National Guard 104th Fighter Squadron responsible - eight A-10 Warthogs
+- Aircraft from Davis-Monthan AFB on training exercise, flew sorties to Barry M. Goldwater Air Force Range
+- Barry M. Goldwater Range located 60 miles south-southwest of Phoenix
+- LUU-2B/B high-intensity illumination flares dropped from 15,000 feet approximately 10:00 PM
+- July 1997 Cogniaux Report confirmed flare drop, flight records and pilot logs supported
+- 2000 Maryland ANG history publication asserted 104th Fighter Squadron responsible
+- LUU-2B/B luminosity analysis: 50-70 miles range falls well within lights viewed from Phoenix
+- Balloon effect: Rising heat from burning flares created effect on parachutes, slowing descent, appearing to hover
+
+**Word Count:** 1,840 → 2,482 (increase of 642 words)
+
+**Research Time:** ~20 minutes
+
+---
+
