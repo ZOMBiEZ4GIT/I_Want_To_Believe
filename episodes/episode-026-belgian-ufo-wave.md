@@ -4,7 +4,7 @@
 - **Episode:** 026 | **Category:** UFO Sighting / Mass Event
 - **Date:** November 1989 - April 1991 (Peak: March 1990)
 - **Location:** Belgium (nationwide, concentrated in Wallonia region)
-- **Key Figures:** Major General Wilfried De Brouwer (Belgian Air Force), Colonel Lucien Clerebaut (photo analyst), Auguste Meessen (physicist), ~13,500 witnesses
+- **Key Figures:** Major General Wilfried De Brouwer (Belgian Air Force Chief of Operations, later Deputy Chief), Auguste Meessen (physicist, Catholic University of Louvain), SOBEPS investigation team, Heinrich Nicoll & Hubert von Montigny (police officers, first major sighting), ~13,500 witnesses
 - **Cultural Impact:** Largest European UFO wave; military acknowledgment; famous F-16 scramble; influenced modern triangle UFO reports
 - **Difficulty:** ⭐⭐⭐⭐ (Military involvement, radar evidence, thousands of witnesses, official documentation)
 
@@ -54,25 +54,40 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 **First Major Sighting:**
 
 **Witnesses:**
-- **Two police officers** (Heinrich Nicoll, Hubert von Montigny)
-- On patrol, Eupen area
+- **Two police officers:** **Heinrich Nicoll** and **Hubert von Montigny**
+- **Status:** On routine patrol, Eupen area (near German border)
+- **Dispatcher:** **Albert Creutz** (radioed in their observations)
 
 **What They Saw:**
 - **Massive triangular object**
-- **Three white/yellow lights** (one at each corner)
-- **Red/orange light** in center
+- **Three white/yellow lights** (one at each corner) - **"Bright as floodlights on a football pitch"** (witnesses' description)
+- **Red/orange light** in center (**"red gyrating beacon"**)
+- **Understructure:** Dark and flat
 - **Size:** Estimated 30-40 meters (100-130 feet) wide
-- **Sound:** Low humming (some witnesses: completely silent)
+- **Sound:** **Silent** (no noise whatsoever)
+- **Illumination:** Three powerful beams emanated from large circular surfaces near triangle's corners, **illuminated field below**
 - **Movement:** Slow, hovering, then sudden acceleration
 
-**Duration:** ~1 hour (object visible, moving slowly over area)
+**Duration:** **Over 2 hours** (followed object throughout patrol)
+
+**Key Moment:**
+- Object headed toward **Gileppe Dam**
+- **Hovered directly above water for almost 30 minutes** (stationary)
+- Object remained above field, lights illuminating ground
 
 **Additional Witnesses:**
 - **Dozens of civilians** reported seeing same object that night
 - Police received flood of calls
+- Dispatcher Creutz coordinated reports from multiple patrol units
+
+**Significance:**
+- **First major credible sighting** of Belgian wave
+- Uniformed police officers = trained observers
+- **Longest single observation** (2+ hours continuous)
+- Set template for subsequent sightings (triangular, silent, lights at corners, hovering)
 
 **Believer Point:**
-"TWO COPS. On duty. Hour-long observation. This isn't Venus."
+"TWO COPS. On duty. OVER TWO HOURS of observation. Called it in to dispatcher. This isn't Venus or mass hysteria."
 
 ### THE PATTERN EMERGES (December 1989 - February 1990)
 
@@ -117,39 +132,53 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 - Objects hovering, moving slowly
 
 **11:49 PM - Military Radar Detection:**
-- **NATO radar** (Semmerzake CRC) detects unknown targets
-- **Glons radar** (Belgian Air Force) confirms
-- **Three separate radar stations** track objects
+- **NATO radar (CRC - Control and Reporting Center)** at Semmerzake detects unknown targets
+- **Glons radar** (Belgian Air Force) confirms contacts
+- **Three separate radar stations** track objects simultaneously
 
 **12:00 AM (March 31) - F-16s SCRAMBLED:**
 - Belgian Air Force scrambles **two F-16 Fighting Falcons**
-- Callsigns: **"Raven"** flight
-- Mission: Intercept and identify unknown targets
+- **Call signs:** **AL 17** and **AL 23**
+- **Takeoff:** 00:05 (12:05 AM), March 31, from **Beauvechain Air Base**
+- **Mission:** Intercept and identify unknown targets
+- **Under control of CRC** (Control and Reporting Center)
 
-**12:15 AM - RADAR LOCK:**
+**12:15 AM - RADAR LOCK (First of Six):**
 
 **F-16 Engagement:**
-- Pilots acquire radar lock on targets
-- **Distance:** ~6 miles (10 km)
+- Pilots acquire **6 radar locks** total (not 9 as some sources claim)
+- **Lock-on distances:** 5 to 8 nautical miles
+- **Lock duration:** 10 to 60 seconds before break-lock
 
-**Object Behavior:**
-- Stationary, then **accelerates to 1,000+ km/h** (620+ mph)
+**Object Behavior (First Lock at 0:13 hrs):**
+- **Speed change:** 150 knots → 970 knots **in minimum time** (instantaneous acceleration)
+- **Speed variations recorded:** 150 to 1,010 knots across multiple locks
 - **Altitude change:** 10,000 feet → 500 feet in seconds
-- **G-forces calculated:** 40+ Gs (would kill human pilot)
-- Jets lose lock
+- **G-forces calculated:** 40+ Gs (would kill human pilot, destroy most aircraft)
+- Jets lose lock each time
 
 **This pattern repeats:**
 - Lock on target → Object accelerates → Escape → Reappear elsewhere
-- **Over 1 hour:** Pilots lock onto objects 9 times, lose lock 9 times
+- **Between 00:07 and 00:54:** **9 interception attempts** made by fighters
+- **6 radar locks established**, all broken by extreme maneuvers
 
 **12:30 AM-1:30 AM - Cat and Mouse:**
 - Objects evade jets repeatedly
-- Pilots report: **"Too fast to intercept"**
-- Visual confirmation: Pilots briefly see lights (but too distant/fast for details)
+- **Pilots report:** "Too fast to intercept"
+- **Visual confirmation:** Pilots briefly see lights (but too distant/fast for clear details)
+- **Several brief radar contacts** on targets designated by CRC
 
 **1:30 AM - Objects Vanish:**
 - Radar contacts disappear
-- F-16s return to base
+- F-16s return to Beauvechain Air Base
+
+**Official Report:**
+- **Authored by:** **Major Lambrecht** (also written as Lambrechts)
+- **Pilot names:** Not publicly documented (classified or withheld)
+- **Analysis:** Electronic War Center (EWC) of Air Force conducted detailed technical analysis of F-16 computerized radar tapes
+  - **Led by:** Col. Salmon and physicist M. Gilmard
+  - **Completed:** 1992
+  - **Reviewed by:** Professor Auguste Meessen
 
 **Ground Witnesses:**
 - Hundreds report seeing jets chasing lights
@@ -158,14 +187,18 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 **Official Confirmation:**
 - Belgian Air Force holds press conference (days later)
 - **Acknowledges:** Radar contacts, jet scramble, no identification made
-- **Major General Wilfried De Brouwer:** "We don't know what they were"
+- **Colonel Wilfried De Brouwer** (Chief of Operations, Royal Belgian Air Force): **"We don't know what they were"**
+  - **Later promoted:** Major General, Deputy Chief of Belgian Air Force
+  - **Role during wave:** Tasked by Defense Minister **Guy Coëme** to handle UFO wave
+  - **Set up:** Special Task Force Unit to work closely with Gendarmerie (federal police)
+  - **Background:** 20 years as fighter pilot before appointment to Strategic Planning Branch
 
 ### THE FAMOUS PHOTO (April 1990)
 
 **The Image:**
-- **Photo taken:** Petit-Rechain, Belgium (April 1990)
+- **Photo taken:** **April 4, 1990**, **Petit-Rechain** (near Verviers), **Liège province**, Belgium
 - **Shows:** Dark triangular shape with three lights at corners, central red light
-- **Photographer:** Anonymous (later identified as "Patrick M.")
+- **Photographer:** Anonymous initially, later identified as **"Patrick M."** (full name: **Patrick Maréchal**)
 
 **Claimed Details:**
 - Nighttime photo
@@ -173,17 +206,38 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 - Clear triangular structure
 
 **Media Impact:**
-- **Became ICON of Belgian wave**
-- Published worldwide
-- Belgian military analyzed (deemed "authentic" initially)
+- **Released at height of wave** (April 1990)
+- **Became ICON of Belgian wave** (most famous UFO photo of 1990s)
+- Published worldwide in newspapers, magazines
+- **Examined by:**
+  - **NASA**
+  - **French National Centre for Scientific Research**
+  - **Belgian Royal Military Academy**
+  - **None found obvious signs of fakery** (initially deemed potentially authentic)
 
-**Later Controversy (2011):**
-- **Photographer confessed:** HOAX
-- Object was **Styrofoam model** (painted, suspended)
-- Photo faked to fool UFO researchers
+**The 2011 Confession:**
+- **Date:** July 26, 2011
+- **Venue:** Interview for **RTL Belgian TV channel**
+- **Maréchal's confession:** HOAX
+  - **Original purpose:** "Fool my workmates" (prank on colleagues)
+  - **Construction method:**
+    1. Cut piece of **Styrofoam** into triangle shape
+    2. **Painted it black**
+    3. Embedded a **flashlight in each corner** (three total)
+    4. **Hung it from a wire** (suspended for photograph)
+  - **Maréchal demonstrated** construction on camera
+
+**Later Controversy (Post-2011):**
+- **Claims emerged:** Maréchal was **paid money to debunk** the photo
+- **Timing suspicious:** Confession came before **Leslie Kean's 2011 UFO book** publication
+- **Maréchal's later statements:** Suggested pressure to recant (disputed)
+- **Debate continues:** Was confession real or coerced?
 
 **Believer Response:**
-"ONE photo was hoaxed. Doesn't invalidate 13,500 other witnesses."
+"ONE photo was hoaxed. Doesn't invalidate 13,500 other witnesses. And why was Maréchal allegedly paid to debunk it?"
+
+**Skeptic Counter:**
+"If FAMOUS photo is fake, casts doubt on entire wave. Shows hoaxers successfully fooled experts (NASA, military)."
 
 ### WHY BELIEVERS THINK IT'S REAL
 
@@ -191,57 +245,103 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 
 **F-16 Scramble:**
 - Belgian Air Force **officially confirmed** scramble
-- Radar data **released publicly** (unprecedented)
-- **Major General De Brouwer** (Deputy Chief, Belgian Air Force) openly discussed case
+- Radar data **released publicly** (unprecedented transparency)
+- **Official report authored:** Major Lambrecht (Belgian Air Force)
+- **Technical analysis completed:** 1992, Electronic War Center (EWC), led by Col. Salmon and physicist M. Gilmard
+- **Colonel (later Major General) Wilfried De Brouwer** (Chief of Operations, Deputy Chief of Belgian Air Force) openly discussed case
+  - Held press conferences
+  - **Post-retirement:** Spoke at **National Press Club, Washington D.C. (November 2007)**
+  - Appeared in documentaries: "Riddle of the Skies" (1999), "The Phenomenon" (2020), 2013 Symposium on Official and Scientific Investigations of UAP
+- **Special Task Force Unit** established by Defense Minister Guy Coëme to investigate wave
 
 **Believer Point:**
-"Military doesn't scramble jets for mass hysteria."
+"Military doesn't scramble jets, release radar data, hold press conferences, and set up task forces for mass hysteria."
 
 **Argument 2: RADAR + VISUAL CONFIRMATION**
 
 **The Gold Standard:**
-- **Three radar stations** tracked objects
-- **F-16 radar locks** (9 times)
-- **Ground witnesses** saw same objects
-- **Pilots** saw lights (visual)
+- **Three radar stations** tracked objects simultaneously (Semmerzake CRC, Glons, third station)
+- **F-16 radar locks:** **6 confirmed locks** (lock-on distances 5-8 nautical miles, duration 10-60 seconds)
+- **9 interception attempts** total (between 00:07 and 00:54)
+- **Ground witnesses** saw same objects (hundreds that night)
+- **Pilots** saw lights (visual confirmation, though brief)
 
 **Convergence:**
-- Radar + Visual = best evidence (not sensor error, not hallucination)
+- **Radar + Visual = best evidence** (not sensor error alone, not hallucination alone)
+- **Multiple independent radar systems** all tracking same targets
+- Ground-to-air visual + air-to-ground radar = cross-confirmation
 
 **Argument 3: PERFORMANCE BEYOND KNOWN TECH**
 
-**Object Capabilities:**
-- **Acceleration:** 0 to 1,000 km/h in seconds
-- **G-forces:** 40+ Gs (human limit ~9 Gs)
-- **Altitude changes:** Instant (10,000 ft → 500 ft)
-- **Silent/low noise:** Jets are LOUD; these weren't
+**Object Capabilities (From F-16 Radar Data):**
+- **Acceleration:** 150 knots → 970 knots **in minimum time** (first lock at 0:13 hrs)
+  - **Speed range:** 150 to 1,010 knots across multiple locks
+  - **Translation:** ~1,000+ km/h instantaneous acceleration
+- **G-forces calculated:** **40+ Gs** (human limit ~9 Gs, typical fighter jet limit ~12 Gs)
+- **Altitude changes:** 10,000 feet → 500 feet in seconds (extreme vertical maneuverability)
+- **Silent/low noise:** Ground witnesses report silence or low hum; F-16s are LOUD (these objects evaded F-16s while being quieter)
+- **Evasion capability:** Broke radar lock 6 times by accelerating beyond F-16 tracking capability
 
 **Believer Argument:**
-"No human aircraft could do this (in 1990 or now)."
+"No human aircraft could do this in 1990. Even today, no known aircraft can pull 40 Gs, accelerate to 1,000 km/h instantly, and remain silent."
 
 **Argument 4: WITNESS CREDIBILITY + VOLUME**
 
-**13,500+ Witnesses:**
-- Police (trained observers)
-- Military (off-duty pilots, soldiers)
-- Civilians (families, children, elderly)
+**Over 13,500 Witnesses:**
+- **Official count:** Over 13,500 people reported sightings during wave
+- **SOBEPS documentation:** Over 2,600 written statements recorded
+- **Breakdown:**
+  - Police officers (trained observers, including Nicoll and von Montigny)
+  - Military personnel (off-duty pilots, soldiers)
+  - Civilians (families, children, elderly - cross-section of population)
+
+**Investigation Results:**
+- **SOBEPS (Société belge d'étude des phénomènes spatiaux) published 1991 report:**
+  - Over **1,000 UFO sightings** documented during wave
+  - **650 accounts investigated** thoroughly
+  - **500 remain unexplained** (no conventional explanation found)
 
 **Consistency:**
-- All describe triangular craft with lights
-- **Before media saturation** (early reports match later reports)
+- All describe **triangular craft with lights** (three corners, central red light)
+- **Before media saturation:** Early reports (November 1989) match later reports (March 1990) - description template established before widespread publicity
+- **Geographic spread:** Concentrated in Eupen/Wallonia, but reported nationwide
 
 **Believer Point:**
-"Mass hysteria doesn't produce consistent, detailed reports across 18 months."
+"Mass hysteria doesn't produce 500 unexplained cases after thorough investigation. 13,500 witnesses, 2,600 written statements, consistent descriptions across 18 months."
 
 **Argument 5: OFFICIAL INVESTIGATION FOUND NO EXPLANATION**
 
-**Belgian Government:**
-- **SOBEPS** (Belgian UFO organization) investigated with military cooperation
-- Scientists involved (Auguste Meessen, physicist)
-- **Conclusion:** Unknown
+**Belgian Government & Scientific Investigation:**
+
+**SOBEPS (Société belge d'étude des phénomènes spatiaux):**
+- Full name: **Belgian Society for the Study of Space Phenomena**
+- Investigated with **full Belgian military cooperation** (unprecedented government transparency)
+- **Published:** Detailed 1991 report (documented over 1,000 sightings, 500 unexplained)
+
+**Scientific Consultants:**
+- **Professor Auguste Meessen:**
+  - **Position:** Professor of Physics (later Professor Emeritus), **Catholic University of Louvain**, Belgium
+  - **Role:** Scientific consultant to SOBEPS
+  - **Background:** Native of Eupen region, fluent in German
+  - **Joined investigation:** December 1989
+  - **Focus:** Concentrated on Eupen region (first major sightings)
+  - **Analysis work:** Reviewed 1992 technical analysis of F-16 radar tapes by EWC
+- **Dr. Léon Brenig:**
+  - **Position:** Nonlinear dynamics theorist, **Free University of Brussels**
+  - **Role:** Scientific consultant analyzing object behavior and physics
+
+**Military Analysis:**
+- **Electronic War Center (EWC)** of Belgian Air Force:
+  - **Led by:** Col. Salmon and physicist M. Gilmard
+  - **Completed:** Detailed technical analysis of F-16 computerized radar tapes (1992)
+  - **Reviewed by:** Professor Meessen
+
+**Conclusion:**
+- **Official status:** **Unknown** (no conventional explanation determined)
+- **500 cases remain unexplained** after thorough scientific investigation
 
 **Believer Interpretation:**
-"Government looked. Found nothing conventional. That's admission it's extraordinary."
+"Government cooperated fully with civilian investigators (unprecedented). Top scientists analyzed data for years. Military released radar tapes. Conclusion: Unknown. That's admission it's extraordinary."
 
 **Argument 6: TRIANGLE UFOS = PATTERN**
 
@@ -264,36 +364,50 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 **Most Popular Skeptic Explanation:**
 
 **The F-117 Nighthawk:**
-- **Stealth bomber** (triangular profile from some angles)
-- Operational: 1983-2008 (active during Belgian wave)
-- **Classified in 1989-90** (public didn't know details)
+- **Type:** Stealth attack aircraft (triangular/angular profile from some angles)
+- **Operational:** 1983-2008 (active during Belgian wave)
+- **Classification status during 1989-1990:**
+  - **Publicly acknowledged:** November 10, 1988 (ended "black project" classified status)
+  - **Officially unveiled:** April 1990 (public viewing at Nellis AFB)
+  - **Still partially classified** in details during Belgian wave
+- **First combat mission:** December 1989, Panama (Operation Just Cause)
+- **Fleet size:** 59 production aircraft (last delivered July 3, 1990)
+- **Based:** Tonopah Test Range Airport, Nevada (1989-1990)
 
 **How It Explains Sightings:**
-- **Triangular shape:** F-117 is angular (delta wing)
-- **Lights:** Navigation lights could be misinterpreted
+- **Triangular shape:** F-117 has angular, delta-wing appearance (could match descriptions)
+- **Lights:** Navigation lights could be misinterpreted as corner lights
 - **Silent:** Stealth tech reduces noise (from distance, seems quiet)
-- **Low altitude:** Stealth bombers fly low during training
+- **Low altitude:** Stealth aircraft can fly low
 
 **Problems With This Theory:**
 
 **1. Belgium Not F-117 Territory:**
-- **No F-117 bases in Belgium** (U.S. bases were in UK, Germany)
-- Training missions typically over designated areas
+- **No F-117 bases in Belgium** or Europe in 1989-1990
+- **U.S. bases:** UK, Germany (but no documented F-117 deployments there during wave)
+- **F-117 European NATO operations:** Not until **1999 Balkans conflict** (Aviano Air Base Italy, Spangdahlem Germany)
+- Training missions over Belgium in 1989-90: **No documented evidence**
 
 **2. Speed/Maneuverability:**
-- F-117: **Subsonic** (slower than F-16)
-- **Can't outrun F-16s** (sightings showed objects escaping jets)
+- F-117: **Subsonic** (max speed ~680 mph, slower than F-16's 1,500 mph)
+- **Can't outrun F-16s** (radar showed objects accelerating to 1,010 knots, escaping F-16 pursuit)
+- **Can't pull 40 Gs** (no aircraft can)
 
 **3. Size:**
-- F-117 wingspan: ~43 feet
-- **Witnesses reported objects 100+ feet** (too big)
+- F-117 wingspan: ~43 feet (13 meters)
+- **Witnesses reported objects 100-130 feet** (30-40 meters) - **too big** (almost 3x larger)
 
 **4. Belgian Military Would Recognize:**
 - **NATO cooperation:** Belgian Air Force familiar with U.S. aircraft
-- Unlikely to misidentify
+- **Colonel De Brouwer (Chief of Operations)** would know about NATO exercises
+- Unlikely to misidentify AND scramble jets against friendly NATO aircraft
+
+**5. Timing:**
+- **Last F-117 delivered:** July 3, 1990 (wave peaked March 1990)
+- **Based in Nevada** during entire wave (no European deployment)
 
 **Skeptic Hedge:**
-"Maybe F-117 OR other classified aircraft. Can't prove because classified."
+"Maybe F-117 OR other classified aircraft we don't know about. Can't prove because classified. But F-117 specifically doesn't fit the evidence."
 
 ### THE RADAR ANOMALY EXPLANATION
 
@@ -305,25 +419,38 @@ The Belgian UFO Wave remains one of the best-documented mass sighting events in 
 - Creates "ghost" targets on radar
 
 **How This Explains F-16 Data:**
-- **9 radar locks, 9 losses:** Consistent with false targets (lock on inversion, it "moves" as conditions change, lose lock)
-- **Extreme speeds/accelerations:** Radar errors create impossible movements
+- **6 radar locks, all broken:** Consistent with false targets (lock on inversion, it "moves" as atmospheric conditions change, lose lock)
+- **Extreme speeds/accelerations:** Radar errors create appearance of impossible movements (150 → 970 knots instantly = glitch, not real object)
+- **Bragg scattering:** Well-known atmospheric radar interference phenomenon
 
-**Problems:**
+**Skeptical Re-Analysis of F-16 Data:**
+- **Belgian military skeptics:** Upon analyzing data, **only 3 radar locks were on real objects**
+- **Other locks:** Result of Bragg scattering (atmospheric interference)
+- **Some locks:** F-16s locked onto **each other** (not UFOs)
+- **Conclusion:** Radar chasing "ghosts" (temperature inversions, ground clutter)
+
+**Problems With Radar Anomaly Theory:**
 
 **1. Visual Confirmations:**
-- Ground witnesses SAW objects (not just radar)
-- **Radar + Visual = harder to explain as sensor error**
+- Ground witnesses SAW triangular objects (not just radar blips)
+- **Hundreds of reports** that night (March 30-31) from civilians, police
+- **Radar + Visual = harder to explain as sensor error alone**
 
 **2. Three Radar Stations:**
-- All three tracked same targets
-- **Unlikely all three had same anomaly simultaneously**
+- All three tracked same targets **simultaneously** (Semmerzake CRC, Glons, third station)
+- **Unlikely all three had same anomaly at same time** tracking same false targets
 
 **3. Pilots Saw Lights:**
-- F-16 pilots **briefly** saw lights (visual confirmation)
-- Not just instruments
+- F-16 pilots **briefly** saw lights (visual confirmation, not just instruments)
+- Though distant and fast, pilots reported seeing something
+
+**4. Pre-F-16 Sightings:**
+- **Hundreds of civilian reports** BEFORE jets scrambled (11:00 PM onward)
+- Police patrols saw objects BEFORE radar detections
+- Can't explain ground sightings with radar anomalies
 
 **Skeptic Response:**
-"Pilots saw distant aircraft/lights, assumed connection to radar targets."
+"Pilots saw distant aircraft/stars, assumed connection to radar targets. Ground witnesses saw conventional aircraft, media primed expectations. Radar data is mix of real aircraft + atmospheric interference."
 
 ### THE MASS HYSTERIA EXPLANATION
 
@@ -468,13 +595,28 @@ If I had to bet: Belgium experienced wave of stealth aircraft sightings (F-117 o
 
 ## 🔗 SOURCES
 
-1. **De Brouwer, Major General Wilfried** - Belgian Air Force statements, press conferences
-2. **SOBEPS** (Société Belge d'Étude des Phénomènes Spatiaux) - Investigation reports
-3. **Meessen, Auguste** - "Belgian UFO Wave: Analysis" (physicist analysis)
-4. **Paris Match** - Original publication of Petit-Rechain photo (later hoaxed)
-5. **Skeptical Inquirer** - Skeptical analysis of Belgian wave
-6. **Klass, Philip J.** - "The Belgian UFO Wave of 1989-1990" (debunking)
-7. **Belgian Ministry of Defence** - Released radar data, F-16 mission logs
+### Primary Sources
+1. **Belgian Ministry of Defence** - Released radar data, F-16 mission logs, official reports
+2. **Major Lambrecht** - Official report on F-16 scramble (March 30-31, 1990)
+3. **Electronic War Center (EWC), Belgian Air Force** - Technical analysis of F-16 radar tapes (1992) - Col. Salmon and physicist M. Gilmard
+4. **SOBEPS** (Société belge d'étude des phénomènes spatiaux / Belgian Society for Study of Space Phenomena) - 1991 comprehensive report (over 1,000 sightings documented, 500 unexplained)
+
+### Key Figures
+5. **De Brouwer, Colonel (later Major General) Wilfried** - Chief of Operations, Royal Belgian Air Force (during wave); Deputy Chief (post-wave); press conferences, National Press Club 2007
+6. **Meessen, Professor Auguste** - Professor of Physics (Professor Emeritus), Catholic University of Louvain; scientific consultant to SOBEPS; reviewed EWC radar analysis
+7. **Brenig, Dr. Léon** - Nonlinear dynamics theorist, Free University of Brussels; scientific consultant to SOBEPS
+
+### Witnesses
+8. **Nicoll, Heinrich & von Montigny, Hubert** - Police officers, first major sighting (November 29, 1989, Eupen); dispatcher Albert Creutz
+9. **Over 2,600 written witness statements** collected by SOBEPS
+
+### Photo Hoax
+10. **Maréchal, Patrick** - Petit-Rechain photo (April 4, 1990); confession July 26, 2011 (RTL Belgian TV) - Styrofoam model hoax
+11. **Paris Match** - Original publication of Petit-Rechain photo (examined by NASA, French National Centre for Scientific Research, Belgian Royal Military Academy)
+
+### Skeptical Analysis
+12. **Skeptical Inquirer** - Skeptical analysis of Belgian wave (Bragg scattering, radar anomalies)
+13. **Klass, Philip J.** - "The Belgian UFO Wave of 1989-1990" (debunking, F-117 theory)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -489,17 +631,24 @@ If I had to bet: Belgium experienced wave of stealth aircraft sightings (F-117 o
 - Belgian Wave = real-world "X-File"
 
 **The Petit-Rechain Photo Hoax:**
-- **2011:** Patrick Maréchal confessed
-- Object: Styrofoam painted black, lights added
-- **Why confess?** Dying, wanted truth out
-- Believers: "One hoax doesn't invalidate wave"
-- Skeptics: "If FAMOUS photo is fake, what else is?"
+- **Photo date:** April 4, 1990, Petit-Rechain (near Verviers), Liège province
+- **2011 confession:** Patrick Maréchal (RTL Belgian TV, July 26, 2011)
+- **Object construction:** Styrofoam cut into triangle, painted black, flashlight in each corner, hung from wire
+- **Original purpose:** Fool workmates (prank)
+- **Examined by:** NASA, French National Centre for Scientific Research, Belgian Royal Military Academy (none found obvious fakery initially)
+- **Confession controversy:** Later claims Maréchal was paid to debunk photo before Leslie Kean's 2011 UFO book
+- **Believers:** "One hoax doesn't invalidate 500 unexplained cases"
+- **Skeptics:** "If FAMOUS photo fooled NASA and military, shows how easily UFO evidence can be faked"
 
 **F-117 Nighthawk Timeline:**
-- **1983:** Operational (classified)
-- **1988:** Existence acknowledged (photo released)
-- **1989-1991:** Belgian wave (F-117 still partially classified)
-- **Theory:** Training flights over Europe (NATO cooperation)
+- **Operational:** 1983-2008 (classified "black project")
+- **November 10, 1988:** Publicly acknowledged (ended classified status)
+- **December 1989:** First combat mission (Panama, Operation Just Cause)
+- **April 1990:** Officially unveiled (Nellis AFB public viewing)
+- **July 3, 1990:** Last of 59 production aircraft delivered
+- **1989-1991 Belgian wave:** F-117 based at Tonopah Test Range, Nevada (NO documented European operations)
+- **European NATO operations:** Not until 1999 Balkans conflict (Aviano Italy, Spangdahlem Germany)
+- **Theory debunked:** No evidence F-117 flew over Belgium in 1989-1990
 
 **Triangle UFO Legacy:**
 - **Post-Belgium:** Triangle sightings increase globally
@@ -507,12 +656,32 @@ If I had to bet: Belgium experienced wave of stealth aircraft sightings (F-117 o
 - **Phoenix Lights** (1997): Triangle formation
 - Belgium = prototype for modern triangle UFO reports
 
-**Major General De Brouwer's Position:**
-- Never said "aliens"
-- Said: "Unknown" (military couldn't ID)
-- Later: Appeared at UFO conferences (believer-friendly)
-- Skeptics: "Retired general cashing in on UFO fame"
+**Colonel (later Major General) Wilfried De Brouwer:**
+
+**Career:**
+- **20 years** as fighter pilot, Belgian Air Force
+- **During wave:** Colonel, Chief of Operations, Royal Belgian Air Force
+- **Later promoted:** Major General, Deputy Chief of Belgian Air Force
+- **Tasked by:** Defense Minister Guy Coëme to handle UFO wave
+- **Set up:** Special Task Force Unit (worked with Gendarmerie)
+
+**Position on UFOs:**
+- Never said "aliens" or "extraterrestrial"
+- Official statement: **"Unknown"** (military couldn't conclusively identify objects)
+- Emphasized: "We don't know what they were" (not "we know they're aliens")
+
+**Post-Retirement Activities:**
+- **National Press Club, Washington D.C. (November 2007):** Spoke alongside international officials on UFOs
+- **Documentaries:** "Riddle of the Skies" (1999), "The Phenomenon" (2020), 2013 Symposium on Official and Scientific Investigations of UAP
+- **Book contribution:** Provided exclusive account with personal responses never expressed before
+- **UFO conferences:** Appeared at believer-friendly events
+
+**Skeptics' Interpretation:**
+"Retired general cashing in on UFO fame. Says 'unknown' but appears at UFO conferences = implying aliens without saying it."
+
+**Believers' Interpretation:**
+"Highest-ranking military official to publicly discuss UFO case. Continues speaking 30+ years later because case genuinely unexplained."
 
 ---
 
-**COMPLETE: ~4,700 words | 7 sources**
+**COMPLETE: ~6,800 words | 13 sources**

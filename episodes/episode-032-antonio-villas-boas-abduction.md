@@ -4,7 +4,7 @@
 - **Episode:** 032 | **Category:** Alien Abduction
 - **Date:** October 15-16, 1957
 - **Location:** São Francisco de Sales, Minas Gerais, Brazil
-- **Key Figures:** Antonio Villas Boas (23-year-old farmer), Dr. Olavo Fontes (investigator/physician), Dr. Walter Buhler (UFO researcher)
+- **Key Figures:** António Vilas-Boas (23-year-old farmer, later lawyer), Dr. Olavo Fontes (gastroenterologist/APRO researcher), Dr. Walter Buhler (SBEDV leader), João Martins (O Cruzeiro journalist)
 - **Cultural Impact:** First detailed alien abduction case reported; predates Betty & Barney Hill (1961); introduced sexual/reproductive element to abduction narrative; influenced abduction research
 - **Difficulty:** ⭐⭐⭐ (Single witness, bizarre claims, but medical evidence and early reporting)
 
@@ -61,41 +61,62 @@ Months later, he tells doctors his story. They find: **Physical evidence of expo
 
 ### THE WITNESS
 
-**Antonio Villas Boas (1934-1991):**
-- **Age:** 23 (at time of incident)
-- **Occupation:** Farmer (family farm, São Francisco de Sales)
-- **Education:** Elementary (limited schooling, rural Brazil)
-- **Personality:** Shy, conservative, religious
+**António Vilas-Boas (1934–1991):**
+
+**Personal Background:**
+- **Full name:** António Vilas-Boas (note spelling variation from "Antonio")
+- **Born:** 1934, São Francisco de Sales, Minas Gerais, Brazil
+- **Parents:** Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963)
+- **Age at incident:** 23 (October 1957)
+- **Occupation (1957):** Farmer on family farm
+- **Education:** Elementary (limited schooling, rural Brazil), but **determinedly upwardly mobile**
+  - Studied via **correspondence course** while farming
+- **Death:** January 17, 1991 (some sources incorrectly say 1992)
+
+**Later Life:**
+- **Career:** Became lawyer (completed law degree via correspondence, practiced successfully)
+- **Family:** Married, had **4 children**
+- **Public stance:** Rarely discussed case publicly (avoided UFO conferences)
+  - **Maintained story when asked** (stuck to account entire life)
+
+**Personality (1957):**
+- Shy, conservative, religious
 - **No UFO interest** before incident
 
 **Why Credibility Matters:**
 - **Rural farmer:** Unlikely to know UFO lore (1957 = pre-widespread UFO culture in Brazil)
 - **Embarrassment:** Sexual details humiliating (why fabricate this?)
 - **Consistent story:** Never changed account (maintained until death, 1991)
+- **No financial gain:** Didn't sell story, avoided publicity
 
 ### THE ENCOUNTER (Detailed Timeline)
 
 **Lead-Up (Days Before):**
 
-**October 5, 1957:**
-- Antonio & brother see bright light in sky over farm
+**October 5, 1957 (10 days prior):**
+- **Time:** Little after 11 PM
+- Antonio & brother see bright white light in sky over farm
 - Light hovers, moves erratically
 - **Descends toward farmhouse** (comes close, then retreats)
 - Repeats pattern (approach, retreat)
 - Eventually flies away
 
-**October 14, 1957:**
-- Antonio alone in field (night plowing)
-- Sees bright light again (high in sky)
+**October 14, 1957 (Night before abduction):**
+- **Time:** Around 9-10 PM
+- Antonio & brother tilling fields (night work)
+- See extremely bright light **a little over 300 feet above their heads**
 - Watches it, continues working
 - **Light follows him** (moves when he moves)
 - Eventually disappears
 
 **The Abduction (October 15-16, 1957):**
 
+**Date clarification:** Incident occurred on **evening of October 15 into early morning of October 16** (started night of 15th, continued past midnight into 16th)
+
 **Setting:**
-- **Time:** ~1:00 AM
-- **Activity:** Antonio plowing field (tractor, night work)
+- **Time:** ~1:00 AM (early morning of October 16, 1957)
+- **Activity:** António plowing field (tractor, night work to avoid daytime heat)
+- **Location:** Family farm, São Francisco de Sales, Minas Gerais
 - **Weather:** Clear night
 
 **1:00 AM - THE CRAFT APPEARS:**
@@ -199,30 +220,86 @@ Months later, he tells doctors his story. They find: **Physical evidence of expo
 - Health recovered over months
 
 **Months Later (February 1958):**
-- Antonio confides in journalist João Martins
+- António confides in journalist **João Martins**
 - Journalist contacts **Dr. Olavo Fontes** (physician, UFO researcher)
 
 ### THE INVESTIGATION
 
-**Dr. Olavo Fontes (Physician/Investigator):**
-- Interviewed Antonio (February 1958, ~4 months after incident)
-- **Medical examination:**
-  - Found scars (chin, arms)
-  - Documented yellow facial spots
-  - Symptoms **consistent with radiation poisoning** (but no way to prove source)
+**João Martins (O Cruzeiro Magazine Journalist):**
 
-**Antonio's Account:**
+**Background:**
+- **Publication:** O Cruzeiro (major Brazilian magazine)
+- **1957 series:** "Flying Saucers' Terrible Mission"
+- **Call for stories:** Asked readers to write with their own UFO experiences
+- **Hundreds of responses:** Selected António Vilas-Boas from many letters
+
+**Role in Case:**
+- **1958:** Paid for 23-year-old farmer to come to Rio de Janeiro
+- Arranged medical examination with Dr. Olavo Fontes
+- **Initial skepticism:** Either Martins or Dr. Fontes thought farmer was fabricating story
+- **Why delayed publication:** Skepticism about claims = didn't immediately publish
+
+**Earlier UFO interest:**
+- **May 5, 1952:** Martins and photographer Eduardo Keffel claimed to see flying disk near Barra da Tijuca
+- Keffel took photographs published by O Cruzeiro
+
+**Dr. Olavo Fontes (Gastroenterologist/UFO Researcher):**
+
+**Credentials:**
+- **Specialty:** Gastroenterologist
+- **Affiliation:** National School of Medicine of Brazil
+- **UFO Research:** Eminent Brazilian UFO researcher (1950s-1960s)
+- **APRO:** Working relationship with Aerial Phenomena Research Organization (Jim and Coral Lorenzen, American group)
+- **Maintained:** Thriving medical practice alongside UFO research
+
+**The Interview (February 22, 1958):**
+- **Location:** Rio de Janeiro
+- **Timing:** 6 months after alleged October 1957 abduction
+- Interviewed António Vilas-Boas in detail
+
+**Medical Examination:**
+- Found scars (chin—where blood sample taken, arms)
+- Documented yellow facial spots (two permanent marks)
+- Symptoms **consistent with radiation poisoning** (but no way to prove source after 6 months)
+
+**Dr. Fontes' Findings:**
+- **Radiation exposure conclusion:** "Exposed to large dose of radiation from some source, now suffering from mild radiation sickness"
+- **Mental health assessment:** **"Complete absence of any direct or indirect signs of mental illness in the patient"**
+- **Personality:** "Not prone to psychopathy, superstition or mysticism"
+
+**António's Account (to Dr. Fontes):**
 - Told story in detail (embarrassment visible—sexual details difficult to discuss)
 - **Consistent narrative** (no contradictions)
 - Drew symbols he saw on craft (undecipherable)
 
 **Dr. Fontes' Conclusion:**
-"Antonio experienced something that caused physical trauma. His symptoms match radiation exposure. Whether extraterrestrial or unknown terrestrial source, something happened."
+"António experienced something that caused physical trauma. His symptoms match radiation exposure. Whether extraterrestrial or unknown terrestrial source, something happened."
 
-**Publication:**
-- **1958:** Story published in Brazilian UFO magazine (SBEDV)
-- **1966:** English translation published (Flying Saucer Review)
-- **Goes international:** Becomes known in UFO community
+**Aftermath (February 27, 1958 - Just 4 Days Later):**
+- **Dr. Fontes summoned to meeting** with military officials
+- **Present:** American and Brazilian Naval Intelligence officers
+- **Warning:** Officers told Fontes to **stop his UFO work**
+- **Confession:** Then confided that **6 UFOs had crashed throughout the world since World War II**
+- **Documentation:** Fontes sent letter to APRO (February 27, 1958) describing encounter
+
+**Publication Timeline:**
+
+**1958 (Portuguese):**
+- **SBEDV** (Sociedade Brasileira de Estudos sobre Discos Voadores = Brazilian Society for Study of Flying Saucers)
+- Published bulletins: September 1958, November 1958
+
+**1961-1962 (Follow-Up Investigation):**
+- **Dr. Walter Buhler** (SBEDV leader, Rio de Janeiro) visited António in hometown
+- **More than 3 years** after alleged incident
+- **George Adamski follower:** Buhler follower of contactee George Adamski
+- SBEDV published report in English
+
+**1965 (English Translation):**
+- **January 1965:** Flying Saucer Review published English account
+  - **Based on:** Dr. Walter Buhler's 1962 report
+  - **Gordon Creighton:** Provided detailed account
+- **Goes international:** Becomes known in worldwide UFO community
+- **O Cruzeiro:** Also brought story to Spanish-speaking world (revealed A.V.B. initials = António Vilas-Boas)
 
 ### WHY BELIEVERS THINK IT'S REAL
 
@@ -445,12 +522,52 @@ If I'm being honest: This sounds like a sexual fantasy that a lonely, isolated y
 
 ## 🔗 SOURCES
 
-1. **Fontes, Dr. Olavo** - Medical examination report (1958)
-2. **Flying Saucer Review** - English publication of case (1966)
-3. **SBEDV (Brazilian UFO organization)** - Original Portuguese publication (1958)
-4. **Buhler, Dr. Walter** - Follow-up investigation
-5. **Hopkins, Budd** - "Intruders" (references Villas Boas case)
-6. **Randle, Kevin & Estes, Russ** - "Spaceships of the Visitors" (analysis)
+### Primary Investigation and Witnesses
+
+1. **Vilas-Boas, António** (1934 - January 17, 1991)
+   - Born São Francisco de Sales, Minas Gerais, Brazil
+   - Parents: Jerônimo Pedro Vilas-Boas (1887-1963), Enésia Cândida de Oliveira (1897-1963)
+   - Later career: Lawyer (correspondence course), married, 4 children
+   - Maintained story until death, rarely discussed publicly
+2. **Martins, João** - O Cruzeiro magazine journalist
+   - 1957 series: "Flying Saucers' Terrible Mission"
+   - Selected Vilas-Boas from hundreds of reader responses
+   - Paid for farmer's travel to Rio de Janeiro (1958)
+   - May 5, 1952: Claimed UFO sighting with photographer Eduardo Keffel at Barra da Tijuca
+
+### Medical and Scientific Investigation
+
+3. **Fontes, Dr. Olavo** - Medical examination report (February 22, 1958)
+   - Gastroenterologist, National School of Medicine of Brazil
+   - APRO (Aerial Phenomena Research Organization) affiliate - working with Jim and Coral Lorenzen
+   - Findings: Radiation-like symptoms, complete absence of mental illness
+   - **February 27, 1958:** Summoned by American/Brazilian Naval Intelligence, warned to stop UFO work, told 6 UFOs crashed worldwide since WWII
+
+### UFO Research Organizations
+
+4. **SBEDV** (Sociedade Brasileira de Estudos sobre Discos Voadores = Brazilian Society for Study of Flying Saucers)
+   - Led by Dr. Walter Buhler, Rio de Janeiro
+   - Original Portuguese publication: Bulletins September 1958, November 1958
+   - Published English report (1961-1962)
+5. **Buhler, Dr. Walter** - SBEDV leader, follow-up investigation
+   - Visited António in hometown (1961-1962, 3+ years after incident)
+   - George Adamski follower
+   - Later work: "O Caso de Mirassol" (1984) on 1979 Antonio Ferreira abduction
+6. **APRO** (Aerial Phenomena Research Organization)
+   - Founded by Jim and Coral Lorenzen (American group)
+   - Dr. Fontes sent February 27, 1958 letter describing Naval Intelligence meeting
+
+### International Publication
+
+7. **Flying Saucer Review** - English publication (January 1965, NOT 1966 as sometimes stated)
+   - Gordon Creighton's detailed account
+   - Based on Dr. Walter Buhler's 1962 report
+8. **O Cruzeiro** magazine (1965) - Spanish-speaking world publication, revealed A.V.B. initials
+
+### Referenced Works
+
+9. **Hopkins, Budd** - "Intruders" (references Vilas-Boas case as template for reproductive abduction claims)
+10. **Randle, Kevin & Estes, Russ** - "Spaceships of the Visitors" (analysis of case)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -496,4 +613,4 @@ If I'm being honest: This sounds like a sexual fantasy that a lonely, isolated y
 
 ---
 
-**COMPLETE: ~4,600 words | 6 sources**
+**COMPLETE: ~6,000 words | 10 sources**

@@ -53,16 +53,19 @@ Kenneth Arnold didn't invent UFOs. But he gave them their name. And kicked off t
 
 ### THE WITNESS
 
-**Kenneth Arnold (1915-1984):**
-- **Profession:** Businessman (fire safety equipment salesman)
+**Kenneth Arnold (March 29, 1915 – January 16, 1984):**
+- **Profession:** Businessman - owned Great Western Fire Control Supply in Boise, Idaho (founded 1940)
+- **Business:** Sold and installed automatic and manual fire fighting equipment across five western states
+- **Previous employment:** Red Comet (manufacturer of automatic firefighting equipment, 1938-1940)
 - **Pilot credentials:** Experienced (over 9,000 flight hours by 1947)
-- **Other roles:** Deputy federal marshal (search & rescue)
+- **Other roles:** Deputy federal marshal; member of Idaho Search and Rescue Mercy Flyers
 - **Reputation:** Respected, honest, no history of tall tales
 - **No UFO interest before sighting** (skeptical of "Buck Rogers stuff")
+- **Politicians:** Also served in some political capacity in Idaho
 
 **Why His Credibility Matters:**
 - Not a crank or attention-seeker
-- Had everything to LOSE (business reputation)
+- Had everything to LOSE (business reputation selling safety equipment)
 - **Regretted publicity** (lifelong burden)
 - Never made significant money from sighting
 
@@ -133,22 +136,33 @@ Kenneth Arnold didn't invent UFOs. But he gave them their name. And kicked off t
 **Initial Report:**
 - Arnold lands, tells friends at airport
 - **Calls FBI** (closed for day)
-- Calls newspaper (East Oregonian)
-- **Bill Bequette (journalist)** interviews him
+- Calls newspaper (East Oregonian in Pendleton, Oregon)
+- **Bill Bequette and Nolan Skiff (journalists)** interview him next day (June 25)
 
 **The Article:**
 - **Headline:** "Impossible! Maybe, But Seein' Is Believin', Says Flyer"
-- Bequette coins phrase **"flying saucer"** (from Arnold's "saucer" description)
-- **Associated Press picks up story** (goes national)
+- Bequette's description: "nine bright **saucer-like objects**" (Arnold's words)
+- **"Flying saucer" term:** Anonymous headline writer coined phrase June 26-27 (not Bequette directly)
+- Bequette put story on **Associated Press wire service** (goes national immediately)
+- **June 26-27:** Newspapers across country first use terms "flying saucer" and "flying disk"
 
 **June 25-26:**
-- Story explodes nationwide
-- **Hundreds of "flying saucer" sightings** reported (copycat sightings?)
+- Story explodes nationwide via AP wire
+- **Next 2-3 weeks:** Similar sightings erupt across United States
+- **Hundreds of "flying saucer" sightings** reported (copycat sightings or genuine wave?)
 - Arnold becomes reluctant celebrity
 
 **Military Investigation:**
-- Army Air Force interviews Arnold (Project Blue Book predecessor)
-- **Conclusion:** "Unknown"
+- Army Air Force interviews Arnold
+- **Project Sign (1948):** First official U.S. government UFO investigation program
+  - Initiated late 1947/early 1948 following Arnold sighting and nationwide wave
+  - Established by Air Force General Nathan Farragut Twining (head of Air Technical Service Command)
+  - Initially named "Project SAUCER"
+  - Goal: Collect, evaluate, distribute UFO information (national security concern)
+  - Location: Wright-Patterson Air Force Base (home of all subsequent official investigations)
+  - Active: Most of 1948
+  - **Succeeded by:** Project Grudge (late 1948) → Project Blue Book (March 1952)
+- **Arnold case conclusion:** "Unknown"
 - Arnold deemed credible witness
 
 ### WHY BELIEVERS THINK IT'S REAL
@@ -187,9 +201,18 @@ Kenneth Arnold didn't invent UFOs. But he gave them their name. And kicked off t
 **Argument 4: THE UFO WAVE IT TRIGGERED**
 
 **Post-Arnold Sightings (June-July 1947):**
-- **Hundreds** of sightings nationwide
+- **June 24:** Arnold sighting (day 1)
+- **Next 6 weeks:** At least **850 additional sightings** of flying disks reported
+- **Next 2-3 weeks:** Hundreds of similar sightings flood in from U.S. and around world
+- Most describing **saucer-shaped objects** (influenced by media reports)
 - Many from credible witnesses (pilots, military, police)
-- **Roswell incident:** July 1947 (days after Arnold)
+- **July 8:** Roswell incident announced (2 weeks after Arnold) - hundreds more sightings reported by this time
+- **By July 31:** 1947 UFO wave in full swing
+
+**Statistics:**
+- **Several hundred** reports minimum (conservative estimate)
+- **850 sightings** in 6 weeks (some sources)
+- Considered a **genuine phenomenon** in UFO history
 
 **Believer Theory:**
 "Arnold opened the floodgates. People started LOOKING UP and seeing what was already there."
@@ -197,12 +220,17 @@ Kenneth Arnold didn't invent UFOs. But he gave them their name. And kicked off t
 **Argument 5: MILITARY RESPONSE**
 
 **U.S. Military Took It Seriously:**
-- Interviewed Arnold
-- Began investigating UFO reports (Project Sign, 1948)
+- Army Air Force interviewed Arnold immediately
+- **Late 1947/early 1948:** Established **Project Sign** (first official government UFO program)
+  - Initiated by General Nathan Twining, Air Technical Service Command
+  - Originally called "Project SAUCER"
+  - Mission: Collect/evaluate UFO information as potential national security concern
+  - Located at Wright-Patterson AFB
+- **Project Sign → Project Grudge (1948) → Project Blue Book (1952)**
 - **Scrambled jets** to intercept UFOs (multiple incidents 1947-52)
 
 **Believer Interpretation:**
-"If military thought it was nonsense, why investigate? They KNEW something was happening."
+"If military thought it was nonsense, why create official investigation program? They KNEW something was happening."
 
 **Argument 6: DESCRIPTION PREDATES "GREY ALIEN" ERA**
 
@@ -328,18 +356,21 @@ Kenneth Arnold didn't invent UFOs. But he gave them their name. And kicked off t
 ### THE "FLYING SAUCER" MISCOMMUNICATION
 
 **What Arnold ACTUALLY Said:**
-- Objects were **crescent or bat-wing shaped**
+- Objects were **crescent or bat-wing shaped** ("flat like a pie pan")
 - They MOVED "like a saucer skipping on water" (describing MOTION, not SHAPE)
 
 **What Press Reported:**
-- **"Flying saucers"** (implied disc shape)
+- **Bill Bequette (East Oregonian):** Used phrase "nine bright **saucer-like objects**" (June 25, 1947)
+- **Anonymous headline writer:** Coined "**flying saucer**" and "**flying disk**" (June 26-27)
+- **Bequette's role:** Put story on AP wire (spread nationally), but did NOT invent "flying saucer" term
+- **Media amplification:** AP wire picked up story, newspapers across country used "flying saucer" in headlines
 
 **Result:**
-- Public imagined DISC-SHAPED craft
+- Public imagined DISC-SHAPED craft (not Arnold's crescent description)
 - **Subsequent sightings:** People saw "discs" (cultural contamination)
 
 **Skeptic Point:**
-"The term 'flying saucer' was media invention. Arnold's actual description doesn't match what people started reporting."
+"The term 'flying saucer' was media invention by anonymous headline writer. Arnold's actual description (crescents) doesn't match what people started reporting."
 
 ### THE PSYCHOLOGY OF THE FIRST SIGHTING
 
@@ -423,13 +454,21 @@ Kenneth Arnold didn't invent aliens. He saw something ambiguous, described it ho
 
 ## 🔗 SOURCES
 
+### Primary Sources:
 1. **Arnold, Kenneth** - "The Flying Saucer As I Saw It" (1950)
-2. **Bequette, Bill** - Original East Oregonian article (June 25, 1947)
-3. **Project Blue Book Files** - Arnold case file
-4. **Hynek, Dr. J. Allen** - "The UFO Experience" (1972) - Analysis of Arnold case
-5. **Klass, Philip J.** - "UFOs Explained" (1974) - Skeptical analysis
-6. **Peebles, Curtis** - "Watch the Skies!" (1994) - History of UFO phenomenon
-7. **Sagan, Carl & Page, Thornton** - "UFO's: A Scientific Debate" (1972)
+2. **Bequette, Bill & Skiff, Nolan** - East Oregonian original article (June 25, 1947)
+3. **Associated Press** - Wire service reports (June 25-27, 1947)
+4. **Project Sign Files** - Arnold case file (Wright-Patterson AFB, 1948)
+5. **Project Blue Book Files** - Arnold case historical file
+6. **General Nathan Twining** - Memo establishing Project Sign (1947)
+
+### Secondary Sources:
+7. **Hynek, Dr. J. Allen** - "The UFO Experience" (1972) - Analysis of Arnold case
+8. **Klass, Philip J.** - "UFOs Explained" (1974) - Skeptical analysis
+9. **Peebles, Curtis** - "Watch the Skies!" (1994) - History of UFO phenomenon
+10. **Sagan, Carl & Page, Thornton** - "UFO's: A Scientific Debate" (1972)
+11. **Bloecher, Ted** - "Report on the UFO Wave of 1947" (comprehensive statistics)
+12. **Wikipedia** - "Kenneth Arnold", "Project Sign", "Kenneth Arnold UFO sighting" (comprehensive documentation)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -455,9 +494,14 @@ Kenneth Arnold didn't invent aliens. He saw something ambiguous, described it ho
 
 **Historical Impact:**
 Within 3 weeks of Arnold sighting:
-- **June 24:** Arnold sighting
+- **June 24:** Arnold sighting (Mount Rainier, WA)
+- **June 25:** Bequette & Skiff publish story in East Oregonian
+- **June 25:** AP wire picks up story (national coverage begins)
+- **June 26-27:** "Flying saucer" and "flying disk" terms first appear in headlines
+- **Next 6 weeks:** 850+ additional flying disk sightings reported
 - **July 8:** Roswell incident announced (then retracted)
 - **By July 31:** Hundreds of "flying saucer" reports nationwide
+- **Late 1947:** Army Air Force establishes Project Sign (first official UFO program)
 
 **One sighting changed everything.**
 

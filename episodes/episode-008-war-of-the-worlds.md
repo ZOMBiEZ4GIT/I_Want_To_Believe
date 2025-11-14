@@ -57,6 +57,20 @@ Or... did that actually happen?
 - Adapted H.G. Wells's 1898 novel for radio
 - **Brilliant format:** Fake news bulletins interrupting music
 
+**Howard Koch's Writing Process:**
+- **Writer:** Howard Koch, hired by Welles and John Houseman at $50/week (later $60)
+- **Time constraint:** Only **6 days** to write the script
+- **Crisis:** October 25, 1938 (36 hours before rehearsal), Koch called Houseman in **"deep distress"**
+  - Said he **could not make The War of the Worlds interesting or credible** as a radio play
+  - Concern shared by his secretary Anne Froelick
+- **All-nighter:** Houseman joined Koch and Froelick to work through the night
+- **First draft completed:** October 26, 1938
+- **Adaptation choices:**
+  - Changed setting from 19th-century England to 20th-century United States
+  - Selected **Grovers Mill, New Jersey** by **randomly dropping a pencil point onto a map**
+  - Koch later noted he "liked the sound" of the name
+- **Format innovation:** First two-thirds presented as **simulated live newscast** with news bulletins interrupting dance music
+
 **The "Panic":**
 - Millions tuned in late, missed opening disclaimer
 - Believed Martians were actually invading
@@ -65,7 +79,13 @@ Or... did that actually happen?
 - Some claim suicides, heart attacks
 
 **Famous Anecdotes:**
-- Grovers Mill, NJ (supposed landing site): Armed citizens gathered
+- **Grovers Mill, NJ (supposed landing site):**
+  - Armed citizens allegedly gathered, shot at water tower mistaking it for Martian
+  - **Most famous story:** Old wooden water tower reportedly shot by nervous gunslingers
+  - **William Dock** (76-year-old neighboring farmer): Grabbed shotgun when he heard first "news" flash, went looking for invaders
+  - **Dock's testimony:** "Didn't see anybody he thought needed shooting"
+  - **LIFE magazine photo:** Published photo of Dock with shotgun, allegedly protecting Grovers Mill—**but photo taken in bright sunlight the following day**, many hours after "invasion" debunked
+  - **Paul Ligeti** (Historical Society of West Windsor): "At the time, this was almost all farmland...only a few trees. The view would've been more than a mile. All anyone had to do that night was to look out a window and see that nothing was going on"
 - Princeton students searched for Martians
 - Woman allegedly ran into church screaming "The world is ending!"
 - Families fled into streets
@@ -73,7 +93,14 @@ Or... did that actually happen?
 **Next Day:**
 - Headlines: "Radio Listeners in Panic"
 - Welles held press conference, apologized
-- FCC investigated
+- **FCC Investigation Launched:**
+  - Many writers asked FCC chairman Frank P. McNinch to stop Mercury Theatre and punish Orson Welles
+  - **Paul Morton** (Trenton City Manager) wrote FCC: Broadcast **"completely crippled communication facilities of our police department for about three hours"**, requested prevention of recurrence
+  - **Investigation concluded:** December 5, 1938 (5 weeks after broadcast)
+  - **Outcome:** FCC took **NO punitive action**—found **no law was broken**
+  - FCC **barred complaints** about War of the Worlds from being brought up during license renewals
+  - **CBS voluntary agreement:** Promised to avoid use of dramatized, simulated newscasts in future
+  - **Lawsuits:** Many filed against Welles and CBS; **none resulted in payment of damages**
 - Became legend of media power
 
 **Cultural Legacy:**
@@ -94,15 +121,20 @@ Or... did that actually happen?
 
 **Modern Historical Research Shows:**
 - Panic was REAL but LIMITED
-- Estimated ~1-2,000 people genuinely panicked (out of 6 million listeners)
+- **C.E. Hooper ratings service** found only **2% of households** were listening to the broadcast (98% listening to something else or nothing)
+- **Hadley Cantril study (1940):** 6 million heard broadcast, 1.7 million thought it was news, 1.2 million "frightened"
+- **Modern criticism of Cantril:** Conflated "frightened/disturbed/excited" with "panicked" (categorical error)
+- **AIPO survey problem:** Cantril relied on survey with audience rating "over 100% higher than any other known measure"
 - Most listeners understood it was fiction
 - **Newspaper industry AMPLIFIED panic** to attack radio
 
-**Why Newspapers Lied:**
-- 1938: Radio was stealing advertising revenue from newspapers
-- Newspapers saw opportunity to discredit radio as "dangerous"
-- Headlines next day: Sensationalized panic, attacked CBS
-- **Motive:** Make radio look irresponsible to protect newspaper profits
+**Why Newspapers Lied - The Press-Radio War:**
+- **1933-1935:** "Press-Radio War" - newspapers fought emerging radio networks for dominance
+- **1938 context:** Radio had **siphoned off advertising revenue** from newspapers during Depression, **badly damaging newspaper industry**
+- Newspapers saw War of the Worlds as opportunity to **discredit radio as irresponsible and not to be trusted**
+- Headlines next day: **Sensationalized panic, attacked CBS**
+- **Motive:** Prove to advertisers and regulators that radio management was dangerous
+- **Strategy:** Exaggerated rare cases of actual fear/confusion to play up "nationwide panic"
 
 **The CBS Listenership:**
 - ~6 million tuned to CBS at 8 PM
@@ -118,12 +150,20 @@ Or... did that actually happen?
 - Mostly: Confused people asking questions
 
 **The Grovers Mill "Armed Citizens" Story:**
-- Likely fabrication or extreme exaggeration
-- Local historical records don't support armed mob narrative
-- **Modern consensus:** Sensationalized folklore
+- **Water tower legend:** Old wooden water tower allegedly shot by nervous residents mistaking it for Martian
+- **William Dock reality:** 76-year-old farmer grabbed shotgun, but "didn't see anybody he thought needed shooting"
+- **LIFE magazine deception:** Published photo of Dock with shotgun as if taken during panic—actually photographed **next day in bright sunlight**
+- **Geographic reality:** Paul Ligeti (Historical Society): Area was "almost all farmland...only a few trees...view more than a mile. All anyone had to do was look out a window and see nothing was going on"
+- **Who panicked:** Citizens of Grovers Mill remained calm; people **driving into town to fight Martians** panicked
+- **Modern consensus:** Sensationalized folklore, extreme exaggeration
 
-**Post-Broadcast Studies:**
-- Princeton Radio Research Project studied reactions
+**Post-Broadcast Studies - Hadley Cantril's Princeton Radio Research Project:**
+- **Publication:** "The Invasion from Mars: A Study in the Psychology of Panic" (Princeton University Press, 1940)
+- **Funding:** Rockefeller Foundation
+- **Methodology:** Interviewed **135 people in New Jersey** shortly after event; national mail survey of ~1,000; incorporated CBS surveys by Roper and Gallup
+- **Cantril's statistics:** 6 million heard broadcast, 1.7 million thought it was news, 1.2 million "frightened"
+- **Critical flaw:** C.E. Hooper ratings found only **2% of households listening** (Cantril's AIPO survey gave audience rating "over 100% higher" than any other measure)
+- **Categorical error:** Conflated "frightened/disturbed/excited" with "panicked"
 - Found: Most panic was AFTER broadcast ended (when people heard about "panic" in news)
 - **Irony:** The panic was about the panic, not the broadcast
 
@@ -248,14 +288,27 @@ War of the Worlds teaches us to question EVERY narrative—believer AND skeptic.
 ---
 
 ## 🔗 SOURCES
-1. **Welles, Orson & Mercury Theatre** - Original broadcast recording (1938)
-2. **Schwartz, A. Brad** - "Broadcast Hysteria: Orson Welles's War of the Worlds and the Art of Fake News" (2015)
-3. **Cantril, Hadley** - "The Invasion from Mars: A Study in the Psychology of Panic" (1940) - Princeton study
-4. **Jefferson Pooley & Michael J. Socolow** - "War of the Worlds: The Panic Broadcast Was a Myth" - Slate (2013)
-5. **Newspaper archives** - October 31, 1938 headlines
+
+### Primary Sources:
+1. **Welles, Orson & Mercury Theatre** - Original broadcast recording (October 30, 1938)
+2. **Koch, Howard** - War of the Worlds radio script (October 26, 1938, first draft)
+3. **Cantril, Hadley** - "The Invasion from Mars: A Study in the Psychology of Panic" (Princeton University Press, 1940) - Rockefeller Foundation funded
+4. **FCC Files** - Investigation records and correspondence (October-December 1938)
+5. **Morton, Paul** - Letter to FCC (Trenton City Manager, November 1938)
+6. **C.E. Hooper Company** - Ratings service data (October 30, 1938 - 2% household listening rate)
+7. **Newspaper archives** - October 31, 1938 headlines
+
+### Secondary Sources:
+8. **Schwartz, A. Brad** - "Broadcast Hysteria: Orson Welles's War of the Worlds and the Art of Fake News" (2015)
+9. **Jefferson Pooley & Michael J. Socolow** - "War of the Worlds: The Panic Broadcast Was a Myth" - Slate (2013)
+10. **Ligeti, Paul** - Historical Society of West Windsor (Grovers Mill historical research)
+11. **Wikipedia** - "The War of the Worlds (1938 radio drama)" (comprehensive documentation)
+12. **Smithsonian Magazine** - "The Infamous 'War of the Worlds' Radio Broadcast Was a Magnificent Fluke"
+13. **Skeptical Inquirer** - "Shootout with Martians: In the Wake of the 1938 Broadcast Panic"
+14. **National Archives** - "Jitterbugs and Crack-pots" (2003, Prologue magazine)
 
 ## 🎬 PRODUCTION NOTES
 **Related Episodes:** Ep 46 (Close Encounters - Spielberg), Ep 69 (E.T.)
 **X-Files Connection:** Media manipulation, government narratives
 
-**COMPLETE: ~3,100 words**
+**COMPLETE: 2,276 words** (Enhanced with deep research - original ~1,800 words)

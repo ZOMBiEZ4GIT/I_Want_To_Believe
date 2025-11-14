@@ -54,19 +54,29 @@ But Dr. Leir never accepted that. He died in 2014, convinced he'd found proof of
 
 ### THE RESEARCHER: DR. ROGER LEIR
 
-**Who Was He?**
-- **Profession:** Podiatrist (foot doctor)
-- **UFO Interest:** Founded "National Institute for Discovery Science" (UFO research)
+**Who Was Roger Krevin Leir (March 20, 1935 – March 14, 2014)?**
+- **Profession:** Podiatric surgeon
+- **Education:**
+  - University of Southern California - Bachelor of Science (1961)
+  - Doctor of Podiatric Medicine (1964)
+  - Associate in Arts degree
+- **Practice:** 43 years in private practice, Ventura County, California
+- **UFO Interest:** Local MUFON (Mutual UFO Network) chapter member
+  - **Note:** Did NOT found "National Institute for Discovery Science" (NIDS was Robert Bigelow's organization)
+  - Involved with MUFON conferences and UFO research community
 - **Claim to Fame:** Removed alleged alien implants (1995-2014)
-- **Books:** "The Aliens and the Scalpel" (1998), "Casebook: Alien Implants" (2000)
+- **Books:** "The Aliens and the Scalpel" (1999), "Casebook: Alien Implants" (2000)
+- **Death:** March 14, 2014 (heart attack, 6 days before 79th birthday, while preparing for foot surgery - ironic)
+- **Final work:** "The Smoking Gun" article (Un-X News Magazine, published March 2, 2014 - 12 days before death)
 
 **His Credentials:**
 - Licensed podiatric surgeon (legitimate medical degree)
-- Performed legitimate foot surgeries
+- Performed legitimate foot surgeries for decades
 - **UFO research = side project** (controversial in medical community)
+- **Scientific reception:** Mainstream scientists dismissed work as pseudoscience
 
 **Why Believers Trust Him:**
-"Real doctor. Real surgeries. Physical objects removed."
+"Real doctor. Real surgeries. Physical objects removed. Died believing in the research."
 
 ### THE IMPLANT CLAIMS
 
@@ -102,10 +112,19 @@ But Dr. Leir never accepted that. He died in 2014, convinced he'd found proof of
 - Metallic composition: Iron, nickel, cobalt, trace elements
 - **Claimed:** Some have isotope ratios inconsistent with Earth
 
-**Dr. Steve Colbern (Materials Scientist):**
-- Analyzed samples for Dr. Leir
-- **Claimed:** Isotope ratios "anomalous"
-- Suggested: "May be of extraterrestrial origin"
+**Dr. Steve Colbern (Materials Scientist/Chemist):**
+- **Background:** 20+ years experience in carbon nanotubes, owns nanotechnology company
+- **Partnership:** Worked with Dr. Leir from 2008 until Leir's death (2014)
+- **Analysis work:** Analyzed alleged alien implants extracted from abduction victims
+- **Claimed findings:**
+  - Isotope ratios "anomalous" (specifically Zinc-64/Zinc-66 ratios)
+  - Stated: "Elements not made from materials found here on Earth"
+  - **36-50 elements** detected in implants (many "not traditionally found on Earth")
+  - Carbon nanotube electronics "not found in nature"
+  - No immune response, human nerve cells connected to devices
+- **Work featured in:** "Patient Seventeen" documentary
+
+**Skeptic Note:** Claims made within UFO research community, remain controversial and unverified by mainstream science
 
 **4. Unusual Structures:**
 - Some objects have geometric shapes
@@ -117,9 +136,10 @@ But Dr. Leir never accepted that. He died in 2014, convinced he'd found proof of
 **Case 1: "Patient A" (1995) - First Removal**
 
 **Background:**
-- Woman, 40s, claimed alien abduction memories
+- Woman examined at **1995 MUFON conference** (Leir examined X-rays)
+- Claimed alien abduction memories
 - Pain in toe, X-ray showed metal object
-- Dr. Leir removed it
+- Dr. Leir removed it (later extracted from second patient as well)
 
 **Object:**
 - ~3mm, metallic, irregular
@@ -127,9 +147,15 @@ But Dr. Leir never accepted that. He died in 2014, convinced he'd found proof of
   - Iron, nickel (common metals)
   - Surrounded by grey membrane (keratin + blood cells)
   - **Claimed:** "Membrane unusual, body not rejecting it"
+- **Independent analysis (New Mexico Institute of Mining and Technology):**
+  - **Determined:** "Composed of commonly found elements" (iron, aluminum)
+  - **No exotic properties detected**
 
 **Believer Interpretation:**
 "First physical proof of alien abduction."
+
+**Skeptic Reality:**
+"New Mexico Tech found common terrestrial materials. No evidence of extraterrestrial origin."
 
 **Case 2: "Tim Cullen" (1998)**
 
@@ -308,14 +334,18 @@ But Dr. Leir never accepted that. He died in 2014, convinced he'd found proof of
 **Dr. Colbern's Claims Debunked:**
 
 **Independent Analysis:**
-- **New Mexico Tech lab** re-analyzed samples (2008)
-- **Conclusion:** Isotope ratios NORMAL for terrestrial materials
+- **New Mexico Institute of Mining and Technology** analyzed Leir's objects
+- **Conclusion:** Objects "composed of commonly found elements" (iron, aluminum)
+- **Isotope ratios NORMAL for terrestrial materials**
 - **No anomalies detected**
+- Tests also conducted by National Institute for Discovery Science (NIDS), New Mexico Tech, other independent sources
+- **Findings:** Natural objects (ceramic-type materials, common metals), even if rare
 
 **Skeptic Explanation:**
-- Dr. Colbern worked closely with Dr. Leir (not impartial)
-- **Confirmation bias:** Wanted to find anomalies, saw them where none exist
-- Minor measurement errors interpreted as "alien"
+- Dr. Colbern worked as Leir's partner 2008-2014 (not independent/impartial)
+- **Confirmation bias:** Wanted to find anomalies, interpreted data to support conclusion
+- Minor measurement errors or contamination interpreted as "alien"
+- **Scientific community rejection:** Mainstream scientists dismissed as pseudoscience
 
 **"Carbon Nanotubes":**
 
@@ -437,13 +467,20 @@ If aliens are advanced enough to implant tracking devices, they're probably adva
 
 ## 🔗 SOURCES
 
-1. **Leir, Dr. Roger** - "The Aliens and the Scalpel" (1998)
-2. **Leir, Dr. Roger** - "Casebook: Alien Implants" (2000)
-3. **Colbern, Dr. Steve** - Material analysis reports (contested)
-4. **New Mexico Tech** - Independent isotope analysis (debunked Colbern claims)
-5. **Medical literature** - Foreign body granuloma formation
-6. **Clancy, Dr. Susan** - "Abducted: How People Come to Believe They Were Kidnapped by Aliens" (2005)
-7. **Skeptical Inquirer** - Multiple articles debunking implant claims
+### Primary Sources:
+1. **Leir, Dr. Roger Krevin** (March 20, 1935 – March 14, 2014) - "The Aliens and the Scalpel" (1999); "Casebook: Alien Implants" (2000); "The Smoking Gun" article (Un-X News Magazine, March 2, 2014)
+2. **Colbern, Dr. Steve** - Material analysis reports (chemist/materials scientist, 20+ years experience, carbon nanotube specialist)
+3. **New Mexico Institute of Mining and Technology** - Independent isotope/materials analysis (found "commonly found elements" - iron, aluminum)
+4. **National Institute for Discovery Science (NIDS)** - Testing of alleged implants
+5. **MUFON (Mutual UFO Network)** - 1995 conference where Leir examined first case X-rays
+6. **"Patient Seventeen" documentary** - Featured Colbern's analysis work
+
+### Secondary Sources:
+7. **Nickell, Joe** - Skeptical investigator assessment (ordinary foreign objects from accidents)
+8. **Medical literature** - Foreign body granuloma formation
+9. **Clancy, Dr. Susan** - "Abducted: How People Come to Believe They Were Kidnapped by Aliens" (Harvard University Press, 2005)
+10. **Skeptical Inquirer** - Multiple articles debunking implant claims
+11. **Wikipedia** - "Roger Leir" (comprehensive documentation)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -458,7 +495,10 @@ If aliens are advanced enough to implant tracking devices, they're probably adva
 - Show popularized alien implant concept
 
 **Dr. Leir's Death:**
-Died 2014 (surgical complications, ironically). Never recanted implant claims. Believed until the end.
+Died March 14, 2014 (heart attack, not surgical complications) while preparing to go into surgery on his foot. Just 6 days before his 79th birthday. Ironic that a podiatrist who claimed to have discovered alien tracking devices in feet died while preparing for foot surgery. Published "The Smoking Gun" article March 2, 2014 (12 days before death) - claimed it was his most detailed work to date. Never recanted implant claims. Believed until the end.
+
+**Skeptical Investigator Joe Nickell's Assessment:**
+The "implants" Leir claimed to have discovered were most likely ordinary objects such as shards of glass or fragments of metal that become lodged in arms, hands, legs and feet due to accidental falls or barefoot walking.
 
 **The ONE Interesting Case:**
 Some objects DID emit low-level EM radiation (pre-removal). Never independently verified. If real: Probably measurement error or environmental interference. But... it IS the one unexplained data point.

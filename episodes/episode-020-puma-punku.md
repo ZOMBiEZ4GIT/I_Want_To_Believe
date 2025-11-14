@@ -52,10 +52,15 @@ Same stones. Two completely different stories.
 ### THE SITE
 
 **Location:**
-- Near Lake Titicaca, Bolivia
-- **Altitude:** 13,000 feet (extreme environment)
+- Near Lake Titicaca, Bolivia (~70 km from La Paz)
+- **Altitude:** 3,850 meters (12,600 ft) - **highest city in the ancient world**
 - Part of Tiwanaku complex (spiritual/political center)
-- Active ~500-1000 CE (Tiwanaku civilization collapse ~1000 CE)
+- **Tiwanaku civilization:** Capital c. 200-1000 CE
+- **Peak period:** A.D. 500-1000 (2 square miles, grid plan)
+- **Peak population:** 10,000-20,000 residents (some estimates 30,000-70,000)
+- **Collapse:** c. 1000-1025 CE due to extended drought (915-1025 CE)
+  - Lake sediment isotopes show aridity persisted into 13th century
+  - Evidence of drought-based collapse confirmed through modern archaeology
 
 **What Remains:**
 - **Scattered megalithic blocks** (hundreds)
@@ -164,9 +169,17 @@ Site is NOW in ruins (scattered blocks, no intact structures). Believer question
 **Argument 1: ERICH VON DÄNIKEN'S THEORY**
 
 **"Chariots of the Gods?" (1968):**
-- Puma Punku = alien construction site
-- **Evidence:** Precision, megalith size, altitude
-- Theory: Aliens landed, taught advanced techniques, or built it themselves
+- **Author:** Erich von Däniken (Swiss author, born 1935)
+- **Writing:** Manuscript written 1966 while working as manager at Hotel Rosenhügel, Davos, Switzerland (wrote late nights after guests retired)
+- **Original title:** "Erinnerungen an die Zukunft" (Memories of the Future)
+- **Publication:** 1968 (after rejection by multiple publishers; extensively rewritten by editor Wilhelm Roggersdorf)
+- **Impact:** New York Times bestseller; 70 million copies sold by 2017
+- **Theory:** Extraterrestrials influenced ancient civilizations; structures like pyramids, Stonehenge created with alien help
+- **Puma Punku claim:** Alien construction site
+- **Evidence cited:** Precision, megalith size, altitude
+- **Hypothesis:** Aliens landed, taught advanced techniques, or built it themselves
+- **Scientific reception:** Ideas rejected by virtually all scientists as **pseudohistory, pseudoarchaeology, pseudoscience**
+- **Plagiarism claim:** 2004 Skeptic magazine article claims von Däniken plagiarized concepts from "The Morning of the Magicians"
 
 **Argument 2: THE "RUNAWAY" STONES**
 
@@ -209,28 +222,21 @@ Site is NOW in ruins (scattered blocks, no intact structures). Believer question
 ### WE KNOW HOW THEY DID IT (BECAUSE ARCHAEOLOGISTS TESTED IT)
 
 **Dr. Jean-Pierre Protzen (UC Berkeley):**
-- Conducted experiments (1980s-90s)
-- **Replicated Andean stoneworking techniques**
-- Proved: Precision achievable with Bronze Age tools
+- **Position:** Professor of Architecture, University of California, Berkeley (Professor Emeritus)
+- **Research period:** 1980s-90s field work in Andes
+- **Major publication:** "Inca Quarrying and Stonecutting" (1985, Journal of the Society of Architectural Historians)
+- **Later work:** "Inca Architecture and Construction at Ollantaytambo" (1993)
+- **Method:** Observation, careful measurements, hands-on experiments using authentic tools
+- **Conducted experiments replicating Andean stoneworking techniques**
+- **Key finding:** Precision achievable with simple Bronze Age tools through patience and skill
+- **NSF-funded research:** Directed excavations and experimental archaeology in Peru/Bolivia
+- **Deceased:** Professor Emeritus Protzen and wife Elsbeth both passed away (honored by UC Berkeley CED)
 
 ### HOW TO CUT DIORITE WITHOUT POWER TOOLS
 
 **The Technique:**
 
-**1. Copper Tubes + Sand Abrasive**
-
-**How Drill Holes Were Made:**
-- Hollow copper tube (rotated by hand or bow-drill)
-- **Sand (quartz) as abrasive** (harder than diorite)
-- Water + sand mixture applied to cutting edge
-- Tube rotates → sand grinds through stone
-
-**Protzen's Experiment:**
-- Successfully drilled diorite using this method
-- **Time:** Slow (hours per hole), but WORKS
-- Result: **Identical smooth-walled holes** as Puma Punku
-
-**2. Stone Hammers (Pounding)**
+**1. Stone Hammers (Pounding) - Primary Tiwanaku Method**
 
 **How Surfaces Were Flattened:**
 - **Dolerite hammerstones** (harder than andesite)
@@ -238,12 +244,19 @@ Site is NOW in ruins (scattered blocks, no intact structures). Believer question
 - Gradually wear down high spots
 - **Final polish:** Abrasive sand + water
 
-**Protzen's Experiment:**
-- Achieved flat surfaces within 1-2 mm accuracy
-- **Time:** Weeks of labor per block
-- Result: Proves ancient people COULD achieve this precision
+**Protzen's Inca Stonework Experiments:**
+- **Method:** Used smaller hammerstones to pound stones to desired shape
+- **Fitting technique:** Trial-and-error process - cut already-laid stones to receive next ones
+- **Result:** Achieved flat surfaces within 1-2 mm accuracy through pounding alone
+- **Time required:** Weeks of labor per block, but WORKS
+- **Conclusion:** Proves ancient Andean people COULD achieve this precision with simple tools
 
-**3. Measuring Tools**
+**Note on Drill Holes:**
+- Copper tube + sand abrasive drilling (often cited for ancient sites) was **Egyptian technique** (demonstrated by Denys Stocks)
+- Tiwanaku likely used similar abrasive techniques, but Protzen's focus was Inca pounding methods
+- Both prove: Ancient peoples had effective stone-working methods without power tools
+
+**2. Measuring Tools**
 
 **Surveying Without Lasers:**
 - **Water levels:** Troughs filled with water (natural level reference)
@@ -348,6 +361,20 @@ Site is NOW in ruins (scattered blocks, no intact structures). Believer question
 "Brown people couldn't build this. Must be aliens."
 
 **Dr. Alexei Vranich (Archaeologist):**
+- **Education:** B.A. UC Berkeley, Ph.D. University of Pennsylvania
+- **Experience:** Working in South America since 1995
+- **Major project:** Directed largest excavation in the Andes (Tiwanaku, Bolivia)
+- **Funding:** National Science Foundation awarded over **$1.12 million** for innovative technology in archaeology
+- **Current position:** Directs research at Warsaw University; excavates Sacsayhuaman, Peru with Peruvian archaeologist Sabino Quispe
+
+**2018 Pumapunku 3D Reconstruction:**
+- Used historical data, 3D printing, architectural software to virtually reconstruct Pumapunku temple (1,500 years old)
+- **3D printed models:** 140 pieces of andesite + 17 slabs of sandstone (at 4% actual size)
+- Based on measurements compiled by scholars over past 150 years
+- **Reason for physical models:** "Human brain continues to be more efficient than computer when manipulating irregular 3D forms"
+- **Discovery:** Gateways were aligned to create "mirror effect" (largest framing smaller, framing even smaller, etc.)
+
+**Quote:**
 "Saying aliens built Puma Punku robs Indigenous Andeans of their legacy. The Tiwanaku were brilliant engineers. Give them credit."
 
 ### WHAT WE CAN PROVE
@@ -416,13 +443,22 @@ If aliens built Puma Punku, it's just a construction site. If HUMANS built it, i
 
 ## 🔗 SOURCES
 
-1. **Protzen, Dr. Jean-Pierre** - "Inca Quarrying and Stonecutting" (1985), experimental archaeology
-2. **Vranich, Dr. Alexei** - "Interpreting the Meaning of Ritual Spaces: The Temple Complex of Pumapunku" (1999)
-3. **Kolata, Dr. Alan** - "The Tiwanaku: Portrait of an Andean Civilization" (1993)
-4. **Von Däniken, Erich** - "Chariots of the Gods?" (1968)
-5. **Ancient Aliens Debunked** - Documentary (2012) - Skeptical analysis
-6. **Smithsonian, National Geographic** - Archaeological reports on Tiwanaku
-7. **NOVA** - "Secrets of Lost Empires: Inca" (stone-cutting demonstrations)
+### Primary Sources:
+1. **Protzen, Dr. Jean-Pierre** - "Inca Quarrying and Stonecutting" (Journal of the Society of Architectural Historians, 1985)
+2. **Protzen, Dr. Jean-Pierre** - "Inca Architecture and Construction at Ollantaytambo" (Oxford University Press, 1993)
+3. **Vranich, Dr. Alexei** - "Interpreting the Meaning of Ritual Spaces: The Temple Complex of Pumapunku" (1999)
+4. **Vranich, Dr. Alexei et al.** - Pumapunku 3D reconstruction project (2018, NSF-funded)
+5. **Von Däniken, Erich** - "Chariots of the Gods?" (Erinnerungen an die Zukunft, 1968, rewritten by Wilhelm Roggersdorf)
+6. **Lake sediment isotope studies** - Drought evidence 915-1025 CE (published in peer-reviewed journals)
+7. **UC Berkeley College of Environmental Design** - Protzen obituary and biographical records
+
+### Secondary Sources:
+8. **Kolata, Dr. Alan** - "The Tiwanaku: Portrait of an Andean Civilization" (Blackwell Publishers, 1993)
+9. **Ancient Aliens Debunked** - Documentary (2012) - Skeptical analysis
+10. **Smithsonian, National Geographic, Archaeology Magazine** - Archaeological reports on Tiwanaku (2018 Pumapunku reconstruction coverage)
+11. **NOVA** - "Secrets of Lost Empires: Inca" (PBS documentary, stone-cutting demonstrations)
+12. **Skeptic Magazine** - Von Däniken plagiarism analysis (2004)
+13. **Wikipedia** - "Tiwanaku", "Pumapunku", "Erich von Däniken" (comprehensive documentation)
 
 ## 🎬 PRODUCTION NOTES
 

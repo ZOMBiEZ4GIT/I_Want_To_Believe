@@ -60,13 +60,21 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 
 ### THE WITNESS
 
-**Lonnie Zamora (1933-2009):**
-- **Profession:** Police officer, Socorro PD
-- **Age at sighting:** 33
-- **Experience:** 5 years law enforcement
-- **Reputation:** Honest, reliable, respected in community
-- **No UFO interest** before incident (skeptical of "flying saucer" stories)
-- **Post-incident:** Regretted publicity, avoided interviews
+**Dionicio Eduardo "Lonnie" Zamora (September 7, 1933 – November 2, 2009):**
+- **Full name:** Dionicio E. "Lonnie" Zamora
+- **Born:** Magdalena, New Mexico, to Domingo and Rafelita (Gomez) Zamora
+- **Age at sighting:** 31 years old (not 33 as sometimes reported)
+- **Profession:** Socorro Police Department officer
+- **Law enforcement experience:** ~5 years at time of incident (total 15 years on Socorro PD)
+- **Prior employment:** Machine shop worker at New Mexico Tech (before law enforcement)
+- **Military service:** 23 years in T6 New Mexico National Guard, retired
+- **Later career:** City of Socorro Landfill Supervisor (until retirement), court bailiff
+- **Personal life:** Married to Mary Baca for 55 years
+- **Reputation:** "Very good police officer" (Billy Romero, later NM Tech police chief who served with Zamora); honest, reliable, respected in community; pillar of his church
+- **UFO stance before incident:** Skeptical of "flying saucer" stories, no prior interest
+- **Post-incident:** Regretted publicity, avoided interviews, rarely spoke about incident
+- **Death:** November 2, 2009, Socorro, New Mexico (age 76)
+- **Legacy:** Never changed his story in 45 years
 
 **Why His Credibility Matters:**
 - **Trained observer** (police officer)
@@ -82,8 +90,9 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 **Weather:** Clear, dry, excellent visibility
 
 **5:45 PM - THE CHASE:**
-- Zamora pursuing speeding car (black Chevrolet)
+- Zamora pursuing speeding car (black Chevrolet, speeding)
 - Southbound on U.S. Highway 85
+- **Context:** Routine traffic stop, nothing unusual expected
 
 **5:46 PM - THE ROAR:**
 - Zamora hears **loud roar** (not engine—different sound)
@@ -155,22 +164,28 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 
 **Landing Marks:**
 - **Four depressions** in ground (quadrilateral pattern)
-- **Depth:** ~2-3 inches
+- **Depth:** ~2 inches into hard-packed soil
 - **Shape:** Circular or wedge-shaped (landing pads?)
 - **Spacing:** Asymmetrical (not perfectly symmetrical)
+- **Key detail:** Dirt pushed to the **side** of each hole (suggesting impact from above, not digging from below)
+- **Geometric precision:** Later measurements showed diagonals of quadrilateral intersected at exactly **90 degrees** (unusual for natural or hastily-made marks)
+- **Plaster casts made** of impressions by investigators
 
 **Burn Marks:**
-- **Scorched earth** where flames contacted ground
-- **Burned bushes** (greasewood shrubs)
-- Smoking (still smoldering when Chavez arrived)
+- **Scorched earth** where flames contacted ground (center of landing area)
+- **Burned bushes** (greasewood shrubs) - bent and charred
+- **Still hot** when Chavez arrived (smoking, smoldering)
+- Burned clumps of green grass (fresh burns, not old)
 
 **Other Traces:**
 - Flattened grass, disturbed soil
-- **Melted/fused sand** in burn areas (high heat)
+- **Melted/fused sand** in burn areas (high heat required)
+- **Charred cardboard found** mixed with dirt (noted in Air Force investigation report - significant for hoax theories)
 
 **Chavez's Observation:**
-- **Confirmed:** Burn marks, depressions, smoking bushes
-- **No sign of hoax** (remote area, no tracks leading to site)
+- **Confirmed:** Burn marks, depressions, smoking bushes (still smoldering = fresh evidence)
+- **No sign of hoax apparatus** (remote area, no tracks leading to site, no equipment visible)
+- Smoking vegetation = occurred within minutes
 
 ### THE INVESTIGATION
 
@@ -179,37 +194,63 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 - Site cordoned off (preserve evidence)
 - **FBI notified** (possible national security issue)
 
-**FBI (April 25-26):**
-- Agent J. Arthur Byrnes Jr. investigated
-- Interviewed Zamora, Chavez
+**FBI (April 24-25, 1964):**
+- **Special Agent in Charge (SAC) J. Arthur Byrnes Jr.** investigated
+- **How he learned:** Overheard initial police radio chatter about incident
+- **Contacted:** Army Captain Richard T. Holder at White Sands Missile Range
+- **Initial response:** Byrnes acted in **unofficial capacity** (FBI policy had ended official UFO investigations in 1950, but individual agents still investigated on own initiative)
+- Interviewed Zamora and Chavez
 - Photographed landing site
-- **Memo to J. Edgar Hoover:** "Zamora credible. Evidence compelling."
+- **Teletype to FBI Headquarters:** Sent message April 25, then several more messages over following weeks concerning Air Force investigation results
+- **Assessment:** Found Zamora credible, evidence compelling
+- **FBI file:** Incident documented in FBI file **#62-83894** (the file on "flying discs")
+- **Note:** Despite J. Edgar Hoover ending official FBI UFO involvement in July 1950, individual agents like Byrnes continued reporting significant cases
 
 **U.S. Air Force (Project Blue Book):**
-- **Dr. J. Allen Hynek** dispatched (scientific consultant to Blue Book)
-- Arrived April 28, 1964
+- **Official investigation began:** April 25, 1964 (day after incident)
+- **Initial investigators:**
+  - **Major William Connor** from Kirtland Air Force Base
+  - **Staff Sgt. David Moody** (Project Blue Book investigator)
+  - **Army Captain Richard T. Holder** from White Sands Missile Range (contacted by FBI agent Byrnes, arrived first, secured landing site)
+- **Dr. J. Allen Hynek** dispatched (scientific consultant to Blue Book, astronomer)
+- **Hynek arrived:** April 28, 1964
+- **Follow-up visit:** August 15, 1964
 
 **Hynek's Investigation:**
 
 **Zamora Interview:**
-- Hynek found Zamora **credible, honest**
-- **No inconsistencies** in story
-- Zamora **reluctant to discuss** (didn't want publicity)
+- Hynek found Zamora **credible, honest, sincere**
+- **No inconsistencies** in story across multiple interviews
+- Zamora **reluctant to discuss** (didn't want publicity, clearly shaken)
+- **Hynek persuaded Zamora to reenact the events** (walked through timeline at site)
+- **Hynek's assessment:** "I believe every word that Zamora said"
 
 **Physical Evidence Examination:**
-- **Burn marks:** Hynek confirmed (photographed, measured)
-- **Landing depressions:** Confirmed (not natural formations)
+- **Burn marks:** Hynek confirmed (photographed, measured, documented)
+- **Landing depressions:** Confirmed (not natural formations, too precise)
+  - **Detailed measurements taken:** 4 indentations forming quadrilateral
+  - **Geometric analysis:** Diagonals intersected at exactly 90 degrees
+  - **Plaster casts made** of depressions
 - **Soil samples:** Taken for analysis
+- **Plant material:** Charred greasewood and grass collected
 
 **Lab Results:**
+- **Air Force Forensic Laboratory** analyzed soil and plant material
 - Burned bushes: **Consistent with intense heat** (not chemical accelerant)
 - Soil: **No unusual materials** (no rocket fuel residue, no chemicals)
-- **Conclusion:** Heat source unknown
+- **No radioactive residues** detected
+- **Explosives expert (Army) examined site:** No blast crater, no residue of dynamite or conventional fuel
+- **Conclusion:** Heat source unknown, no conventional explanation
+- **NOTE:** Full analysis reports **never released to public** (still classified or lost)
 
 **Hynek's Personal Take:**
-- **Impressed** by evidence quality
+- **Left Socorro "more puzzled now than I arrived"** (admitted to reporter)
+- **Impressed** by evidence quality and witness credibility
 - **Couldn't explain** with conventional means
-- Later wrote: "Socorro was the case that convinced me to take UFOs seriously."
+- **Quote:** "This is the **best-documented case on record**, and still we have been unable, in spite of thorough investigation, to find the vehicle or other stimulus that scared Zamora to the point of panic."
+- Later wrote: "Socorro was **one of the cases** that made me start taking UFOs seriously."
+- **Important context:** Socorro was **a turning point** for Hynek (opened his mind to genuine phenomenon), but he didn't publicly come out as pro-UFO until 1966 Michigan "swamp gas" controversy
+- **Discussed case frequently** with Dr. Jacques Vallee (fellow UFO researcher)
 
 **Air Force Conclusion:**
 
@@ -252,8 +293,16 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 - **Sergeant Chavez** (saw aftermath within minutes, confirmed physical traces)
 
 **Indirect:**
-- **Opal Grinder (tourist):** Reported seeing "flame in sky" same time/location (before news broke)
-- Others in Socorro reported distant object
+- **Opal Grinder (Whiting Brothers gas station manager):** Independent corroborating witness
+  - **What happened:** Late evening April 24 (after incident), tourist family stopped for gas
+  - **Family description:** Possibly from Colorado, driving light green Cadillac
+  - **Driver's comment to Grinder:** "Your aircraft sure fly low around here"
+  - **Driver's description:** Craft nearly took roof off their car south of town; "funny looking helicopter, if that's what it was"
+  - **Key corroboration:** Driver mentioned seeing **police car pull off highway and head towards craft** as it flew over
+  - **Timeline match:** Perfectly matches Zamora's actions (pulling off highway to investigate)
+  - **Significance:** Independent witness with no prior knowledge of Zamora's encounter described both craft AND police response
+  - **Discovered by:** J. Allen Hynek during his investigation (tourists never came forward officially)
+- Others in Socorro reported distant object same time
 
 **Believer Point:**
 "Not just one witness. Multiple independent confirmations."
@@ -312,43 +361,78 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 **Theory 1: STUDENT PRANK (Most Popular Skeptic Explanation)**
 
 **The Claim:**
-- New Mexico Tech students (Socorro) staged hoax
-- Motive: Prank on Zamora (who'd ticketed students before)
-- Method: Hot air balloon OR contraption with flares
+- New Mexico Tech students (Socorro) staged elaborate hoax
+- **Motive:** Prank on Zamora (who'd ticketed students before; NM Tech students and Socorro police had poor relationship at the time)
+- **Method:** Hot air balloon with candle, creating fake landing site
+- **Perpetrators:** Allegedly 3-6 students involved
 
 **Supporting "Evidence":**
-- **Lyle Boyd (NM Tech student):** Later claimed (1968) students discussed hoax
-- Student **Stirling Colgate** (later astrophysicist) allegedly involved in planning
+
+**Stirling Colgate's 1968 Letter:**
+- **Who was Stirling Colgate?** World-famous astrophysicist at Los Alamos National Laboratory, later served as **President of New Mexico Tech**, specialized in plasma and atmospheric physics
+- **The Pauling Letter (1968):** Nobel Prize-winning chemist **Linus Pauling** wrote to Colgate asking about Socorro incident
+- **Colgate's scribbled reply:** "I have a good indication of the student who engineered the hoax."
+- **When contacted decades later** to expand on this:
+  - Colgate wrote: "I will ask a friend, but he and other students did not want their cover blown."
+  - **Asked how they did it:** "**A candle in a balloon. Not sophisticated.**"
+  - **Number involved:** "About 3-6" students
+- **Important:** Colgate **never publicly identified** specific students, and **denied direct involvement** himself before his death
+
+**Lyle Boyd (NM Tech student):**
+- Later claimed (1968) students discussed hoax
+- **Problem:** Boyd's claim is secondhand (he wasn't directly involved, heard rumors)
+
+**Physical Evidence Supporting Hoax:**
+- **Charred cardboard found at site** (noted in official Air Force investigation report)
+- **Interpretation:** Consistent with balloon launch apparatus or ground preparation materials
+- Students would have had **motive** (revenge against Zamora for tickets), **means** (technical knowledge, access to materials), **opportunity** (remote desert location near campus)
 
 **How It Would Work:**
-- Build balloon/contraption with flame effect (flares, propane)
-- Launch in desert
-- Zamora sees it, investigates
-- **Students create fake landing site** (burn bushes, make depressions)
+1. Build hot air balloon with candle heat source
+2. Launch in desert near dynamite shack
+3. Create "figures" (mannequins, students in white coveralls who flee)
+4. Zamora sees flame/balloon, investigates
+5. **Students create fake landing site** (burn bushes with accelerant, make depressions with tools/stomping)
+6. Escape quickly before backup arrives
+7. **Never confess** (perfect prank = keeping secret forever; ultimate troll)
 
 **Problems With This Theory:**
 
 **1. Timing:**
-- Zamora's backup arrived **minutes** later
-- **No time** for students to create burn marks, depressions, escape unseen
+- Sergeant Chavez arrived **5 minutes** after Zamora radioed
+- **Burn marks still hot/smoking** when Chavez arrived
+- **No time** for students to create burn marks, four precise depressions, escape unseen, remove all equipment/tracks
+- Remote area but **no vehicle tracks** found leading to/from site
 
 **2. No Confession:**
-- No student EVER officially confessed (only rumors)
-- **Colgate denied involvement** (before his death)
-- Lyle Boyd's claim secondhand (not witness)
+- No student EVER officially confessed (60+ years later)
+- Colgate's letter suggests students existed but **never publicly identified them**
+- **Why no deathbed confessions?** Students would be in 70s-80s now; none have come forward
+- **Counter:** Maybe perfect prank = never confess (ruins the legend)
 
-**3. Physical Evidence:**
-- **Burn pattern** inconsistent with campfire/flares
-- Landing depressions: **Too precise** for quick fabrication
-- FBI/Air Force found no tracks, no equipment
+**3. Physical Evidence Precision:**
+- **Landing depressions:** 2 inches deep in hard-packed soil, geometric pattern with **90-degree diagonal intersection** (too precise for hasty fabrication under time pressure)
+- **Burn pattern:** Consistent with intense heat, not typical accelerant (gasoline/flares) pattern
+- FBI/Air Force found no tracks, no equipment, no conventional fuel residue
 
-**4. Figures:**
-- Zamora saw TWO small figures
-- **Timing:** Figures disappeared when Zamora looked away (seconds)
-- Hard to fake with students
+**4. The Figures:**
+- Zamora saw TWO small figures (4-5 feet tall) in white coveralls
+- **Timing:** Figures disappeared in seconds when Zamora looked away (while navigating rough terrain)
+- Hard to fake with students (would need to flee to hidden location instantly)
+
+**5. Independent Witness (Opal Grinder's tourists):**
+- Tourist family saw craft flying over car AND police car heading toward it
+- **How would students coordinate** balloon visible to tourists miles away while also setting up ground scene?
+
+**6. Captain Holder (White Sands) Response:**
+- Army explosives expert found **no blast crater, no dynamite residue, no conventional fuel**
+- If students used accelerant (gasoline, etc.), would have left chemical traces
+
+**Skeptic Response to Problems:**
+"Probably students, but no definitive proof. The 'candle in a balloon' explanation fits the aerial flame, but ground evidence is harder to explain. Maybe students prepared site beforehand? Or Colgate's memory after 40+ years is unreliable?"
 
 **Skeptic Hedge:**
-"Probably students, but no proof."
+"Most likely students, but we'll never prove it unless someone confesses."
 
 **Theory 2: EXPERIMENTAL AIRCRAFT**
 
@@ -405,29 +489,46 @@ The Air Force investigates. Dr. J. Allen Hynek flies in. Interviews Zamora. Exam
 **Skeptic Challenge:**
 
 **Burn Marks:**
-- **Could be faked:** Gasoline, flares
-- FBI found no chemical residue BUT primitive tests (1964)
+- **Could be faked:** Gasoline, flares, controlled fire
+- FBI/Air Force found no chemical residue BUT **tests were primitive (1964 technology)**
+- Modern forensics might detect accelerants that 1960s tests missed
+- **However:** Burned bushes still hot when Chavez arrived (minutes later) = **timing is tight** for hoaxers
 
 **Landing Depressions:**
-- **Could be made:** Stomping, tools (press into soft desert soil)
-- Asymmetrical pattern suggests NOT mechanical (random placement?)
+- **Could be made:** Stomping, tools, pressing into desert soil
+- Soil was hard-packed, but **2 inches deep** achievable with effort
+- **90-degree diagonal intersection** is suspicious (too precise?) BUT could be coincidental or students used surveying tools (NM Tech students would have access)
+- Asymmetrical pattern suggests NOT mechanical landing gear (random placement?)
+- **Plaster casts** showed dirt pushed to **side** (impact from above), but could be faked with careful technique
+
+**Charred Cardboard:**
+- **Air Force report noted:** "Charred cardboard mixed with dirt" at site
+- **Skeptic interpretation:** Evidence of balloon/hoax apparatus (cardboard used in construction)
+- **Believer counter:** Could be unrelated debris (old dynamite shack nearby)
 
 **Skeptic Point:**
-"Physical traces don't prove alien. Just prove SOMETHING created them."
+"Physical traces don't prove alien. Just prove SOMETHING created them. Students with motive, means, opportunity = simpler explanation than extraterrestrials."
 
 **"Hynek Endorsed It":**
 
 **Skeptic Response:**
-- Hynek impressed, but **never said 'alien'**
+- Hynek was impressed and said he believed Zamora, but **never concluded 'alien spacecraft'**
 - **"Unidentified" ≠ "Extraterrestrial"**
-- Hynek believed SOMETHING happened, but what? Unknown.
+- Hynek believed SOMETHING happened, but **what?** Unknown. Could be hoax that fooled everyone, including Hynek.
+- **Quote context:** Hynek left Socorro "**more puzzled**" - he didn't have an answer, not that he concluded ET
+- **Hynek called it "best-documented case"** but also couldn't rule out elaborate hoax he simply couldn't detect
+- **Later evolution:** Socorro was turning point for Hynek, but he remained scientifically agnostic (open-minded, not convinced)
 
 **"Multiple Witnesses":**
 
 **Skeptic Challenge:**
-- **Chavez:** Saw aftermath only (not object)
-- **Opal Grinder:** Saw "flame" (vague, could be anything)
-- **Only Zamora saw craft + figures**
+- **Sergeant Chavez:** Saw aftermath only (burn marks, depressions), **not the object itself**
+- **Opal Grinder's tourists:** Saw "flame in sky" and "funny looking helicopter" - vague descriptions
+  - **Skeptic interpretation:** Saw balloon with candle (flame), misidentified as craft
+  - Tourist said craft "nearly took roof off car" - **hyperbole?** No damage reported
+  - Seeing police car heading toward area **corroborates Zamora's movements** but not the craft's nature
+- **Only Zamora saw craft up close + figures** - single-witness close encounter
+- **No photographs** of object (Zamora didn't have camera, tourists didn't stop to photograph)
 
 **"No Motive for Hoax":**
 
@@ -525,13 +626,27 @@ If this WAS student prank, those students are LEGENDS. They fooled a cop, the FB
 
 ## 🔗 SOURCES
 
-1. **Project Blue Book Files** - Case #5742 (Socorro incident)
-2. **Hynek, Dr. J. Allen** - "The UFO Experience" (1972) - Socorro analysis
-3. **FBI Files** - J. Arthur Byrnes Jr. report to J. Edgar Hoover (1964)
-4. **Stanford, Ray** - "Socorro 'Saucer' in a Pentagon Pantry" (1976)
-5. **Klass, Philip J.** - "UFOs Explained" (1974) - Skeptical analysis
-6. **Zamora, Lonnie** - Original police report, witness statements
-7. **Sagan, Carl & Page, Thornton** - "UFO's: A Scientific Debate" (1972)
+### Primary Sources
+1. **Project Blue Book Files** - Case #5742 (Socorro incident) - Official Air Force investigation, April-May 1964
+2. **FBI Files** - FBI file #62-83894 ("flying discs") - SAC J. Arthur Byrnes Jr. teletype reports to FBI Headquarters (April 25, 1964 onward)
+3. **Zamora, Lonnie** - Original police report and witness statements (April 24, 1964)
+4. **Hynek, Dr. J. Allen** - Investigation reports to Project Blue Book (April 28 & August 15, 1964 visits)
+
+### Secondary Sources
+5. **Hynek, Dr. J. Allen** - "The UFO Experience: A Scientific Inquiry" (1972) - Socorro case analysis
+6. **Stanford, Ray** - "Socorro 'Saucer' in a Pentagon Pantry" (1976) - Detailed investigation
+7. **Klass, Philip J.** - "UFOs Explained" (1974) - Skeptical analysis
+8. **Sagan, Carl & Page, Thornton** (editors) - "UFO's: A Scientific Debate" (1972) - Academic perspectives
+
+### Student Hoax Theory
+9. **Colgate, Stirling** - Letter reply to Linus Pauling (1968) - "Candle in a balloon" claim
+10. **Boyd, Lyle** - NM Tech student testimony (1968) - Secondhand hoax rumors
+
+### Additional Documentation
+11. **Air Force Forensic Laboratory** - Soil and plant material analysis (1964) - Results partially declassified
+12. **White Sands Missile Range** - Captain Richard T. Holder investigation report (April 25, 1964)
+13. **Grinder, Opal** - Whiting Brothers gas station manager statement to Hynek (corroborating tourist witness)
+14. **Albuquerque Journal** - "Officer Made UFO Report" obituary profile (November 7, 2009)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -550,21 +665,40 @@ If this WAS student prank, those students are LEGENDS. They fooled a cop, the FB
 - Two versions published later (which is real? Debate continues)
 
 **Lonnie Zamora's Later Life:**
-- Continued as police officer
-- **Rarely spoke about incident** (trauma? Embarrassment?)
-- Died 2009, never changed story
+- Continued as Socorro police officer (total 15 years on force)
+- Later worked as **City of Socorro Landfill Supervisor** until retirement
+- Also served as **court bailiff**
+- **Military service:** Retired from T6 New Mexico National Guard after 23 years
+- **Rarely spoke about incident** (trauma? Embarrassment? Desire for privacy?)
+- Avoided interviews, regretted publicity
+- **Died November 2, 2009** (age 76), Socorro, New Mexico
+- **Never changed his story** in 45 years
+- Remembered by colleagues as "very good police officer" (Billy Romero, later NM Tech police chief)
+- **Personal life:** Married to Mary Baca for 55 years at time of death
 
 **Dr. Hynek's Evolution:**
-- **Before Socorro:** Skeptical debunker
-- **After Socorro:** Open-minded researcher
-- Founded Center for UFO Studies (1973)
-- Socorro = his Damascus Road moment
+- **Before Socorro:** Skeptical debunker (Project Blue Book's go-to guy for dismissing cases)
+- **Socorro (April 1964):** Turning point - left "more puzzled" than arrived, couldn't explain it
+- **Quote after Socorro:** "This is the best-documented case on record" and "I believe every word that Zamora said"
+- **However:** Socorro was **one of several cases** that changed his mind, not THE single moment
+- **Still cautious:** Frequently discussed Socorro with Dr. Jacques Vallee but remained privately conflicted
+- **Public turning point:** Michigan "swamp gas" controversy (March 1966) - when Hynek publicly broke with Air Force dismissals
+- **After 1966:** Open-minded researcher, advocate for serious UFO science
+- **Founded:** Center for UFO Studies (CUFOS) in 1973
+- **Legacy:** Socorro = **a key case** in Hynek's journey from skeptic to serious researcher
 
 **Student Prank Evidence:**
-- Entirely circumstantial (no confession, no physical proof)
-- **But:** Perfect timing, motive, capability
-- Will never be proven unless someone confesses
+- **Primary source:** Stirling Colgate's 1968 letter to Linus Pauling ("candle in a balloon," 3-6 students involved)
+- Entirely circumstantial (no student ever officially confessed, no physical proof of hoax apparatus)
+- **Supporting details:**
+  - Zamora had reputation for ticketing NM Tech students (motive)
+  - Students had technical knowledge and access to materials (means)
+  - Remote desert location near campus (opportunity)
+  - **Charred cardboard found at site** (possible balloon construction material)
+- **But:** Perfect timing (5-minute window), motive, capability - fits too well?
+- **Will never be proven** unless someone confesses (alleged participants would be in 70s-80s now; none have come forward in 60+ years)
+- **Alternative:** Maybe perfect prank = never confess (ultimate troll - let it become legend)
 
 ---
 
-**COMPLETE: ~4,900 words | 7 sources**
+**COMPLETE: ~6,400 words | 14 sources**

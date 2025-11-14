@@ -60,9 +60,14 @@ And yet, 30 years later, people still believe aliens are drawing in fields.
 - **Peak:** 200+ formations per year in UK alone
 
 **Phase 3: Admitted Hoaxes (1991)**
-- Doug Bower & Dave Chorley confess: "We started it in 1978"
-- Demonstrate technique on TV
-- **Believers respond:** "Okay, but not ALL are hoaxes"
+- **September 9, 1991:** British newspaper *Today* ran front-page story: "Men who conned the world"
+- **Doug Bower & Dave Chorley** confess: "We started it in 1978"
+- **Reporter Graham Brough** verified claims by checking archive of 200+ crop circle designs stored in shed behind Bower's home
+- **Tools:** Plank of wood, rope, baseball cap fitted with loop of wire (to walk straight lines)
+- **Method:** Hold ropes attached to plank, press underfoot to stamp circles in crops
+- **Public demonstration:** In Warminster field, flanked by press from across world, methodically pushed over wheat using wood planks
+- **Claim:** Made more than 200 patterns over previous decade
+- **Believers respond:** "Okay, but not ALL are hoaxes" (many didn't believe confession despite evidence)
 
 **Phase 4: Global Spread (1990s-Present)**
 - Crop circles appear worldwide (USA, Germany, Japan, Australia)
@@ -119,14 +124,20 @@ And yet, 30 years later, people still believe aliens are drawing in fields.
 
 **Argument 2: PLANT ANOMALIES**
 
-**Biophysical Researcher Claims (Dr. W.C. Levengood):**
-- Examined crop samples from formations
-- Found (allegedly):
-  - **Elongated nodes:** Plant stems show swelling at joints
-  - **Expulsion cavities:** Holes in nodes (steam expansion?)
+**BLT Research Team (Dr. W.C. Levengood):**
+- **Team:** Michigan biophysicist William C. Levengood, Nancy Talbott, John Burke, + hundreds of field personnel
+- **Research scope:** Examined crop circle plants and soils since 1989
+- **Sample size:** 250 crop formations in 7 countries (U.S., Canada, England, Netherlands, Germany, Australia, Israel)
+- **Key findings (allegedly):**
+  - **Elongated nodes:** Plant stems show swelling at joints (found in 95% of 250 formations)
+  - **Expulsion cavities:** Holes in nodes blown out (moisture heating causes explosion "like popcorn kernel popping")
   - **Changed cellular structure:** Altered growth patterns
-- **Interpretation:** Microwave radiation or unknown energy source bent crops
-- **Implication:** Not mechanical trampling (planks wouldn't cause this)
+- **Proposed mechanism:** Superheating from electromagnetic radiation/microwaves
+- **Laboratory replication:** BLT claims replication using 30-second exposures to microwaves from magnetrons (readily available microwave ovens)
+- **Publication:** 3 papers in peer-reviewed scientific journals + 100+ lab reports on individual formations
+- **Interpretation:** Energy system emits microwaves and unusual electrical/magnetic fields
+- **Implication:** Not mechanical trampling (planks wouldn't cause heat damage)
+- **Criticisms:** Misrepresentation of experimental protocols, misleading statistics, arbitrary discarding of unwanted results, weak physical model
 
 **Believer Argument:**
 "If planks flattened crops, nodes wouldn't show heat damage. Something ELSE created these."
