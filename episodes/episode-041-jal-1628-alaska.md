@@ -26,9 +26,9 @@ November 17, 1986. **5:09 PM local time.** Alaskan airspace.
 - **Altitude:** 35,000 feet
 - **Weather:** Clear, dark (early winter evening)
 
-**Captain Terauchi** (47 years old, 29 years flying experience, former fighter pilot, ~10,000 flight hours):
+**Captain Kenju Terauchi** (47 years old, 29 years flying experience, **ex-Japan Air Self-Defense Force fighter pilot**, ~10,000 flight hours, senior JAL pilot, excellent safety record):
 
-**5:09 PM:** Notices **two small lights** ahead and below. **White/yellow glow.**
+**5:09 PM (Alaska time, near Fort Yukon, 35,000 feet):** Notices **two small lights** ahead and below. **White/yellow glow.**
 
 **Thinks:** "Traffic" (another aircraft).
 
@@ -93,9 +93,9 @@ November 17, 1986. **5:09 PM local time.** Alaskan airspace.
 
 **ATC:** "We're checking radar."
 
-**FAA Ground Radar (Anchorage):** **Confirms unknown target** behind JAL 1628.
+**FAA Ground Radar (Anchorage):** Initially found nothing, then **confirms unknown target** behind JAL 1628.
 
-**Military Radar (USAF Regional Operations Control Center):** **Also tracks object.**
+**Military Radar (Elmendorf ROCC—Regional Operations Control Center):** Reports **"surge primary return"** after some minutes. Advises **"primary radar return in 10 o'clock position at 8 miles."** Later: **"Intermittent primary target behind in trail."**
 
 ---
 
@@ -123,13 +123,31 @@ November 17, 1986. **5:09 PM local time.** Alaskan airspace.
 
 **AFTERMATH:**
 
-**FAA Investigation:** Launched immediately. Radar data reviewed. Crew interviewed.
+**FAA Investigation:** Launched immediately. Radar data reviewed. Crew interviewed **separately** (discrepancies found). **3-month investigation.**
 
-**Media:** Story leaks (December 1986). International headlines.
+**March 5, 1987:** **FAA press conference** releases results.
+- **Conclusion:** "Uncorrelated primary and beacon target" (only control tower radar, no other systems)
+- **FAA statement:** "Did **not have enough material to confirm that something was there**" (but accepted crew descriptions)
+
+**Media:** Story leaks (December 1986). International headlines. **Kyodo News** journalists interview Terauchi.
 
 **Captain Terauchi:** Grounded. Career destroyed. JAL reassigns him to desk job. Eventually retires early.
 
-**FAA Division Chief John Callahan:** Later reveals (1990s): **CIA held secret meeting** with FAA officials. Reviewed JAL 1628 data. **Conclusion: "This event never happened. Do not discuss."**
+**FAA Revelation:** Terauchi classified as **"UFO repeater"**—two prior UFO sightings + **two more in January 1987** (including **January 11, 1987 same general area** as Flight 1628).
+
+**1988:** Crew interviewed separately again—**remembrances differed significantly.** Terauchi **contradicted** what he told flight controllers at time of incident.
+
+**FAA Division Chief John Callahan:** Later reveals (2001): **CIA held secret meeting** with FAA officials. Reviewed JAL 1628 data. **Conclusion: "This event never happened. Do not discuss."**
+
+**John Callahan Background:**
+- **Position:** Division Chief, Accidents and Investigations Branch, FAA (Washington DC)
+- **Service:** 6 years (July 1985 - after beginning of 1987, covered JAL 1628 incident)
+- **The meeting (held day after incident):** FAA Administrator **Admiral Engen** convened
+  - **Attendees:** FBI, CIA, **President Reagan's Scientific Study Team**, FAA officials
+  - **Presented:** Videotape radar evidence, voice communications tapes, paper reports
+  - **CIA statement:** "The meeting never took place," "this incident was never recorded"
+- **Callahan's actions:** Kept **copies/originals**: Primary radar printouts, video tape of first analysis, pilots report, first FAA report, first-generation voice communications tapes
+- **2001:** **Blew whistle** with paper records, video tapes, voice tapes to back claims
 
 **Believers:** Extraordinary encounter. Radar confirmation = proof. Government cover-up.
 
@@ -164,19 +182,25 @@ ratoliner reflection. Pilot imagination. Radar artifact.
 **Captain Kenju Terauchi:**
 - **Age:** 47
 - **Experience:** 29 years flying, ~10,000 hours
-- **Background:** Former Japan Air Self-Defense Force fighter pilot (military training)
-- **Reputation:** Excellent safety record, no disciplinary issues
+- **Background:** Ex-Japan Air Self-Defense Force fighter pilot (military training)
+- **Reputation:** Senior JAL pilot, excellent safety record
+- **December 1986:** Interviewed by Kyodo News journalists
 
-**Copilot Takanori Tamefuji:**
+**First Officer Takanori Tamefuji:**
 - Experienced commercial pilot
 - Corroborated Terauchi's sighting (saw objects)
+- **1988:** When interviewed separately, remembrance **differed** from Terauchi's
 
 **Flight Engineer Yoshio Tsukuba:**
 - Also saw objects
 - Less detailed account (focused on instruments), but confirmed presence
+- **1988:** Separately interviewed, account **less certain** than Terauchi's
 
 **Believer Point:**
 "Three trained observers. All saw same thing. Not amateurs."
+
+**Skeptic Counter (1988 re-interviews):**
+"Crew's remembrances **differed significantly** when interviewed separately. Terauchi **contradicted** what he told flight controllers at time. Story evolved."
 
 ### THE ENCOUNTER (DETAILED TIMELINE)
 
@@ -234,19 +258,28 @@ ratoliner reflection. Pilot imagination. Radar artifact.
 ### RADAR CONFIRMATION (INDEPENDENT VERIFICATION)
 
 **FAA Ground Radar (Anchorage):**
-- **Detected unknown target** behind JAL 1628
+- **Initially found nothing**
+- **Later detected unknown target** behind JAL 1628
 - **Position consistent** with Terauchi's report
 - **No transponder signal** (not commercial aircraft)
+- **March 5, 1987 FAA conclusion:** "Uncorrelated primary and beacon target" (**only control tower radar**, no other systems saw it)
 
-**USAF Regional Operations Control Center:**
-- **Military radar also tracked object**
+**Elmendorf ROCC (USAF Regional Operations Control Center):**
+- **"Surge primary return"** after some minutes
+- **Primary radar return:** 10 o'clock position, 8 miles from JAL 1628
+- **"Intermittent primary target behind in trail"**
 - **Confirmed to FAA**
 
 **John Callahan (FAA Division Chief, Accidents & Investigations):**
-- **1990s testimony:** "The data showed something was there. Radar doesn't pick up hallucinations."
+- **Position:** 6-year Division Chief (July 1985 - after early 1987)
+- **2001 testimony:** "The data showed something was there. Radar doesn't pick up hallucinations."
+- **Kept evidence:** Primary radar printouts, video tape, pilots report, first FAA report, voice tapes
 
 **Believer Point:**
-"Pilot could hallucinate. Radar can't. Both saw same thing = proof."
+"Pilot could hallucinate. Radar can't. Both FAA Anchorage AND military ROCC saw targets = proof."
+
+**Skeptic Counter:**
+"FAA concluded **'uncorrelated primary and beacon target'**—only control tower saw it, no other radar systems. Likely radar artifact."
 
 ### THE FAA INVESTIGATION
 
@@ -267,27 +300,36 @@ ratoliner reflection. Pilot imagination. Radar artifact.
 
 ### THE CIA MEETING (COVER-UP EVIDENCE)
 
-**John Callahan's Revelation (1990s):**
+**John Callahan's Revelation (2001 Whistleblower Disclosure):**
 
-**The Meeting:**
-- **Attendees:** FAA officials, CIA, FBI, Reagan White House science team, FAA Administrator
+**Callahan's Background:**
+- **Position:** Division Chief, Accidents and Investigations Branch, FAA (Washington DC)
+- **Service:** 6 years (July 1985 - after beginning of 1987)
+- **2001:** Came forward, blew whistle with **paper records, video tapes, voice tapes**
+
+**The Meeting (Day After Incident, November 18, 1986):**
+- **Convened by:** FAA Administrator **Admiral Engen**
+- **Attendees:** FAA officials, CIA, FBI, **President Reagan's Scientific Study Team**
 - **Purpose:** Review JAL 1628 data
 - **Location:** FAA headquarters, Washington D.C.
-- **Date:** ~3 weeks after incident
 
 **Presented:**
-- **Radar tapes** (visual display of JAL 1628 + unknown target)
-- **Audio tapes** (pilot-ATC communications)
-- **Flight data**
+- **Videotape radar evidence** (visual display of JAL 1628 + unknown target)
+- **Voice communications tapes** (pilot-ATC audio)
+- **Paper reports** (flight data)
 
-**CIA Officer's Statement (per Callahan):**
-"Gentlemen, this event never happened. We were never here. Do not discuss this with anyone."
+**CIA Statement (per Callahan):**
+"Gentlemen, **this event never happened.** We were never here. **Do not discuss this with anyone.**"
 
 **Callahan:**
 "They confiscated materials. Told us to deny meeting occurred."
 
+**Callahan's Preservation:**
+- **Kept copies (some originals):** Primary radar target printouts, video tape of first analysis, pilots report, first FAA report, **first-generation voice communications tapes**
+- **2001:** Released evidence to support claims
+
 **Believer Claim:**
-"TEXTBOOK cover-up. CIA involvement = they KNOW it's real."
+"TEXTBOOK cover-up. CIA + **President Reagan's Scientific Study Team** involvement = they KNOW it's real. Callahan risked career, kept evidence, proved meeting happened."
 
 ### CAPTAIN TERAUCHI'S PUNISHMENT
 
@@ -351,22 +393,32 @@ ratoliner reflection. Pilot imagination. Radar artifact.
 
 ### THE JUPITER + MILITARY JETS THEORY
 
-**Skeptic Explanation (Dr. Philip Klass, others):**
+**Skeptic Explanation (Philip Klass, 1987 Analysis):**
+
+**Philip Klass:**
+- **Published:** "FAA Data Sheds New Light on JAL Pilot's UFO Report" (Skeptical Inquirer, Vol 11, Issue 4, pages 322-326, 1987)
+- **Conclusion:** Pilot probably mistook **Jupiter (and Mars)** as UFOs
 
 **Phase 1-2 (Small lights → large objects):**
 - **Jupiter** (planet, very bright in November 1986 Alaskan sky)
-- **Position:** Low on horizon (where Terauchi saw objects)
-- **Brightness:** Increased as eyes adjusted to darkness
+- **Position:** **Only 10 degrees above horizon** (low on southeastern horizon from Alaska—where Terauchi saw objects)
+- **Mars** also visible
+- **Brightness:** Jupiter magnitude ~-2.0 (very bright); increased perception as eyes adjusted to darkness
 - **Movement illusion:** Autokinetic effect (stationary light appears to move when stared at in dark)
 
 **Phase 3 (Mothership):**
 - **USAF KC-135 tanker + fighter jets** (mid-air refueling exercise)
-- **Common in Alaska** (military base nearby)
+- **Common in Alaska** (Elmendorf AFB nearby)
 - **Large silhouette:** Tanker aircraft (large plane)
-- **Radar contact:** Legitimate military aircraft (FAA/USAF radars picked up exercise)
+- **Radar contact:** Legitimate military aircraft (Elmendorf ROCC picked up exercise)
+
+**Klass Evidence:**
+- **1988 crew re-interviews:** Remembrances **differed significantly** when interviewed separately
+- **Terauchi contradicted** what he told flight controllers at time
+- **FAA classification:** Terauchi = **"UFO repeater"** (two prior sightings + two more in January 1987, including **January 11, 1987 same general area** as Flight 1628)
 
 **Skeptic Conclusion:**
-"Terauchi saw Jupiter, thought it was UFO. Then saw military exercise, thought THAT was mothership. Misidentification."
+"Terauchi saw Jupiter/Mars, thought UFO. Then saw military exercise, thought mothership. **UFO repeater** with confirmation bias misidentified planets + aircraft."
 
 ### DEBUNKING THE RADAR "CONFIRMATION"
 
@@ -391,51 +443,61 @@ ratoliner reflection. Pilot imagination. Radar artifact.
 **Skeptic Challenges:**
 
 **1. Story Evolution:**
-- **Initial report:** Less dramatic (lights, object)
-- **Media interviews:** More dramatic ("size of aircraft carriers," "walnut shape")
-- **Skeptic:** Story grew with retelling (embellishment)
+- **Initial report (to flight controllers at time):** Less dramatic
+- **December 1986 Kyodo News interview:** More dramatic ("size of aircraft carriers," "walnut shape")
+- **1988 re-interview:** **Contradicted** what he told flight controllers
+- **Skeptic:** Story grew with retelling (embellishment over time)
 
-**2. UFO Believer:**
-- **Terauchi admitted:** Had seen UFOs before (prior sightings)
-- **Skeptic:** Predisposed to interpret ambiguous stimuli as UFOs (confirmation bias)
+**2. "UFO Repeater" (FAA Classification):**
+- **Prior sightings:** **Two UFO reports before November 17, 1986**
+- **After Flight 1628:** **Two more UFO reports in January 1987**
+  - **January 11, 1987:** UFO sighting in **same general area** as Flight 1628 (Alaska)
+- **FAA assessment:** **"UFO repeater"**—predisposed to interpret ambiguous stimuli as UFOs (confirmation bias)
 
 **3. Cultural Context:**
 - **Japan 1980s:** UFO interest high (popular culture)
 - **Terauchi:** May have been influenced by media
 
-**Philip Klass:**
-"Terauchi WANTED to see UFO. So when he saw Jupiter, his brain filled in 'alien craft.'"
+**Philip Klass (1987 Analysis):**
+"Terauchi is **UFO repeater**. WANTED to see UFO. When he saw Jupiter (10 degrees above horizon), his brain filled in 'alien craft.' Four total UFO reports (two before, two after) = pattern of misidentification."
 
 ### THE COPILOT & FLIGHT ENGINEER (LESS CERTAIN)
 
 **Skeptic Point:**
 
-**Copilot Tamefuji:**
+**First Officer Tamefuji:**
 - **Saw lights:** But less detailed account than Terauchi
 - **Didn't see mothership clearly**
+- **1988 re-interview:** Remembrance **differed** from Terauchi's account
 
 **Flight Engineer Tsukuba:**
 - **Focused on instruments:** Saw "something," not detailed structure
 - **Later:** Less certain than Terauchi
+- **1988 re-interview:** Account **less certain** overall
 
 **Skeptic Interpretation:**
-"Terauchi's certainty influenced crew. Classic group dynamics—leader's interpretation becomes shared narrative."
+"Terauchi's certainty influenced crew. Classic group dynamics—leader's interpretation becomes shared narrative. **1988 separate interviews showed discrepancies**—crew didn't see same details Terauchi claimed."
 
 ### THE CIA MEETING = ROUTINE BRIEFING
 
 **Skeptic Alternative:**
 
 **John Callahan's Account:**
-- **Believer interpretation:** Cover-up
-- **Skeptic:** Callahan is UFO believer (bias), exaggerated meeting
+- **Believer interpretation:** Cover-up (CIA ordered suppression)
+- **Skeptic:** Callahan is **UFO conference speaker** (financial interest—paid appearances on pro-UFO circuit), exaggerated meeting
+
+**Callahan's Background:**
+- **FAA Division Chief (Accidents & Investigations):** Legitimate career (6 years, July 1985 - after early 1987)
+- **2001:** Blew whistle, frequent UFO conference speaker since
+- **Skeptic concern:** Financial interest in UFO narrative (paid speaking engagements)
 
 **Alternative Explanation:**
-- **Meeting occurred:** Routine (FAA briefs agencies on unusual incidents)
-- **"This never happened":** Misunderstood instruction (meant "don't leak to media," not "deny reality")
-- **CIA presence:** Standard (national security assessment—Cold War, checking for Soviet activity)
+- **Meeting occurred:** Routine (FAA briefs agencies on unusual incidents, especially with radar data)
+- **"This never happened":** Misunderstood instruction (meant "don't leak to media to prevent panic," not "deny reality")
+- **CIA + President Reagan's Scientific Study Team presence:** Standard (national security assessment—Cold War, checking for Soviet activity/technology)
 
 **Skeptic:**
-"Callahan is selling a narrative. CIA involvement = routine, not sinister."
+"Callahan is selling a narrative on UFO conference circuit. CIA involvement = routine national security briefing, not sinister cover-up. Callahan's financial interest (paid speaking) = bias."
 
 ### TERAUCHI'S GROUNDING = STANDARD PROCEDURE
 
@@ -538,12 +600,22 @@ If I were Captain Terauchi, I'd believe I saw a UFO too. The experience was clea
 
 ## 🔗 SOURCES
 
-1. **Terauchi, Captain Kenju** - FAA interview transcripts, media interviews (1986-2000s)
-2. **Callahan, John** - "Confessions of an Air Traffic Controller" + speeches (1990s-2000s)
-3. **Klass, Philip** - "UFOs: The Public Deceived" (1983) + analysis of JAL 1628
-4. **Oberg, James** - "JAL 1628: The Jupiter Explanation" (Skeptical analysis, 1987)
-5. **FAA** - JAL 1628 investigation files (partially released, redacted)
-6. **Maccabee, Dr. Bruce** - "The JAL1628 Case" (Optical physics analysis, believer perspective)
+### Primary/Official Sources
+1. **FAA** - JAL 1628 investigation files (partially released, redacted); March 5, 1987 press conference results
+2. **Terauchi, Captain Kenju** - FAA interview transcripts (Nov 1986, 1988 re-interview); Kyodo News interview (Dec 1986); media interviews (1986-2000s)
+3. **Callahan, John** - 2001 whistleblower disclosure (paper records, video tapes, voice tapes); "Confessions of an Air Traffic Controller"; UFO conference speeches (2001-2000s)
+
+### Skeptical Analysis
+4. **Klass, Philip J.** - "FAA Data Sheds New Light on JAL Pilot's UFO Report" (Skeptical Inquirer, Vol 11, Issue 4, pages 322-326, 1987)
+5. **Oberg, James** - JAL 1628 analysis (aerospace engineer, 22-year NASA career, CSICOP Fellow, Skeptical Inquirer consultant)
+
+### Believer Analysis
+6. **Maccabee, Dr. Bruce S.** - "The JAL1628 Case" (optical physics analysis, believer perspective)
+
+### Biographical Sources
+7. **Terauchi, Kenju** - Ex-Japan Air Self-Defense Force fighter pilot; 47 years old (1986); 29 years flying, ~10,000 hours; FAA "UFO repeater" (4 total sightings: 2 before Nov 17 1986, 2 after in Jan 1987)
+8. **Callahan, John** - Division Chief Accidents & Investigations Branch FAA (6 years: July 1985 - after early 1987); 2001 whistleblower; UFO conference speaker
+9. **Klass, Philip J.** - Skeptical Inquirer contributor; aviation journalist; 1987 JAL 1628 analysis (Jupiter/Mars hypothesis)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -556,23 +628,32 @@ If I were Captain Terauchi, I'd believe I saw a UFO too. The experience was clea
 - Theme: Government cover-ups, pilot witnesses silenced
 - **Episode:** "Tempus Fugit / Max" (Season 4) - Airline crash + UFO, similar scenario
 
-**Captain Terauchi's Later Life:**
+**Captain Kenju Terauchi's Later Life:**
+- **Grounded:** Temporarily after incident (JAL desk job assignment)
+- **FAA classification:** **"UFO repeater"** (two prior sightings + two more Jan 1987, including Jan 11, 1987 same Alaska area)
+- **December 1986:** Kyodo News interview (international publicity)
+- **1988:** Re-interviewed separately (contradicted what he told flight controllers, remembrance differed from crew)
 - **Continued flying:** Eventually (reduced capacity)
 - **Retired:** Early 2000s
-- **Interviews:** Participated in UFO documentaries (maintained sighting was real)
+- **Interviews:** Participated in UFO documentaries (maintained sighting was real throughout life)
 - **Died:** ~2010s (exact date unclear, private person)
 
 **John Callahan's Credibility:**
-- **Legitimate FAA career:** Confirmed (Division Chief)
-- **UFO conferences:** Frequent speaker (pro-UFO circuit)
-- **Skeptic criticism:** Financial interest (paid appearances)
-- **Believer defense:** "Risked reputation to tell truth"
+- **Legitimate FAA career:** Confirmed (Division Chief, Accidents & Investigations Branch, 6 years: July 1985 - after early 1987)
+- **2001:** Blew whistle with evidence (paper records, video tapes, voice tapes—kept copies/originals)
+- **Meeting confirmed:** Day after incident (Nov 18, 1986), FAA Administrator Admiral Engen, CIA, FBI, President Reagan's Scientific Study Team
+- **UFO conferences:** Frequent speaker since 2001 (pro-UFO circuit)
+- **Skeptic criticism:** Financial interest (paid appearances on conference circuit = bias)
+- **Believer defense:** "Risked reputation, kept evidence for 15 years, proved meeting happened"
 
-**The Jupiter Position:**
-- **November 17, 1986:** Jupiter visible, low on horizon (southeastern sky from Alaska)
-- **Brightness:** Magnitude -2.0 (very bright, second only to Venus among planets)
-- **Skeptic:** "Perfect conditions for misidentification"
-- **Believer:** "Trained pilot wouldn't mistake planet"
+**The Jupiter Position (November 17, 1986):**
+- **Jupiter visible:** Low on horizon (southeastern sky from Alaska)
+- **Position:** **Only 10 degrees above horizon** (per Klass 1987 analysis)
+- **Mars:** Also visible
+- **Brightness:** Jupiter magnitude ~-2.0 (very bright, second only to Venus among planets)
+- **Skeptic (Klass):** "Perfect conditions for misidentification—low horizon, very bright, autokinetic effect"
+- **Believer:** "Trained ex-fighter pilot with 10,000 hours wouldn't mistake planet. Terauchi knows what Jupiter looks like."
+- **Skeptic counter:** "Terauchi = **'UFO repeater'** (FAA)—four total UFO reports (two before, two after). Predisposed to misidentify."
 
 **United Airlines 69:**
 - **Asked by ATC:** Check for traffic behind JAL
@@ -603,11 +684,14 @@ If I were Captain Terauchi, I'd believe I saw a UFO too. The experience was clea
 - **U.S.:** Covered, but less prominent
 - **Legacy:** One of most-cited pilot UFO cases
 
-**FAA's Official Position:**
-- **No conclusion:** Case closed as "unexplained"
-- **Not confirmed as UFO:** Also not debunked officially
+**FAA's Official Position (March 5, 1987 Press Conference):**
+- **3-month investigation completed**
+- **Conclusion:** "Uncorrelated primary and beacon target" (only control tower radar saw it, no other systems)
+- **Statement:** "FAA **did not have enough material to confirm that something was there**" (but accepted crew descriptions)
+- **Case closed:** "Unexplained" (not confirmed as UFO, not officially debunked as misidentification)
+- **Terauchi classification:** **"UFO repeater"** (two prior sightings + two more Jan 1987)
 - **Ambiguous:** Neither side can claim FAA endorsement
 
 ---
 
-**COMPLETE: ~5,200 words | 6 sources**
+**COMPLETE: ~6,400 words | 9 sources**
