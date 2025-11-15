@@ -4,7 +4,7 @@
 - **Episode:** 030 | **Category:** X-Files Deep Dive
 - **Air Date:** May 19, 1995 (Season 2 Finale)
 - **Title:** "Anasazi" (Part 1 of trilogy: Anasazi → Blessing Way → Paper Clip)
-- **Key Figures:** Chris Carter (creator), Frank Spotnitz (writer), David Duchovny (Mulder), Gillian Anderson (Scully)
+- **Key Figures:** Chris Carter (creator), David Duchovny (story/Mulder), R.W. Goodwin (director), Gillian Anderson (Scully)
 - **Cultural Impact:** Defined X-Files mythology; shifted from monster-of-week to serialized conspiracy; introduced alien-human hybrids, government experimentation; raised stakes permanently
 - **Significance:** The episode that transformed X-Files from cult hit to cultural phenomenon
 
@@ -193,9 +193,25 @@ May 19, 1995. Season 2 finale. X-Files fans watching live.
 - **X-Files fandom:** Organizes (conventions, fan fiction boom)
 
 **Ratings:**
-- **Season 2 finale:** ~10 million viewers
-- **Season 3 premiere ("The Blessing Way"):** ~20 million viewers
-- **Doubled audience:** "Anasazi" cliffhanger worked
+
+**"Anasazi" (Season 2 Finale, May 19, 1995):**
+- **Nielsen rating:** 10.1 (with 18 share)
+- **Meaning:** 10.1% of all TV-equipped households watched; 18% of households watching TV at that hour
+- **Total viewers:** 9.6 million households
+- **Time slot dominance:** Beat every other channel in 9pm-10pm slot
+- **Note:** Despite X-Files Magazine claiming "highest ratings ever," Nielsen data shows "Anasazi" didn't make top 5 most-watched Season 2 episodes
+
+**"The Blessing Way" (Season 3 Premiere, September 22, 1995):**
+- **Nielsen rating:** 12.3
+- **Total viewers:** 19.94 million people
+- **Significance:** **Highest-rated X-Files episode to air at that time**
+- **Growth:** More than DOUBLED Season 2 premiere audience
+
+**"Paper Clip" (Season 3, Episode 2, September 29, 1995):**
+- **Nielsen rating:** 11.1
+- **Total viewers:** 17.2 million people
+
+**Impact:** "Anasazi" cliffhanger drove explosive Season 3 premiere ratings; ratings consistently stayed above 15.0, making X-Files one of most-watched series of 1995-96 TV season
 
 **Mythology Shift:**
 - **Before:** Casual viewers could watch monster-of-week
@@ -337,19 +353,101 @@ I grew up AFTER X-Files ended. But its legacy shaped how I think about UFOs, gov
 
 ## 🔗 SOURCES
 
-1. **"Anasazi" Episode** - The X-Files, Season 2, Episode 25 (Fox, 1995)
-2. **Carter, Chris** - Creator interviews, DVD commentary
-3. **"The Truth Is Out There: The Official Guide to The X-Files"** (1995)
-4. **Lovece, Frank** - "The X-Files Declassified" (1996)
-5. **Usenet archives** - alt.tv.x-files discussions (1995)
-6. **Ratings data** - Nielsen ratings, TV history archives
+### Primary Sources
+
+1. **"Anasazi" Episode** - The X-Files, Season 2, Episode 25 (Fox, May 19, 1995)
+   - Written by: Chris Carter (story by Chris Carter & David Duchovny)
+   - Directed by: R.W. Goodwin
+   - Nielsen rating: 10.1 (9.6 million households)
+2. **"The Blessing Way"** - The X-Files, Season 3, Episode 1 (Fox, September 22, 1995)
+   - Nielsen rating: 12.3 (19.94 million viewers)
+3. **"Paper Clip"** - The X-Files, Season 3, Episode 2 (Fox, September 29, 1995)
+   - Nielsen rating: 11.1 (17.2 million viewers)
+
+### Creator and Cast
+
+4. **Carter, Chris** (Christopher Carl Carter, b. October 13, 1956)
+   - Creator interviews, DVD commentary
+   - Cal State Long Beach journalism (1979), Surfing Magazine editor (13 years)
+5. **Duchovny, David** (David William Duchovny, b. August 7, 1960)
+   - Princeton (1982, summa cum laude), Yale MA English Literature
+   - Co-developed "Anasazi" story with Carter
+6. **Anderson, Gillian** (Gillian Leigh Anderson, b. August 9, 1968)
+   - DePaul Theatre School, 2 Emmy wins (1997 X-Files, The Crown)
+7. **Donat, Peter** (Pierre Collingwood Donat, 1928-2018)
+   - 6 X-Files appearances (1995-1999) as Bill Mulder
+   - ACT co-founder, nephew of Robert Donat
+
+### Reference Books and Archives
+
+8. **"The Truth Is Out There: The Official Guide to The X-Files"** (1995)
+9. **Lovece, Frank** - "The X-Files Declassified" (1996)
+10. **Usenet archives** - alt.tv.x-files discussions (Summer 1995 - "Anasazi" theories)
+11. **Entertainment Weekly** - Season 2 retrospective (rated "Anasazi" an A: "mind-blowing if frustrating," "made fans want to fast-forward through summer")
+
+### Ratings and Awards
+
+12. **Nielsen ratings data** - TV history archives
+13. **Emmy Awards** - 1995 ceremony (Season 2: 7 nominations, 1 win)
+    - "Duane Barry" (4 nominations), "One Breath" (cinematography), "Sleepless" (editing)
+    - "Anasazi" received NO Emmy nominations despite cultural impact
 
 ## 🎬 PRODUCTION NOTES
 
+### KEY FIGURES
+
+**Chris Carter (Creator/Writer):**
+- **Full name:** Christopher Carl Carter
+- **Born:** October 13, 1956, Bellflower, California
+- **Education:** California State University, Long Beach (journalism degree, 1979)
+- **Early career:** Surfing Magazine (13 years, became editor at age 28)
+- **Screenwriting:** Walt Disney Studios (1985), Twentieth Century Fox Television (1992)
+- **X-Files:** Created 1993; won Golden Globes, Peabody Award
+- **"Anasazi" role:** Wrote episode based on story he developed with David Duchovny
+
+**David Duchovny (Story/Actor - Fox Mulder):**
+- **Full name:** David William Duchovny
+- **Born:** August 7, 1960, New York City
+- **Parents:** Amram Ducovny (Jewish immigrant family from Ukraine/Poland, writer/publicist for American Jewish Committee), Margaret Miller (Scottish-born school teacher)
+- **Education:**
+  - Princeton University (1982, Phi Beta Kappa, summa cum laude in English literature)
+  - Yale University (MA in English Literature)
+  - **Unfinished PhD:** "Magic and Technology in Contemporary Fiction and Poetry"
+- **X-Files awards:** Golden Globe, Emmy nominations, 5 Screen Actors Guild Award nominations
+- **Author:** Published 5 books including "Holy Cow" (2015), "Bucky F*cking Dent" (2016)
+- **"Anasazi" role:** Co-developed story with Chris Carter
+
+**Gillian Anderson (Actor - Dana Scully):**
+- **Full name:** Gillian Leigh Anderson
+- **Born:** August 9, 1968, Chicago
+- **Education:** The Theatre School at DePaul University, Chicago
+- **X-Files Emmy:** 1997 (first Emmy for playing Dana Scully)
+- **Total Emmy wins:** 2 (second for Margaret Thatcher in "The Crown")
+- **Other awards:** 2 Golden Globes, 4 Screen Actors Guild Awards
+- **Historic achievement:** First actress to win Emmy, Golden Globe, and SAG Award in the same year
+
+**R.W. Goodwin (Director):**
+- Directed "Anasazi" (Season 2 finale)
+
+**Peter Donat (Actor - William "Bill" Mulder):**
+- **Full name:** Pierre Collingwood Donat
+- **Born:** January 20, 1928, Kentville, Nova Scotia, Canada
+- **Died:** September 10, 2018, Point Reyes Station, California (complications of diabetes)
+- **Family:** Nephew of Oscar-winning actor Robert Donat
+- **Education:** Yale (drama, 1950); naturalized U.S. citizen
+- **Marriage:** Michael Learned (actress, 1956-1972, divorced); 3 children (Caleb, Christopher, Lucas)
+- **Theater:** Co-founding company member of American Conservatory Theater, frequent player at Stratford Festival, notable for "Cyrano de Bergerac" (filmed by PBS)
+- **X-Files:** Appeared in 6 episodes (1995-1999) as Bill Mulder
+- **"Anasazi" role:** Murdered in this episode (major character death that shocked fans)
+
+### TRILOGY DETAILS
+
 **The Trilogy:**
-- **"Anasazi"** (Season 2 finale)
-- **"The Blessing Way"** (Season 3 premiere) - Mulder survives, Scully's implant cancer begins
-- **"Paper Clip"** (Season 3, Ep 2) - Reveals Operation Paper Clip (real historical program), Nazi scientists, alien tech
+- **"Anasazi"** (Season 2 finale, May 19, 1995) - Nielsen 10.1, 9.6M households
+- **"The Blessing Way"** (Season 3 premiere, September 22, 1995) - Nielsen 12.3, 19.94M viewers
+- **"Paper Clip"** (Season 3, Ep 2, September 29, 1995) - Nielsen 11.1, 17.2M viewers
+  - Reveals Operation Paper Clip (real historical program importing Nazi scientists post-WWII)
+  - Scully's implant cancer storyline begins
 
 **Navajo Consultation:**
 - Production hired **Navajo consultants** for language accuracy
@@ -358,11 +456,6 @@ I grew up AFTER X-Files ended. But its legacy shaped how I think about UFOs, gov
 **The Boxcar:**
 - **Inspired by:** Roswell mythology (alien bodies recovered)
 - **Visual:** Bodies stacked = Holocaust imagery (intentional—connects government experiments to historical atrocities)
-
-**Mulder's Father (William Mulder):**
-- **Played by:** Peter Donat
-- Murdered in "Anasazi" (major character death—shocked fans)
-- **Reveal:** Was part of Syndicate, regretted it
 
 **Real MJ-12:**
 - Show used REAL hoax documents (Episode 17) as plot device
@@ -376,9 +469,23 @@ I grew up AFTER X-Files ended. But its legacy shaped how I think about UFOs, gov
 **Chris Carter's Intent:**
 - **Quote:** "We wanted to show that questioning authority is patriotic. Mulder is a hero BECAUSE he doesn't accept what he's told."
 
-**Emmy Nominations (1995):**
-- **"Anasazi":** Nominated for writing, directing
-- X-Files won **multiple Emmys** that year (legitimized genre TV)
+**Emmy Awards (1995 Ceremony, for Season 2):**
+
+**X-Files Season 2 Nominations (7 total):**
+- **Outstanding Drama Series** (first nomination for this category)
+- **"Duane Barry" episode (4 nominations):**
+  - CCH Pounder - Outstanding Guest Actress in Drama Series
+  - Chris Carter - Outstanding Writing for Drama Series
+  - James Coblentz - Outstanding Editing for Series
+  - Outstanding Sound Editing for Series
+- **"One Breath":** John S. Bartley - Outstanding Cinematography for Series
+- **"Sleepless":** Stephen Mark - Outstanding Editing for Series
+
+**Result:** 1 win (out of 7 nominations)
+
+**"Anasazi" Emmy Status:**
+- **Despite episode importance:** "Anasazi" received NO Emmy nominations for writing or directing
+- **Irony:** Episode transformed series, but Emmy recognition went to other Season 2 episodes
 
 **The Episode Number:**
 - Episode 2x25 = 49th episode overall
@@ -387,7 +494,7 @@ I grew up AFTER X-Files ended. But its legacy shaped how I think about UFOs, gov
 
 ---
 
-**COMPLETE: ~3,800 words | 6 sources**
+**COMPLETE: ~5,000 words | 13 sources**
 
 ---
 

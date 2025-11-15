@@ -146,9 +146,15 @@ Listed as original 12 members:
 **Other "Evidence" Believers Connect:**
 
 **Forrestal's Death (1949):**
-- James Forrestal (MJ-12 member) died May 1949 (fell from hospital window)
-- **Official:** Suicide (mental breakdown)
-- **Believers:** Murdered to prevent MJ-12 secrets leaking
+- James Forrestal (MJ-12 member) died **May 22, 1949** at Bethesda Naval Hospital
+- **Details:** Fell from 16th floor window; found on roof of covered walkway below kitchen window; **bathrobe sash knotted tightly around his neck**
+- Had undergone medical treatment for depression; mental health rapidly deteriorated
+- **Official conclusion:** Suicide
+- **Secret report:** Full committee report held secret for **55 years**, not released until 2004
+- **Believer theories:**
+  - 1987: John Lear claimed Forrestal's death connected to "horrible truth" about aliens
+  - Journalist Seymour Hersh implied possible covert CIA assassination
+  - Murdered to prevent MJ-12 secrets leaking
 
 **Menzel's Classified Work:**
 - Menzel had TOP SECRET clearance (NSA work)
@@ -175,11 +181,23 @@ Listed as original 12 members:
 
 **Argument 7: STANTON FRIEDMAN ENDORSEMENT**
 
-**Stanton Friedman (Nuclear Physicist):**
-- Investigated MJ-12 for years
-- Wrote books defending authenticity
+**Stanton Terry Friedman (Nuclear Physicist):**
+- **Education:** B.S. (1955) and M.S. (1956) in nuclear physics from University of Chicago; **Carl Sagan was classmate**
+- **Career:** 14 years as nuclear physicist for major companies:
+  - General Electric (1956-1959)
+  - Aerojet General Nucleonics (1959-1963)
+  - General Motors (1963-1966)
+  - Westinghouse (1966-1968)
+  - TRW Systems (1969-1970)
+  - McDonnell Douglas
+- **Classified work:** Nuclear aircraft, fission/fusion rockets, compact nuclear power plants for space applications
+- **1970:** Left full-time physics to pursue UFO research
+- **Lecture career:** 600+ college lectures in 50 states, 10 provinces, 19 countries
+- **MJ-12 investigation:** Spent **21 years** investigating Operation Majestic 12
+- Wrote "TOP SECRET/MAJIC" (1996) defending authenticity
+- **Died:** May 13, 2019, still believing MJ-12 was real
 - **Credentials:** Legitimate scientist (not fringe figure)
-- **Believer:** "A physicist wouldn't stake reputation on forgery"
+- **Believer argument:** "A physicist with Carl Sagan as classmate wouldn't stake reputation on forgery"
 
 [BELIEVER RANT: "The names are REAL. The timeline fits. The classification matches actual government docs from that era. And Forrestal DIES two years after MJ-12 forms? Come on! Yes, there are some formatting issues—but that's because these were LEAKED, not official releases. They're rough copies. That doesn't make them fake. It makes them REAL leaks."]
 
@@ -269,18 +287,30 @@ Listed as original 12 members:
 
 **Motive:**
 - Both had UFO book projects underway
-- **Moore admitted** (later) to spreading disinformation for government
-- Moore's partner: Richard Doty (Air Force OSI agent, known for UFO disinformation)
+- **Moore's 1989 confession:** At July 1, 1989 MUFON Symposium (Las Vegas), Moore shocked audience by admitting he spread disinformation for Air Force Intelligence
+  - Confessed to "willingly allowing himself to be used" by people claiming to act for Air Force Intelligence
+  - Admitted to "knowingly disseminating disinformation" (though claimed never "on payroll")
+  - Read prepared speech, immediately exited through rear door to avoid confrontation
+  - **Effectively ended his ufology career**
+- Moore's partner: **Richard Doty** (Air Force OSI special agent, 20-year career)
+
+**Richard Doty's Admitted Disinformation:**
+- **AFOSI assignment:** Conduct surveillance on scientist Paul Bennewitz (who had observed classified Air Force projects)
+- **Disinformation campaign:** Fed Bennewitz false information about alien bases, impending alien invasion, secret treaties with aliens
+- **Methods:** Created hoaxed UFO documents, **broke into Bennewitz's house and office** (illegal)
+- **Result:** Bennewitz's psychiatric hospitalization; disinformation "passed into UFO lore" and continues influencing believers
+- **Public admission:** Doty publicly confessed to creating hoaxed documents for UFO researchers
 
 **Skeptic Theory:**
-- **Moore & Doty created the documents**
-- Goal: Boost UFO book sales, discredit UFO research
+- **Moore & Doty created the MJ-12 documents**
+- Goal: Boost UFO book sales, discredit UFO research, or continue disinformation campaign
 - Anonymous mailing = no accountability
 
 **Evidence:**
 - **Moore had access** to government letterhead, typewriters
-- **Doty admitted** to creating fake UFO documents (other cases)
+- **Doty admitted** to creating fake UFO documents (Paul Bennewitz case)
 - **Timing:** Documents appear just as Moore's book nearing completion
+- **Moore's confession:** Admitted to spreading disinformation at 1989 MUFON
 
 ### THE FBI INVESTIGATION (1988)
 
@@ -386,14 +416,21 @@ If a secret government UFO group existed, they'd be way better at secrecy than l
 
 ## 🔗 SOURCES
 
+### Primary Sources:
 1. **FBI Records** - MJ-12 investigation files (1988, declassified)
-2. **Friedman, Stanton** - "TOP SECRET/MAJIC" (1996) - Believer perspective
-3. **Klass, Philip J.** - "The Real Roswell Crashed-Saucer Coverup" (1997) - Skeptical analysis
-4. **National Archives** - Investigation of Cutler-Twining memo
-5. **Moore, William & Shandera, Jaime** - Original documents, interviews
-6. **Doty, Richard** - Interviews (admitted disinformation agent)
-7. **Signature analysis** - Forensic document examiners
-8. **CSICOP (Committee for Skeptical Inquiry)** - Detailed debunking reports
+2. **Moore, William L.** - 1989 MUFON Symposium speech (July 1, Las Vegas) - Disinformation confession
+3. **Moore, William & Shandera, Jaime** - Original MJ-12 documents (1984), interviews
+4. **Doty, Richard** - Interviews and public admissions (AFOSI disinformation operations)
+5. **National Archives** - Investigation of Cutler-Twining memo, authentication analysis
+6. **Forrestal death records** - Bethesda Naval Hospital, committee report (released 2004)
+7. **Signature analysis** - Forensic document examiners (Truman/Forrestal signature comparisons)
+
+### Secondary Sources:
+8. **Friedman, Stanton T.** - "TOP SECRET/MAJIC" (Marlowe & Company, 1996) - Believer perspective
+9. **Klass, Philip J.** - "The Real Roswell Crashed-Saucer Coverup" (1997) - Skeptical analysis
+10. **CSICOP (Committee for Skeptical Inquiry)** - Detailed debunking reports
+11. **Bennewitz, Paul** - Case documentation (disinformation campaign target)
+12. **Wikipedia** - "Majestic 12", "Stanton Friedman", "Paul Bennewitz", "William Moore" (comprehensive documentation)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -408,10 +445,10 @@ If a secret government UFO group existed, they'd be way better at secrecy than l
 - Show treats MJ-12 as real (fictional universe)
 
 **William Moore's Confession:**
-At 1989 MUFON conference, Moore admitted to spreading disinformation for government. Many believe he created MJ-12 docs as part of this.
+At July 1, 1989 MUFON Symposium in Las Vegas, Moore delivered infamous "mea culpa" speech admitting he spread disinformation for Air Force Intelligence, targeting Paul Bennewitz. He read from prepared statement and immediately exited rear door to avoid confrontation. Outcries and threatening remarks throughout lecture. This confession effectively ended his career in ufology. Many believe he created MJ-12 docs as part of this disinformation operation.
 
 **Stanton Friedman's Legacy:**
-Friedman (died 2019) never stopped believing MJ-12 was real. Defended it until his death. Respected physicist, but wrong about this.
+Friedman (July 29, 1934 – May 13, 2019) spent 21 years investigating MJ-12 and never stopped believing it was real. Despite being a University of Chicago-trained nuclear physicist who worked on classified nuclear programs for 14 years and was Carl Sagan's classmate, he defended MJ-12's authenticity until his death. Respected physicist with legitimate credentials, but wrong about this. His unwavering belief despite evidence demonstrates power of confirmation bias even in trained scientists.
 
 **Irony:**
 The best evidence AGAINST MJ-12 is how poorly the documents are forged. A real secret government group wouldn't make typing errors.

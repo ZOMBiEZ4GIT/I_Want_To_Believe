@@ -16,7 +16,7 @@
 ## 🎯 COLD OPEN
 
 **THE MOMENT:**
-March 13, 1997, 8:30 PM. The phone lines at Luke Air Force Base light up. Then Phoenix Police. Then local news stations. Everyone's calling about the same thing: a massive V-shaped craft, silent, gliding over Arizona. Not one witness. Not ten. **Thousands.**
+March 13, 1997, 8:30 PM. The phone lines at Luke Air Force Base light up. Then Phoenix Police. Then local news stations. Everyone's calling about the same thing: a massive V-shaped craft, silent, gliding over Arizona. Not one witness. Not ten. **Tens of thousands.** As many as 10 percent of Arizonans witnessed the event, according to a Rocky Mountain Poll at the time - potentially hundreds of thousands of witnesses on the ground.
 
 It's a mile wide. It has lights along the leading edge. It moves slowly, impossibly, over one of America's largest cities. The Governor sees it. Pilots see it. Police officers see it. People grab video cameras. And for two hours, Arizona watches something that shouldn't exist.
 
@@ -46,12 +46,14 @@ The next day, the military says: flares. And thus begins one of the most content
 
 **Event #1: The V-Shaped Craft (7:30-8:30 PM)**
 
-**The Timeline:**
-- 7:30 PM: First reports from Paulden (north Arizona)
-- 7:55 PM: Prescott Valley sightings
-- 8:15 PM: Phoenix metro area
-- 8:30 PM: Tucson area (disappeared over mountains)
-- **Path:** ~200 mile corridor, north to south
+**The Timeline (Over 300-mile corridor):**
+- **7:55 PM MST:** Henderson, Nevada - A witness reported seeing a large, V-shaped object traveling southeast
+- **8:15 PM:** Paulden, Arizona - An unidentified former police officer reported seeing a cluster of reddish-orange lights disappear over the southern horizon. Shortly afterward, reports of lights seen over Prescott Valley, Arizona
+- **8:15-8:45 PM:** Prescott area - Numerous witnesses observed a series of lights passing overhead
+- **8:30 PM:** Phoenix metro area - The formation hit metropolitan Phoenix
+- **8:30 PM:** Tucson area - Objects disappeared over mountains to the south
+- **Path:** Lights of varying descriptions seen in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson
+- **Scope:** Reports came in from a wide swath of Arizona, including Phoenix, Prescott, Paulden, and as far south as Tucson
 
 **Witness Descriptions (Consistent Details):**
 - **Shape:** Massive V or boomerang
@@ -64,17 +66,24 @@ The next day, the military says: flares. And thus begins one of the most content
 **Key Witnesses:**
 
 **Fife Symington (Governor of Arizona):**
-- Saw craft from his home
-- Initially mocked sightings (press conference with aide in alien costume)
-- **2007 admission:** "I saw something that defied logic... It was absolutely breathtaking"
-- **Quote:** "As a pilot and former Air Force Officer, I can say with certainty it was not man-made"
+- Saw craft from his home in 1997 during his second term as governor
+- **The 1997 mockery:** In June 1997, Governor Symington called a press conference where his chief-of-staff, Jay Heiler, was escorted in by public safety police officers while handcuffed, wearing a large rubber mask and dressed as a space alien. The Governor presented the costumed extraterrestrial as the "guilty party."
+- **Why he mocked it:** Symington later explained that the state of Arizona was "on the brink of hysteria" about the UFO sighting, and the frenzy was building. He said he did not acknowledge his own encounter at first because he did not want people to panic. He also faced fraud charges at the time and did not need the additional problems such an admission would have created.
+- **2007 admission (10 years later):** Symington revealed he was a witness to the Phoenix Lights at a National Press Club UFO Conference. "In 1997, during my second term as governor of Arizona, I saw something that defied logic and challenged my reality."
+- **What he saw:** He reported witnessing "a massive delta-shaped craft silently navigate over Squaw Peak, a mountain range in Phoenix, Arizona"
+- **Quote (as a pilot and former Air Force Officer):** "I can say with certainty it was not man-made"
 
 **Dr. Lynne Kitei (Physician):**
-- Witnessed lights from her home 3 separate times (1995, 1997)
-- Documented with video/photos
-- Spent 10+ years investigating
+- **Background:** Internationally acclaimed physician and health educator who was Chief Clinical Consultant at the Arizona Heart Institute's Imaging-Prevention-Wellness Center in Phoenix, Arizona. She pushed aside her successful medical career to pursue the Phoenix Lights investigation.
+- **Three separate sightings:**
+  1. **1995**: Captured 35mm photos of oval orbs in a pyramid array just yards from her home
+  2. **January 1997** (two months before March 13): Filmed a mile-wide formation of equidistant lights head-on which then turned into a V-shape
+  3. **March 13, 1997**: Looked out her bedroom window over Phoenix and saw strange lights in the sky - a massive triangular array of lights moving silently but in unison as though they were connected
+- **Anonymity period:** Came forward after seven years of anonymity as a key witness to the still unexplained mass sighting
+- **Investigation:** Spent 10+ years documenting and investigating
+- **Book:** Published "The Phoenix Lights: A Skeptic's Discovery that We Are Not Alone" (2004)
+- **Documentary:** Produced and directed "The Phoenix Lights ... We Are Not Alone" (2005), which won BEST DOCUMENTARY at the International Sci-Fi Film Festival 2005
 - **Quote:** "I saw a craft of unknown origin"
-- Made documentary "The Phoenix Lights" (2005)
 
 **Tim Ley (Management consultant):**
 - Drove beneath craft in car
@@ -166,17 +175,27 @@ The next day, the military says: flares. And thus begins one of the most content
 **Event #2 (10 PM Lights): Military Flares**
 
 **Maryland ANG Official Explanation:**
-- 10:00 PM: A-10s dropped LUU-2B/B illumination flares
-- Location: Barry Goldwater Range (south of Phoenix)
-- Purpose: Training exercise
-- Flares drift on parachutes, burn for minutes
-- Formation matches witness videos
+- **Unit:** Maryland Air National Guard 104th Fighter Squadron
+- **Aircraft:** Eight A-10 ground attack jets (A-10 Warthogs)
+- **Location:** Davis-Monthan AFB (on training exercise)
+- **Mission:** Flew training sorties to the Barry M. Goldwater Air Force Range on March 13
+- **Time:** Approximately 10:00 PM
+- **Flares:** Dropped LUU-2B/B high-intensity illumination flares
+- **Purpose:** A-10s using flares over a bombing range south of Phoenix to illuminate the target area at the Barry M. Goldwater Air Force Range, 60 miles south-southwest of Phoenix
+- **Method:** Planes dropping flares from 15,000 feet
+- **Effect:** Flares drift on parachutes, burn for minutes, creating slow-falling, long-burning illumination
+- **Formation:** Matches witness videos of stationary lights
+- **Documentation:** A Maryland ANG history published in 2000 asserted that the 104th Fighter Squadron was responsible for the incident
 
 **Cogniaux Report (Air National Guard Investigation):**
-- Released months after incident
+- Released months after incident (July 1997)
 - Confirmed flare drop at 10 PM
 - Flight records, pilot logs support this
 - Timing, location match videos
+
+**LUU-2B/B Flare Analysis:**
+- An analysis of the luminosity of LUU-2B/B illumination flares (the type which would have been in use by A-10 aircraft at the time) determined that the luminosity of such flares at a range of approximately 50–70 miles would fall well within the range of the lights viewed from Phoenix
+- The flares would have been visible in Phoenix and appeared to hover due to rising heat from the burning flares creating a "balloon" effect on their parachutes, which slowed the descent
 
 **Why It Looks Strange:**
 - Flares dropping over mountains create horizon-level illusion
@@ -297,4 +316,6 @@ The Phoenix Lights are a perfect case study in how UFO sightings become legend. 
 **Related Episodes:** Ep 16 (Washington DC Flap), Ep 31 (O'Hare Airport)
 **X-Files Connection:** Mass sightings, government explanations
 
-**COMPLETE: ~3,500 words | 7 sources**
+**EPISODE COMPLETE: 2,482 words | 7 sources cited**
+
+*Deep research enhancement completed. Enhanced with comprehensive Fife Symington details (June 1997 alien costume press conference with chief-of-staff Jay Heiler, Arizona "on brink of hysteria" explanation, fraud charges context, 2007 National Press Club admission, massive delta-shaped craft over Squaw Peak), Dr. Lynne Kitei comprehensive background (Arizona Heart Institute Chief Clinical Consultant, three separate sightings 1995/Jan 1997/Mar 1997, 35mm photos of oval orbs, mile-wide V-formation filmed, seven years anonymity, 2004 book, 2005 award-winning documentary BEST DOCUMENTARY International Sci-Fi Film Festival), witness statistics (10% of Arizonans/Rocky Mountain Poll, tens/hundreds of thousands potential witnesses), detailed 300-mile corridor timeline (7:55 PM Henderson NV, 8:15 PM Paulden former police officer, 8:15-8:45 PM Prescott, 8:30 PM Phoenix/Tucson), Maryland Air National Guard comprehensive details (104th Fighter Squadron, eight A-10 Warthogs, Davis-Monthan AFB, Barry M. Goldwater Range 60 miles south-southwest, LUU-2B/B flares from 15,000 feet, July 1997 Cogniaux Report, 2000 ANG history documentation), LUU-2B/B luminosity analysis (50-70 miles range matches Phoenix visibility, balloon effect from rising heat slowing parachute descent).*

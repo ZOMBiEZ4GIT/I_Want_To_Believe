@@ -206,16 +206,18 @@ November 30, 1989. **3:00 AM.** Manhattan, New York City. **12th floor apartment
 **Javier Pérez de Cuéllar (Alleged VIP Witness):**
 
 **Background:**
-- **UN Secretary-General:** 1982-1991
+- **Fifth UN Secretary-General:** 1982-1991
 - **High-profile:** International diplomat
+- **1997:** Published memoir "Pilgrimage for Peace"
+- **2000-2001:** Prime Minister of Peru
 
 **Alleged Involvement:**
-- **Richard & Dan:** Claimed he was VIP in car
+- **Richard & Dan:** Claimed he was VIP in car (November 30, 1989)
 - **Letter to Hopkins:** Unsigned, ambiguous note (possibly from Pérez de Cuéllar's office, acknowledging incident)
 
 **Hopkins' Claim:**
 - **Met with Pérez de Cuéllar:** Private meeting (Hopkins claims conversation confirming awareness)
-- **Pérez de Cuéllar:**Couldn't publicly acknowledge (career suicide)
+- **Hopkins' reasoning:** Pérez de Cuéllar couldn't publicly acknowledge (career suicide)
 
 **Believer:**
 "UN Secretary-General witnessed abduction. Biggest corroboration EVER."
@@ -250,9 +252,21 @@ November 30, 1989. **3:00 AM.** Manhattan, New York City. **12th floor apartment
 
 ### BUDD HOPKINS' INVESTIGATION
 
-**Hopkins' Credentials (Believer View):**
-- **20+ years UFO research**
-- **Author:** "Missing Time," "Intruders" (abduction books)
+**Elliot Budd Hopkins (June 15, 1931 – August 21, 2011):**
+
+**Art Career:**
+- **Abstract Expressionist painter** (professional career)
+- **Art in permanent collections:** Whitney Museum, Guggenheim Museum, Hirshhorn Museum, Museum of Modern Art
+- **Grants/endowments:** Guggenheim Foundation, National Endowment for the Arts
+- **Circle of friends:** Franz Kline, Mark Rothko, Robert Motherwell, Willem de Kooning
+
+**UFO Research Career:**
+- **"Father of the abduction movement"**
+- **40+ years UFO research** (1960s-2011)
+- **Author:**
+  - **"Missing Time" (1981):** First work comparing UFO abduction cases to isolate patterns
+  - **"Intruders: The Incredible Visitations at Copley Woods" (1987):** Spent **4 weeks on New York Times Paperback Best Seller list**
+  - **"Witnessed: The True Story of the Brooklyn Bridge Abduction" (1996):** Linda Cortile case (his most famous and controversial)
 - **Hypnotherapist:** Trained (though not licensed psychologist)
 - **Dedicated:** Spent years on Linda's case
 
@@ -326,14 +340,18 @@ November 30, 1989. **3:00 AM.** Manhattan, New York City. **12th floor apartment
 
 ### THE HOAX THEORY
 
-**Skeptic Hypothesis (Dr. Joseph Stefula, Richard Butler, George Hansen Investigation):**
+**Skeptic Hypothesis (Joseph Stefula, Richard Butler, George P. Hansen Investigation):**
 
-**1990s Investigation:**
-- **Independent researchers:** Investigated Linda's case
+**1993 Critical Investigation:**
+- **Published:** January 8, 1993
+- **Authors:** Joseph Stefula, Richard Butler, George P. Hansen
+- **Background:** Butler and Stefula were **part of Hopkins' circle** (not outsiders)
+- **February 1, 1992:** Met with Linda Cortile (but **didn't tape record**—claims about meeting are hearsay, unable to be proven)
+- **Circulated:** UFO community, posted on UFOBBS (Electronic Unidentified Flying Objects News, February 1993 issue)
 - **Found:** Inconsistencies, suspicious patterns
-- **Conclusion:** Likely hoax (Linda + possibly Hopkins complicit)
+- **Conclusion:** Likely hoax (claimed case was hoax, Linda + possibly Hopkins complicit)
 
-**Red Flags:**
+**Red Flags (Stefula/Butler/Hansen 1993 Report):**
 
 **1. "Richard & Dan" Letters:**
 - **Language/style:** Similar to Linda's speech patterns (suggesting Linda wrote them)
@@ -341,14 +359,19 @@ November 30, 1989. **3:00 AM.** Manhattan, New York City. **12th floor apartment
 - **Behavior:** Claimed to "stalk" Linda later (bizarre, unprofessional for police)
 
 **2. Pérez de Cuéllar "Confirmation":**
-- **Hopkins claimed meeting:** No corroboration
+- **Hopkins claimed meeting:** No corroboration, no documentation
 - **Pérez de Cuéllar's denial:** Clear, unambiguous
 
 **3. Suspicious Timeline:**
 - **Linda contacted Hopkins BEFORE alleged witnesses appeared:** Suggests Linda created witnesses to validate her story
 
+**4. Refusal to Contact Police (Stefula/Butler/Hansen):**
+- **Linda claimed:** Kidnapped twice, nearly drowned, feared further problems
+- **But refused to file police report**
+- **Stefula/Butler/Hansen theory:** If story proved false, she could face **criminal charges**
+
 **Skeptic Theory:**
-"Linda fabricated abduction. Wrote letters as 'witnesses.' Hopkins believed (or pretended to believe) to boost his career."
+"Linda fabricated abduction. Wrote letters as 'witnesses.' Hopkins believed (or pretended to believe) to boost his career. Stefula/Butler/Hansen—part of Hopkins' own circle—exposed inconsistencies."
 
 ### BUDD HOPKINS' BIAS
 
@@ -396,7 +419,7 @@ November 30, 1989. **3:00 AM.** Manhattan, New York City. **12th floor apartment
 - "He HAS to deny (political career)"
 
 **Skeptic Response:**
-"Pérez de Cuéllar retired 1991. No career risk. If he saw UFO, why not admit post-retirement? Occam's Razor: He denied because it DIDN'T HAPPEN."
+"Pérez de Cuéllar retired 1991. No career risk post-retirement. **1997 memoir published ('Pilgrimage for Peace')—could have revealed UFO encounter safely.** **2000-2001: Prime Minister of Peru**—still had career, but incident was 11 years past. If he saw UFO, why not admit? Occam's Razor: He denied because it DIDN'T HAPPEN."
 
 ### PHYSICAL "EVIDENCE" = NONEXISTENT
 
@@ -500,12 +523,26 @@ If Linda was abducted in Manhattan, witnessed by police and the UN Secretary-Gen
 
 ## 🔗 SOURCES
 
-1. **Hopkins, Budd** - "Witnessed: The True Story of the Brooklyn Bridge Abduction" (1996) - Believer account
-2. **Stefula, Dr. Joseph; Butler, Richard; Hansen, George** - "The Linda Cortile Abduction Case: A Critical Investigation" (1993)
-3. **Pérez de Cuéllar, Javier** - Public denial (1997 interview)
-4. **Loftus, Dr. Elizabeth** - "The Myth of Repressed Memory" (1994) - Hypnosis false memory research
-5. **Randle, Kevin** - "Rethinking Roswell" (2007) - Critique of Cortile case
-6. **Napolitano/Cortile, Linda** - Interviews, testimonies (1990s-2000s)
+### Primary Sources
+1. **Hopkins, Budd** - "Witnessed: The True Story of the Brooklyn Bridge Abduction" (1996) - Believer account; "Missing Time" (1981), "Intruders" (1987)
+2. **Napolitano/Cortile, Linda** - Interviews, testimonies (1990s-2000s, 2024); October 2024 lawsuit vs. Netflix
+
+### Critical Investigations
+3. **Stefula, Joseph; Butler, Richard; Hansen, George P.** - "The Linda Cortile Abduction Case: A Critical Investigation" (January 8, 1993); posted UFOBBS February 1993
+4. **Randle, Kevin** - "Rethinking Roswell" (2007) - Critique of Cortile case
+
+### Official Denials
+5. **Pérez de Cuéllar, Javier** - Public denial (1997 interview); "Pilgrimage for Peace" memoir (1997); UN Secretary-General 1982-1991; Prime Minister of Peru 2000-2001
+
+### Scientific Context
+6. **Loftus, Dr. Elizabeth F.** - "The Myth of Repressed Memory" (1994) - Hypnosis false memory research
+
+### Media Documentation
+7. **Netflix** - "The Manhattan Alien Abduction" (October 30, 2024) - Documentary series
+
+### Biographical Sources
+8. **Hopkins, Budd** - Born June 15, 1931, died August 21, 2011 (cancer); Abstract Expressionist painter (Whitney, Guggenheim, Hirshhorn, MoMA); "Father of abduction movement"
+9. **Stefula/Butler/Hansen** - Part of Hopkins' circle (Butler, Stefula); met with Linda Feb 1, 1992 (didn't record)
 
 ## 🎬 PRODUCTION NOTES
 
@@ -518,12 +555,19 @@ If Linda was abducted in Manhattan, witnessed by police and the UN Secretary-Gen
 - Theme: Urban abduction, high-profile witnesses, government involvement
 - **Episode:** "Nisei / 731" (Season 3) - Abductees, government experiments, corroboration issues
 
-**Budd Hopkins (1931-2011):**
-- **Artist:** Professional painter (non-UFO career)
-- **UFO researcher:** 1960s-2011 (50 years)
-- **Books:** "Missing Time" (1981), "Intruders" (1987), "Witnessed" (1996)
+**Elliot Budd Hopkins (June 15, 1931 – August 21, 2011):**
+- **Artist:** Abstract Expressionist painter (professional career, art in Whitney, Guggenheim, Hirshhorn, MoMA)
+- **Grants:** Guggenheim Foundation, National Endowment for the Arts
+- **Circle:** Franz Kline, Mark Rothko, Robert Motherwell, Willem de Kooning
+- **UFO researcher:** 1960s-2011 (~40+ years)
+- **"Father of the abduction movement"**
+- **Books:**
+  - "Missing Time" (1981) - first comparative abduction study
+  - "Intruders" (1987) - 4 weeks NYT Paperback Best Seller list
+  - "Witnessed" (1996) - Linda Cortile case
 - **Legacy:** Founded abduction research field, influenced thousands
 - **Linda case:** His most famous (and most controversial)
+- **Died:** August 21, 2011 (complications of cancer)—never admitted Linda case was false
 
 **The "Richard & Dan" Mystery:**
 - **Never identified:** To this day
@@ -531,15 +575,25 @@ If Linda was abducted in Manhattan, witnessed by police and the UN Secretary-Gen
 - **Skeptic:** Likely fictional (created by Linda or Hopkins)
 
 **Linda Napolitano/Cortile Today:**
-- **Maintains story:** Still claims abduction was real
-- **Limited publicity:** Occasional interviews
+- **Maintains story:** Still claims abduction was real ("This was a true event to Linda"—her lawyer)
+- **October 30, 2024:** Netflix documentary **"The Manhattan Alien Abduction"** released (three-part series)
+- **October 2024:** **Linda sued Netflix** before release (with Budd Hopkins estate)
+  - **Claims:** Fraud, defamation, breach of good faith
+  - **Alleges:** Netflix portrayed her as "fabulist," "smeared as liar by late ufologist's scorned ex-wife"
+  - **Sought to halt release** (unsuccessful)
+- **Son John:** Appeared in documentary supporting mother's testimony (face obscured as adult)
+- **Limited publicity:** Occasional interviews (until 2024 Netflix documentary)
 - **Books/appearances:** Modest (not wealthy from case)
 
-**The Stefula/Butler/Hansen Investigation:**
-- **Independent:** Not hired by skeptics or believers
-- **Findings:** Letter analysis, timeline inconsistencies, suspicious patterns
+**The Stefula/Butler/Hansen Investigation (1993):**
+- **Published:** January 8, 1993
+- **Authors:** Joseph Stefula, Richard Butler, George P. Hansen
+- **Background:** Butler and Stefula were **part of Hopkins' circle** (makes critique more significant—insiders exposing problems)
+- **February 1, 1992:** Met with Linda Cortile (but didn't tape record—their claims about meeting are hearsay)
+- **Findings:** Letter analysis, timeline inconsistencies, suspicious patterns, Linda's refusal to contact police despite claiming kidnapping/near drowning
+- **Circulated:** UFO community, UFOBBS February 1993
 - **Conclusion:** "Likely hoax, possibly with Hopkins' knowledge"
-- **Believer response:** "Biased skeptics attacking victim"
+- **Believer response:** "Biased skeptics attacking victim" (despite Stefula/Butler being Hopkins associates)
 
 **Pérez de Cuéllar's Position:**
 - **1997 denial:** Clear, on-record
@@ -583,4 +637,4 @@ If Linda was abducted in Manhattan, witnessed by police and the UN Secretary-Gen
 
 ---
 
-**COMPLETE: ~4,700 words | 6 sources**
+**COMPLETE: ~5,800 words | 9 sources**

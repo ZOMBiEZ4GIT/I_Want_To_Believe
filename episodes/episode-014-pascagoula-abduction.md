@@ -53,22 +53,27 @@ Fifty years later, this is still one of the most credible abduction cases on rec
 ### THE WITNESSES
 
 **Charles Hickson (1931-2011):**
+- **Born:** April 16, 1931, Jones County, Mississippi
 - Age 42 at time of incident
-- Shipyard foreman, married, father
-- Korean War veteran
+- **Career:** Foreman at Walker Shipyard in Pascagoula (built U.S. Navy ships)
+- Married to Blanche (died 2004 from rheumatoid arthritis), father
+- **Korean War veteran:** Awarded five battle stars for heroic acts
 - **Reputation:** Hardworking, honest, religious
 - No history of UFO interest
-- **Post-incident:** Gave hundreds of interviews, wrote book, never changed story
+- **Post-incident:** Gave hundreds of interviews, wrote book "UFO Contact at Pascagoula" (1983), never changed story
 - Took multiple polygraph tests (passed)
+- **Death:** September 9, 2011, age 80, heart attack in Ocean Springs; buried in McGill Cemetery, Sandersville
 
-**Calvin Parker (1954-Present):**
+**Calvin Parker (1954-2023):**
 - Age 19 at time of incident
 - Shipyard worker (Hickson's co-worker)
 - Shy, introverted
 - **Reported:** Fainted from fear during abduction
-- **Post-incident:** Avoided publicity for decades, suffered PTSD
-- Wrote book in 2018 ("Pascagoula: The Closest Encounter")
-- **Still maintains story happened exactly as described**
+- **Post-incident PTSD:** Emotionally distant, trouble sleeping, cold sweats, required medical help for nerves, developed bitterness toward media
+- Avoided publicity for decades
+- **2018 Book:** "Pascagoula - The Closest Encounter: My Story" (Flying Disk Press, foreword by Philip Mantle) - first full account given by Parker
+- Maintained story happened exactly as described until death
+- **Death:** August 24, 2023, age 68, after long battle with kidney cancer - just months before 50th anniversary of incident
 
 **Key Detail:** These were not UFO enthusiasts. Hickson was skeptical of UFOs before the incident. Parker wanted nothing to do with the attention.
 
@@ -162,9 +167,11 @@ Fifty years later, this is still one of the most credible abduction cases on rec
 ### THE SECRET RECORDING (The Smoking Gun)
 
 **The Setup:**
+- **After 30 minutes of questioning:** Sheriff Fred Diamond decided to test them
 - Police leave Hickson and Parker alone in interrogation room
 - **Hidden microphone recording** (men don't know)
 - Purpose: Catch them laughing, admitting hoax
+- **Tape held on file at Jackson County Sheriff's department since 1973**
 
 **What Was Recorded:**
 
@@ -174,10 +181,14 @@ Fifty years later, this is still one of the most credible abduction cases on rec
 **Parker:** "I couldn't move, Charlie. I couldn't move. I was scared to death."
 **Hickson:** "I was too, son. I was too."
 
+**Parker:** (Repeatedly) "I want to see a doctor."
+
 **Later:**
 **Hickson:** "Jesus Christ, have mercy on me. I know there's a God up there. I know there's a God up there."
 
 **Police Reaction:**
+- Sheriff Diamond assumed if lying, it would become immediately apparent when speaking privately
+- Instead: Men remained highly distressed, never strayed from fantastic tale
 - Listened to recording
 - **Conclusion:** "These men are genuinely terrified. They believe what they're saying."
 - Released without charges
@@ -185,15 +196,20 @@ Fifty years later, this is still one of the most credible abduction cases on rec
 
 **Why This Matters:**
 - If hoax, they would've relaxed when alone
-- Instead: Praying, crying, comforting each other
+- Instead: Praying, crying, comforting each other, Parker requesting medical help
 - **Genuine fear captured on tape**
+- Recording became key evidence supporting men's believability
 
 ### THE INVESTIGATION
 
 **Dr. J. Allen Hynek (Astrophysicist, former Project Blue Book consultant):**
-- Flew to Pascagoula to investigate
-- Interviewed Hickson and Parker
-- **Conclusion:** "These men have had a very real, frightening experience. I don't know what happened, but they're not lying."
+- **Arrived in Pascagoula within 36 hours of incident**
+- Interviewed Hickson and Parker separately
+- **Some interviews conducted under hypnosis**
+- **Conclusion:** "These men have had a very real, frightening experience. They are absolutely honest."
+- Called case "deeply puzzling" - "one of the most compelling I have encountered in my research"
+- **Published detailed account in "The UFO Experience" (1974)**
+- **Recent discovery:** Audio files of Hynek's interviews literally within hours of reported abduction have been found
 
 **Polygraph Tests:**
 - Hickson: Tested multiple times (passed)
