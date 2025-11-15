@@ -45,6 +45,8 @@ This episode explores both sides of the Roswell story with the depth it deserves
 
 Roswell matters because it's where modern UFO mythology was born. It's where "government cover-up" became part of the American lexicon. It's where we learned to distrust official explanations. And whether the crashed object was alien, Soviet, or American, Roswell changed us forever.
 
+**Episode Connections:** Roswell sits at the center of modern UFO culture. To fully understand this incident, you'll want context from **Episode 21** (Kenneth Arnold's "flying saucer" sighting just weeks before Roswell, which created the cultural moment) and **Episode 33** (Project Sign, the first official government investigation that followed). The government's handling of Roswell directly led to **Episodes 3** (Project Blue Book), **40** (Project Grudge), **54** (The Robertson Panel), and **47** (The Condon Report) - a decades-long pattern of official UFO investigations. Believers claim the recovered craft ended up at **Episode 9** (Bob Lazar's Area 51 S-4 facility), while alleged documentation surfaces in **Episode 17** (Majestic 12). Roswell spawned copycat incidents like **Episode 64** (The Aztec UFO Hoax) and even fake evidence like **Episode 82** (The Roswell Alien Autopsy Film). Everything else in this podcast series exists in Roswell's shadow.
+
 ---
 
 ## 👽 THE BELIEVER'S CASE (25 minutes)
@@ -876,13 +878,30 @@ The real disclosure isn't buried in the New Mexico desert. It's happening right 
 - **Animation of balloon trajectory** - Show how Mogul Flight #4 could have reached the site
 
 ### Related Episodes
-- **Before this:** None - this is Episode 1!
-- **After this:** Episode 2 (Betty & Barney Hill) - Roswell establishes government cover-ups; Hill establishes the alien abduction narrative
-- **Thematic connections:**
-  - Episode 3 (Project Blue Book) - Government UFO investigations
-  - Episode 9 (Bob Lazar & Area 51) - The "aliens stored at military base" mythology
-  - Episode 17 (Majestic 12) - Alleged secret government UFO program tied to Roswell
-  - Episode 82 (Roswell Alien Autopsy Film) - The 1995 hoax video
+
+**Prerequisite Episodes** (listen to these first for context):
+- **Episode 21: Kenneth Arnold's "Flying Saucers"** - On June 24, 1947, Arnold's sighting created the term "flying saucer" and sparked nationwide UFO mania. Two weeks later, something crashed in Roswell. Understanding the cultural moment Arnold created is essential - America was already primed for flying saucers when Roswell happened.
+
+**Follow-Up Episodes** (the direct consequences of Roswell):
+- **Episode 33: Project Sign (1947-1949)** - Immediately after Roswell, the Air Force launched Project Sign to investigate UFO reports. Some Sign personnel believed UFOs were extraterrestrial - a conclusion that was suppressed, leading to...
+- **Episode 40: Project Grudge (1949-1952)** - The "dark ages" of UFO investigation where the military actively debunked reports, followed by...
+- **Episode 3: Project Blue Book (1952-1969)** - The longest-running official investigation, which ultimately concluded UFOs weren't a threat (but many believe this was the cover-up's final form)
+- **Episode 54: The Robertson Panel (1953)** - CIA-convened panel that recommended debunking UFOs as policy - the blueprint for decades of government denial
+- **Episode 47: The Condon Report (1968-1969)** - The University of Colorado study that "closed the book" on UFOs officially... but convinced almost no one
+
+**Thematic Connections** (Roswell's echoes):
+- **Episode 9: Bob Lazar & Area 51** - Lazar claimed to have worked on recovered alien craft at S-4 near Area 51. If Roswell was real, this is allegedly where the wreckage ended up. Lazar's story is Roswell's logical continuation.
+- **Episode 17: Majestic 12 Documents** - Alleged top-secret documents describing a government group formed to handle the Roswell crash. Most researchers (even believers) think MJ-12 docs are forged, but they're Roswell fan fiction that became UFO legend.
+- **Episode 64: The Aztec UFO Hoax** - A 1948 crashed saucer story that tried to be "the next Roswell" but was quickly exposed as fraud. Shows how Roswell created a template others tried to exploit.
+- **Episode 82: The Roswell Alien Autopsy Film** - The infamous 1995 hoax video claiming to show Roswell alien bodies being autopsied. Eventually admitted to be fake, but millions believed it for years.
+
+**Contrasting Cases** (for perspective):
+- **Episode 2: Betty & Barney Hill Abduction** - While Roswell is about crashed saucers and government cover-ups, the Hill case is about direct alien contact with civilians. Together, these two episodes form the foundation of modern UFO culture: Roswell (government knows), Hill (they're taking people).
+- **Episode 13: The Tic Tac UAP** - Fast forward to 2004: Navy pilots encounter unidentified craft, Pentagon eventually confirms it. Unlike Roswell (buried for decades), Tic Tac represents modern disclosure. Compare how government handled these incidents 57 years apart.
+
+**Modern Context:**
+- **Episode 60: David Grusch Whistleblower** - In 2023, an intelligence officer testified to Congress that the U.S. has a "multi-decade crash retrieval program." If true, it started with Roswell.
+- **Episode 100: Future of UFO Research** - Where do we go from here? Roswell remains unsolved after 75+ years. What would it take to finally get the truth?
 
 ### X-Files Connection
 - **Relevant episodes:**

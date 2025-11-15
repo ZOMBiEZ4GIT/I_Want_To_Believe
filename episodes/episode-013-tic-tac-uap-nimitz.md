@@ -48,6 +48,8 @@ Minutes later, it appears 60 miles away. At the exact coordinates they were head
 
 **2023 Update:** Congressional hearings; Fravor testifies under oath; UAP now mainstream topic
 
+**Episode Connections:** The Tic Tac encounter represents the watershed moment for modern UFO disclosure. Unlike **Episode 1** (Roswell, buried for decades), Tic Tac eventually became public with Pentagon confirmation. This case ended the government's **Episode 3** (Project Blue Book)-era denials and launched modern transparency via **Episode 79** (UAPTF) and **Episode 89** (AARO Reports). The 2017 revelation included two other UAP videos covered in **Episode 48** (Gimbal & GoFast), all part of the Pentagon's **Episode 75** (Pentagon UAP Videos) release. Commander Fravor's 2023 Congressional testimony alongside **Episode 60** (David Grusch whistleblower) marked UFOs going fully mainstream. For historical context on credible military encounters, compare to **Episode 41** (JAL Flight 1628), **Episode 88** (Tehran UFO), **Episode 91** (Coyne Helicopter), and **Episode 93** (RB-47 Radar-Visual). The Tic Tac's physics-defying maneuvers and radar confirmation set it apart from older cases investigated by **Episode 47** (Condon Report) or explained away by **Episode 54** (Robertson Panel). This is the case that changed everything - see **Episode 100** (Future of UFO Research) for where disclosure goes from here.
+
 ---
 
 ## 👽 BELIEVER'S CASE (25 min)
