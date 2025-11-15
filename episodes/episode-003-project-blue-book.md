@@ -46,6 +46,8 @@ This episode covers:
 - Why the Condon Report killed Blue Book
 - What 701 "unidentified" cases actually means
 
+**Episode Connections:** Project Blue Book sits at the center of government UFO investigations. It exists because of **Episode 1** (Roswell) and **Episode 21** (Kenneth Arnold) - when flying saucers became a national phenomenon in 1947, the military had to respond. Blue Book evolved from **Episode 33** (Project Sign, 1947-1949), which was replaced by **Episode 40** (Project Grudge, 1949-1952) after Sign personnel concluded UFOs might be extraterrestrial. Blue Book investigated many cases we cover individually: **Episode 16** (Washington D.C. Flap), **Episode 24** (Socorro/Lonnie Zamora), **Episode 71** (Lubbock Lights), **Episode 72** (Exeter Incident), and **Episode 93** (RB-47 Radar-Visual). The program was heavily influenced by **Episode 54** (The Robertson Panel, 1953), which recommended debunking as policy, and was ultimately killed by **Episode 47** (The Condon Report, 1968-1969). Blue Book's closure didn't end government UFO interest—modern programs include **Episode 79** (UAPTF) and **Episode 89** (AARO). For individual investigators' perspectives, see **Episode 74** (Gordon Cooper's experiences as an astronaut who reported to Blue Book) and **Episode 77** (Edgar Mitchell's post-NASA alien beliefs).
+
 ---
 
 ## 👽 THE BELIEVER'S CASE (25 minutes)
