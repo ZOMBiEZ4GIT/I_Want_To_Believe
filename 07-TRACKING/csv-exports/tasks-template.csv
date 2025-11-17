@@ -1,0 +1,31 @@
+Task Name,Task Type,Brain State,XP Value,Time Required,Category,Repeatable,Difficulty
+Read one episode brief,5-Minute,Low Energy,10,5,Prep,true,Easy
+Update completion tracker,5-Minute,Low Energy,5,5,Admin,true,Easy
+Browse episode list,5-Minute,Zero Focus,5,5,Planning,true,Easy
+Practice one pronunciation,5-Minute,Low Energy,10,5,Prep,true,Easy
+Update progress visualization,5-Minute,Low Energy,5,5,Admin,true,Easy
+Organize one folder,5-Minute,Low Energy,5,5,Admin,true,Easy
+Check equipment battery,5-Minute,Low Energy,5,5,Admin,true,Easy
+Write down tomorrow's task,5-Minute,Zero Focus,5,5,Planning,true,Easy
+Quick vocal warmup,5-Minute,Low Energy,5,5,Skill-Building,true,Easy
+Test microphone levels,5-Minute,Low Energy,5,5,Prep,true,Easy
+Read episode brief + recording notes,15-Minute,Medium Energy,25,15,Prep,true,Easy
+Mark up recording notes,15-Minute,Medium Energy,15,15,Prep,true,Medium
+Record cold open,15-Minute,Medium Energy,20,15,Production,true,Medium
+Record outro,15-Minute,Medium Energy,10,15,Production,true,Easy
+Edit one section,15-Minute,Medium Energy,30,15,Post-Production,true,Medium
+Plan next episode,15-Minute,Medium Energy,15,15,Planning,true,Easy
+Write show notes,15-Minute,Medium Energy,10,15,Post-Production,true,Easy
+Create social media post,15-Minute,Low Energy,10,15,Post-Production,true,Easy
+Watch one editing tutorial,15-Minute,Medium Energy,15,15,Skill-Building,true,Easy
+Practice character voices,15-Minute,Medium Energy,10,15,Skill-Building,true,Medium
+Record believer section,1-Hour,High Energy,30,60,Production,true,Hard
+Record skeptic section,1-Hour,High Energy,30,60,Production,true,Hard
+Record your take section,1-Hour,High Energy,20,60,Production,true,Medium
+Complete episode edit,1-Hour,High Energy,50,60,Post-Production,true,Hard
+Record full episode,1-Hour,High Energy,100,60,Production,true,Hard
+Deep research session,1-Hour,High Energy,25,60,Prep,true,Medium
+Batch prep 3 episodes,1-Hour,High Energy,50,60,Planning,true,Medium
+Master and export episode,1-Hour,Medium Energy,25,60,Post-Production,true,Medium
+Create episode artwork,1-Hour,Medium Energy,20,60,Post-Production,false,Medium
+Set up podcast hosting,1-Hour,Medium Energy,30,60,Admin,false,Hard

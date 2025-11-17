@@ -1,0 +1,31 @@
+Achievement Name,Type,Badge Emoji,XP Bonus,Requirements,Target,Tier
+First Episode,Milestone,🎙️,50,Complete and publish Episode 1,1,Bronze
+Trifecta,Milestone,🎙️🎙️🎙️,75,Complete 3 episodes,3,Bronze
+Double Digits,Milestone,🎙️ x10,150,Complete 10 episodes,10,Silver
+Quarter Century,Milestone,🎉,250,Complete 25 episodes,25,Gold
+Halfway Hero,Milestone,🏆,500,Complete 50 episodes,50,Platinum
+Three-Quarter Champion,Milestone,🎯,750,Complete 75 episodes,75,Platinum
+Legendary Complete,Milestone,👑,1000,Complete ALL 100 episodes,100,Legend
+Hot Streak,Streak,🔥,100,Work on podcast 7 days in a row,7,Bronze
+On Fire,Streak,🔥🔥,200,Work on podcast 14 days in a row,14,Silver
+Unstoppable,Streak,🔥🔥🔥,500,Work on podcast 30 days in a row,30,Gold
+Voice Actor,Skill,🎭,100,Master character voices in 5+ episodes,5,Silver
+Editing Ninja,Skill,✂️,100,Cut editing time in half from Episode 1,1,Silver
+Research Master,Skill,📝,150,Deep-dive additional research 3+ times,3,Gold
+Hyperfocus Hero,Skill,⚡,200,Record 2 complete episodes in one day,2,Gold
+Sound Designer,Skill,🎵,100,Implement advanced audio effects/music,1,Silver
+First Perfect Episode,Quality,⭐⭐⭐⭐⭐,50,Self-rate an episode 5/5,1,Bronze
+Perfectionist Defeated,Quality,🎯,75,Publish episode without excessive re-recording,1,Silver
+Deadline Warrior,Quality,⏰,100,Complete episode on self-imposed deadline despite difficulties,1,Silver
+Overcame Block,Comeback,💪,100,Complete episode after 2+ weeks of struggle,1,Silver
+Comeback Kid,Comeback,🔄,150,Return and complete episode after extended break,1,Gold
+ADHD Champion,Special,🧠,300,Complete 10 episodes using ADHD strategies,10,Platinum
+Week Warrior,Special,📅,100,Complete planned episodes for the week,1,Bronze
+Month Master,Special,📆,250,Complete 4+ episodes in one month,4,Gold
+Speed Demon,Special,⚡⚡,150,Complete episode in under 3 hours total time,1,Gold
+Quality King,Special,👑,200,Get 3 episodes rated 5/5 in a row,3,Platinum
+Consistent Creator,Special,🎯,300,Publish episode every week for a month,4,Platinum
+Research Rabbit Hole,Special,🐰,100,Spend 5+ hours on deep research for one episode,1,Silver
+Early Bird,Special,🌅,50,Record episode before 9 AM,1,Bronze
+Night Owl,Special,🦉,50,Record episode after 9 PM,1,Bronze
+Weekend Warrior,Special,🏃,100,Complete full episode on weekend,1,Silver
